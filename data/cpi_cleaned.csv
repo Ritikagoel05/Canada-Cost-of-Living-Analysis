@@ -1,0 +1,4876 @@
+Product,Date,CPI_Value
+Food and energy 9,January 2015,139.0
+Fresh fruit and vegetables,January 2015,129.9
+Energy 9,January 2015,139.5
+Food and energy 9,February 2015,141.0
+Fresh fruit and vegetables,February 2015,130.3
+Energy 9,February 2015,145.1
+Food and energy 9,March 2015,142.5
+Fresh fruit and vegetables,March 2015,128.3
+Energy 9,March 2015,149.8
+Food and energy 9,April 2015,141.9
+Fresh fruit and vegetables,April 2015,124.5
+Energy 9,April 2015,148.1
+Food and energy 9,May 2015,144.2
+Fresh fruit and vegetables,May 2015,130.1
+Energy 9,May 2015,152.4
+Food and energy 9,June 2015,145.9
+Fresh fruit and vegetables,June 2015,129.2
+Energy 9,June 2015,157.5
+Food and energy 9,July 2015,146.3
+Fresh fruit and vegetables,July 2015,130.3
+Energy 9,July 2015,159.2
+Food and energy 9,August 2015,145.3
+Fresh fruit and vegetables,August 2015,124.9
+Energy 9,August 2015,156.1
+Food and energy 9,September 2015,142.9
+Fresh fruit and vegetables,September 2015,124.0
+Energy 9,September 2015,149.3
+Food and energy 9,October 2015,142.4
+Fresh fruit and vegetables,October 2015,126.0
+Energy 9,October 2015,146.6
+Food and energy 9,November 2015,143.0
+Fresh fruit and vegetables,November 2015,132.5
+Energy 9,November 2015,146.5
+Food and energy 9,December 2015,142.6
+Fresh fruit and vegetables,December 2015,139.0
+Energy 9,December 2015,143.4
+Food and energy 9,January 2016,142.7
+Fresh fruit and vegetables,January 2016,150.3
+Energy 9,January 2016,139.0
+Food and energy 9,February 2016,141.6
+Fresh fruit and vegetables,February 2016,151.1
+Energy 9,February 2016,134.6
+Food and energy 9,March 2016,142.4
+Fresh fruit and vegetables,March 2016,145.2
+Energy 9,March 2016,138.1
+Food and energy 9,April 2016,143.5
+Fresh fruit and vegetables,April 2016,138.7
+Energy 9,April 2016,143.4
+Food and energy 9,May 2016,144.2
+Fresh fruit and vegetables,May 2016,134.4
+Energy 9,May 2016,146.9
+Food and energy 9,June 2016,145.1
+Fresh fruit and vegetables,June 2016,135.4
+Energy 9,June 2016,150.6
+Food and energy 9,July 2016,144.3
+Fresh fruit and vegetables,July 2016,133.5
+Energy 9,July 2016,147.4
+Food and energy 9,August 2016,143.5
+Fresh fruit and vegetables,August 2016,126.3
+Energy 9,August 2016,147.0
+Food and energy 9,September 2016,142.4
+Fresh fruit and vegetables,September 2016,121.6
+Energy 9,September 2016,147.3
+Food and energy 9,October 2016,142.9
+Fresh fruit and vegetables,October 2016,119.2
+Energy 9,October 2016,150.2
+Food and energy 9,November 2016,142.4
+Fresh fruit and vegetables,November 2016,126.5
+Energy 9,November 2016,146.8
+Food and energy 9,December 2016,143.1
+Fresh fruit and vegetables,December 2016,127.7
+Energy 9,December 2016,149.1
+Food and energy 9,January 2017,145.6
+Fresh fruit and vegetables,January 2017,130.3
+Energy 9,January 2017,155.8
+Food and energy 9,February 2017,144.4
+Fresh fruit and vegetables,February 2017,130.4
+Energy 9,February 2017,151.1
+Food and energy 9,March 2017,144.1
+Fresh fruit and vegetables,March 2017,129.0
+Energy 9,March 2017,149.8
+Food and energy 9,April 2017,146.5
+Fresh fruit and vegetables,April 2017,130.3
+Energy 9,April 2017,157.2
+Food and energy 9,May 2017,145.6
+Fresh fruit and vegetables,May 2017,135.5
+Energy 9,May 2017,151.8
+Food and energy 9,June 2017,145.0
+Fresh fruit and vegetables,June 2017,137.8
+Energy 9,June 2017,148.7
+Food and energy 9,July 2017,145.2
+Fresh fruit and vegetables,July 2017,138.5
+Energy 9,July 2017,147.8
+Food and energy 9,August 2017,145.6
+Fresh fruit and vegetables,August 2017,132.0
+Energy 9,August 2017,150.4
+Food and energy 9,September 2017,145.9
+Fresh fruit and vegetables,September 2017,124.9
+Energy 9,September 2017,154.5
+Food and energy 9,October 2017,144.6
+Fresh fruit and vegetables,October 2017,120.3
+Energy 9,October 2017,151.7
+Food and energy 9,November 2017,147.2
+Fresh fruit and vegetables,November 2017,128.2
+Energy 9,November 2017,157.9
+Food and energy 9,December 2017,146.9
+Fresh fruit and vegetables,December 2017,132.9
+Energy 9,December 2017,155.8
+Food and energy 9,January 2018,148.9
+Fresh fruit and vegetables,January 2018,138.2
+Energy 9,January 2018,159.5
+Food and energy 9,February 2018,148.9
+Fresh fruit and vegetables,February 2018,135.9
+Energy 9,February 2018,159.1
+Food and energy 9,March 2018,149.1
+Fresh fruit and vegetables,March 2018,132.7
+Energy 9,March 2018,161.0
+Food and energy 9,April 2018,151.3
+Fresh fruit and vegetables,April 2018,132.3
+Energy 9,April 2018,167.1
+Food and energy 9,May 2018,151.8
+Fresh fruit and vegetables,May 2018,133.4
+Energy 9,May 2018,169.4
+Food and energy 9,June 2018,151.8
+Fresh fruit and vegetables,June 2018,138.5
+Energy 9,June 2018,167.2
+Food and energy 9,July 2018,152.7
+Fresh fruit and vegetables,July 2018,140.8
+Energy 9,July 2018,168.8
+Food and energy 9,August 2018,152.0
+Fresh fruit and vegetables,August 2018,136.0
+Energy 9,August 2018,167.2
+Food and energy 9,September 2018,151.1
+Fresh fruit and vegetables,September 2018,130.9
+Energy 9,September 2018,166.3
+Food and energy 9,October 2018,150.1
+Fresh fruit and vegetables,October 2018,128.3
+Energy 9,October 2018,163.7
+Food and energy 9,November 2018,148.8
+Fresh fruit and vegetables,November 2018,136.2
+Energy 9,November 2018,155.8
+Food and energy 9,December 2018,148.2
+Fresh fruit and vegetables,December 2018,146.2
+Energy 9,December 2018,150.1
+Food and energy 9,January 2019,148.6
+Fresh fruit and vegetables,January 2019,147.9
+Energy 9,January 2019,148.5
+Food and energy 9,February 2019,149.5
+Fresh fruit and vegetables,February 2019,149.0
+Energy 9,February 2019,150.1
+Food and energy 9,March 2019,152.1
+Fresh fruit and vegetables,March 2019,149.3
+Energy 9,March 2019,159.1
+Food and energy 9,April 2019,154.3
+Fresh fruit and vegetables,April 2019,147.5
+Energy 9,April 2019,168.2
+Food and energy 9,May 2019,155.1
+Fresh fruit and vegetables,May 2019,147.1
+Energy 9,May 2019,169.2
+Food and energy 9,June 2019,153.4
+Fresh fruit and vegetables,June 2019,153.5
+Energy 9,June 2019,160.3
+Food and energy 9,July 2019,154.9
+Fresh fruit and vegetables,July 2019,152.5
+Energy 9,July 2019,163.4
+Food and energy 9,August 2019,153.4
+Fresh fruit and vegetables,August 2019,146.2
+Energy 9,August 2019,159.3
+Food and energy 9,September 2019,152.6
+Fresh fruit and vegetables,September 2019,141.0
+Energy 9,September 2019,158.7
+Food and energy 9,October 2019,152.4
+Fresh fruit and vegetables,October 2019,138.3
+Energy 9,October 2019,158.9
+Food and energy 9,November 2019,153.1
+Fresh fruit and vegetables,November 2019,145.8
+Energy 9,November 2019,158.1
+Food and energy 9,December 2019,153.7
+Fresh fruit and vegetables,December 2019,153.7
+Energy 9,December 2019,158.3
+Food and energy 9,January 2020,154.9
+Fresh fruit and vegetables,January 2020,155.5
+Energy 9,January 2020,158.6
+Food and energy 9,February 2020,153.9
+Fresh fruit and vegetables,February 2020,151.4
+Energy 9,February 2020,156.6
+Food and energy 9,March 2020,149.4
+Fresh fruit and vegetables,March 2020,146.4
+Energy 9,March 2020,140.6
+Food and energy 9,April 2020,146.8
+Fresh fruit and vegetables,April 2020,150.8
+Energy 9,April 2020,128.3
+Food and energy 9,May 2020,149.5
+Fresh fruit and vegetables,May 2020,148.2
+Energy 9,May 2020,137.0
+Food and energy 9,June 2020,152.4
+Fresh fruit and vegetables,June 2020,152.5
+Energy 9,June 2020,146.2
+Food and energy 9,July 2020,153.6
+Fresh fruit and vegetables,July 2020,155.6
+Energy 9,July 2020,149.7
+Food and energy 9,August 2020,152.5
+Fresh fruit and vegetables,August 2020,150.7
+Energy 9,August 2020,149.3
+Food and energy 9,September 2020,151.8
+Fresh fruit and vegetables,September 2020,145.9
+Energy 9,September 2020,149.8
+Food and energy 9,October 2020,152.2
+Fresh fruit and vegetables,October 2020,148.3
+Energy 9,October 2020,149.4
+Food and energy 9,November 2020,152.5
+Fresh fruit and vegetables,November 2020,150.0
+Energy 9,November 2020,149.1
+Food and energy 9,December 2020,153.2
+Fresh fruit and vegetables,December 2020,150.4
+Energy 9,December 2020,152.0
+Food and energy 9,January 2021,154.8
+Fresh fruit and vegetables,January 2021,154.3
+Energy 9,January 2021,154.3
+Food and energy 9,February 2021,157.0
+Fresh fruit and vegetables,February 2021,156.5
+Energy 9,February 2021,160.4
+Food and energy 9,March 2021,158.8
+Fresh fruit and vegetables,March 2021,150.8
+Energy 9,March 2021,167.4
+Food and energy 9,April 2021,159.5
+Fresh fruit and vegetables,April 2021,146.0
+Energy 9,April 2021,170.2
+Food and energy 9,May 2021,161.2
+Fresh fruit and vegetables,May 2021,149.0
+Energy 9,May 2021,173.2
+Food and energy 9,June 2021,161.8
+Fresh fruit and vegetables,June 2021,149.0
+Energy 9,June 2021,174.7
+Food and energy 9,July 2021,163.6
+Fresh fruit and vegetables,July 2021,148.5
+Energy 9,July 2021,179.2
+Food and energy 9,August 2021,164.2
+Fresh fruit and vegetables,August 2021,147.0
+Energy 9,August 2021,180.2
+Food and energy 9,September 2021,164.5
+Fresh fruit and vegetables,September 2021,144.3
+Energy 9,September 2021,179.9
+Food and energy 9,October 2021,167.0
+Fresh fruit and vegetables,October 2021,144.5
+Energy 9,October 2021,187.5
+Food and energy 9,November 2021,168.4
+Fresh fruit and vegetables,November 2021,153.0
+Energy 9,November 2021,188.4
+Food and energy 9,December 2021,167.9
+Fresh fruit and vegetables,December 2021,156.9
+Energy 9,December 2021,184.2
+Food and energy 9,January 2022,171.1
+Fresh fruit and vegetables,January 2022,161.1
+Energy 9,January 2022,190.0
+Food and energy 9,February 2022,175.1
+Fresh fruit and vegetables,February 2022,162.4
+Energy 9,February 2022,199.0
+Food and energy 9,March 2022,180.3
+Fresh fruit and vegetables,March 2022,160.7
+Energy 9,March 2022,213.9
+Food and energy 9,April 2022,181.7
+Fresh fruit and vegetables,April 2022,159.1
+Energy 9,April 2022,215.1
+Food and energy 9,May 2022,187.6
+Fresh fruit and vegetables,May 2022,165.0
+Energy 9,May 2022,233.4
+Food and energy 9,June 2022,190.1
+Fresh fruit and vegetables,June 2022,163.6
+Energy 9,June 2022,242.5
+Food and energy 9,July 2022,187.7
+Fresh fruit and vegetables,July 2022,163.5
+Energy 9,July 2022,229.4
+Food and energy 9,August 2022,184.8
+Fresh fruit and vegetables,August 2022,163.3
+Energy 9,August 2022,214.5
+Food and energy 9,September 2022,183.3
+Fresh fruit and vegetables,September 2022,161.9
+Energy 9,September 2022,205.1
+Food and energy 9,October 2022,187.0
+Fresh fruit and vegetables,October 2022,159.0
+Energy 9,October 2022,217.9
+Food and energy 9,November 2022,187.7
+Fresh fruit and vegetables,November 2022,169.9
+Energy 9,November 2022,214.6
+Food and energy 9,December 2022,183.5
+Fresh fruit and vegetables,December 2022,176.4
+Energy 9,December 2022,197.7
+Food and energy 9,January 2023,186.5
+Fresh fruit and vegetables,January 2023,182.1
+Energy 9,January 2023,200.3
+Food and energy 9,February 2023,186.7
+Fresh fruit and vegetables,February 2023,182.0
+Energy 9,February 2023,197.9
+Food and energy 9,March 2023,187.3
+Fresh fruit and vegetables,March 2023,175.3
+Energy 9,March 2023,199.2
+Food and energy 9,April 2023,189.6
+Fresh fruit and vegetables,April 2023,172.8
+Energy 9,April 2023,206.0
+Food and energy 9,May 2023,190.3
+Fresh fruit and vegetables,May 2023,177.3
+Energy 9,May 2023,204.4
+Food and energy 9,June 2023,191.1
+Fresh fruit and vegetables,June 2023,178.6
+Energy 9,June 2023,207.2
+Food and energy 9,July 2023,192.6
+Fresh fruit and vegetables,July 2023,174.7
+Energy 9,July 2023,210.7
+Food and energy 9,August 2023,194.5
+Fresh fruit and vegetables,August 2023,171.1
+Energy 9,August 2023,218.4
+Food and energy 9,September 2023,193.8
+Fresh fruit and vegetables,September 2023,170.9
+Energy 9,September 2023,216.2
+Food and energy 9,October 2023,191.0
+Fresh fruit and vegetables,October 2023,166.8
+Energy 9,October 2023,206.2
+Food and energy 9,November 2023,190.9
+Fresh fruit and vegetables,November 2023,175.7
+Energy 9,November 2023,202.3
+Food and energy 9,December 2023,189.9
+Fresh fruit and vegetables,December 2023,179.5
+Energy 9,December 2023,197.0
+Food and energy 9,January 2024,190.3
+Fresh fruit and vegetables,January 2024,184.4
+Energy 9,January 2024,194.9
+Food and energy 9,February 2024,191.7
+Fresh fruit and vegetables,February 2024,183.4
+Energy 9,February 2024,200.4
+Food and energy 9,March 2024,192.7
+Fresh fruit and vegetables,March 2024,175.8
+Energy 9,March 2024,204.7
+Food and energy 9,April 2024,195.2
+Fresh fruit and vegetables,April 2024,172.2
+Energy 9,April 2024,215.2
+Food and energy 9,May 2024,195.7
+Fresh fruit and vegetables,May 2024,177.2
+Energy 9,May 2024,212.8
+Food and energy 9,June 2024,195.2
+Fresh fruit and vegetables,June 2024,178.0
+Energy 9,June 2024,208.3
+Food and energy 9,July 2024,196.5
+Fresh fruit and vegetables,July 2024,179.4
+Energy 9,July 2024,211.6
+Food and energy 9,August 2024,195.5
+Fresh fruit and vegetables,August 2024,176.3
+Energy 9,August 2024,208.2
+Food and energy 9,September 2024,192.8
+Fresh fruit and vegetables,September 2024,176.3
+Energy 9,September 2024,198.3
+Food and energy 9,October 2024,193.1
+Fresh fruit and vegetables,October 2024,171.5
+Energy 9,October 2024,198.9
+Food and energy 9,November 2024,194.0
+Fresh fruit and vegetables,November 2024,176.7
+Energy 9,November 2024,199.5
+Food and energy 9,December 2024,191.3
+Fresh fruit and vegetables,December 2024,181.5
+Energy 9,December 2024,199.0
+Food and energy 9,January 2025,192.2
+Fresh fruit and vegetables,January 2025,188.6
+Energy 9,January 2025,205.3
+Food and energy 9,February 2025,195.1
+Fresh fruit and vegetables,February 2025,188.0
+Energy 9,February 2025,206.4
+Food and energy 9,March 2025,196.9
+Fresh fruit and vegetables,March 2025,180.7
+Energy 9,March 2025,204.0
+Food and energy 9,April 2025,193.0
+Fresh fruit and vegetables,April 2025,179.7
+Energy 9,April 2025,187.8
+Food and energy 9,May 2025,194.1
+Fresh fruit and vegetables,May 2025,181.3
+Energy 9,May 2025,189.4
+Food and energy 9,January 2015,141.1
+Fresh fruit and vegetables,January 2015,119.3
+Energy 9,January 2015,142.1
+Food and energy 9,February 2015,144.5
+Fresh fruit and vegetables,February 2015,118.4
+Energy 9,February 2015,149.0
+Food and energy 9,March 2015,147.3
+Fresh fruit and vegetables,March 2015,115.5
+Energy 9,March 2015,154.2
+Food and energy 9,April 2015,145.6
+Fresh fruit and vegetables,April 2015,117.1
+Energy 9,April 2015,151.7
+Food and energy 9,May 2015,149.6
+Fresh fruit and vegetables,May 2015,120.5
+Energy 9,May 2015,158.1
+Food and energy 9,June 2015,151.2
+Fresh fruit and vegetables,June 2015,119.7
+Energy 9,June 2015,161.6
+Food and energy 9,July 2015,150.9
+Fresh fruit and vegetables,July 2015,121.2
+Energy 9,July 2015,163.2
+Food and energy 9,August 2015,149.2
+Fresh fruit and vegetables,August 2015,120.8
+Energy 9,August 2015,156.8
+Food and energy 9,September 2015,146.2
+Fresh fruit and vegetables,September 2015,114.5
+Energy 9,September 2015,151.9
+Food and energy 9,October 2015,145.7
+Fresh fruit and vegetables,October 2015,113.6
+Energy 9,October 2015,149.2
+Food and energy 9,November 2015,146.0
+Fresh fruit and vegetables,November 2015,118.7
+Energy 9,November 2015,148.9
+Food and energy 9,December 2015,144.5
+Fresh fruit and vegetables,December 2015,123.5
+Energy 9,December 2015,146.1
+Food and energy 9,January 2016,144.7
+Fresh fruit and vegetables,January 2016,131.3
+Energy 9,January 2016,141.2
+Food and energy 9,February 2016,144.1
+Fresh fruit and vegetables,February 2016,139.7
+Energy 9,February 2016,138.2
+Food and energy 9,March 2016,144.0
+Fresh fruit and vegetables,March 2016,137.7
+Energy 9,March 2016,138.0
+Food and energy 9,April 2016,146.6
+Fresh fruit and vegetables,April 2016,130.4
+Energy 9,April 2016,145.8
+Food and energy 9,May 2016,147.7
+Fresh fruit and vegetables,May 2016,130.0
+Energy 9,May 2016,149.5
+Food and energy 9,June 2016,154.4
+Fresh fruit and vegetables,June 2016,131.7
+Energy 9,June 2016,165.3
+Food and energy 9,July 2016,152.8
+Fresh fruit and vegetables,July 2016,129.4
+Energy 9,July 2016,159.1
+Food and energy 9,August 2016,151.4
+Fresh fruit and vegetables,August 2016,122.1
+Energy 9,August 2016,157.7
+Food and energy 9,September 2016,152.7
+Fresh fruit and vegetables,September 2016,120.0
+Energy 9,September 2016,162.3
+Food and energy 9,October 2016,152.6
+Fresh fruit and vegetables,October 2016,118.5
+Energy 9,October 2016,164.6
+Food and energy 9,November 2016,151.3
+Fresh fruit and vegetables,November 2016,120.9
+Energy 9,November 2016,162.6
+Food and energy 9,December 2016,151.5
+Fresh fruit and vegetables,December 2016,118.5
+Energy 9,December 2016,164.7
+Food and energy 9,January 2017,154.5
+Fresh fruit and vegetables,January 2017,121.9
+Energy 9,January 2017,170.0
+Food and energy 9,February 2017,152.7
+Fresh fruit and vegetables,February 2017,121.3
+Energy 9,February 2017,165.9
+Food and energy 9,March 2017,152.4
+Fresh fruit and vegetables,March 2017,121.1
+Energy 9,March 2017,163.5
+Food and energy 9,April 2017,153.4
+Fresh fruit and vegetables,April 2017,118.9
+Energy 9,April 2017,168.5
+Food and energy 9,May 2017,153.3
+Fresh fruit and vegetables,May 2017,122.3
+Energy 9,May 2017,165.5
+Food and energy 9,June 2017,149.6
+Fresh fruit and vegetables,June 2017,124.2
+Energy 9,June 2017,155.7
+Food and energy 9,July 2017,151.3
+Fresh fruit and vegetables,July 2017,127.5
+Energy 9,July 2017,159.5
+Food and energy 9,August 2017,152.6
+Fresh fruit and vegetables,August 2017,123.7
+Energy 9,August 2017,162.5
+Food and energy 9,September 2017,154.5
+Fresh fruit and vegetables,September 2017,121.3
+Energy 9,September 2017,169.0
+Food and energy 9,October 2017,152.7
+Fresh fruit and vegetables,October 2017,113.7
+Energy 9,October 2017,165.5
+Food and energy 9,November 2017,154.6
+Fresh fruit and vegetables,November 2017,117.3
+Energy 9,November 2017,170.7
+Food and energy 9,December 2017,153.2
+Fresh fruit and vegetables,December 2017,118.6
+Energy 9,December 2017,166.4
+Food and energy 9,January 2018,154.2
+Fresh fruit and vegetables,January 2018,125.6
+Energy 9,January 2018,168.8
+Food and energy 9,February 2018,154.7
+Fresh fruit and vegetables,February 2018,127.8
+Energy 9,February 2018,168.5
+Food and energy 9,March 2018,154.5
+Fresh fruit and vegetables,March 2018,122.3
+Energy 9,March 2018,168.3
+Food and energy 9,April 2018,157.5
+Fresh fruit and vegetables,April 2018,123.6
+Energy 9,April 2018,175.1
+Food and energy 9,May 2018,159.2
+Fresh fruit and vegetables,May 2018,118.5
+Energy 9,May 2018,180.4
+Food and energy 9,June 2018,159.2
+Fresh fruit and vegetables,June 2018,121.0
+Energy 9,June 2018,179.1
+Food and energy 9,July 2018,161.0
+Fresh fruit and vegetables,July 2018,125.5
+Energy 9,July 2018,184.1
+Food and energy 9,August 2018,160.6
+Fresh fruit and vegetables,August 2018,123.4
+Energy 9,August 2018,181.9
+Food and energy 9,September 2018,159.8
+Fresh fruit and vegetables,September 2018,116.9
+Energy 9,September 2018,182.3
+Food and energy 9,October 2018,159.1
+Fresh fruit and vegetables,October 2018,111.8
+Energy 9,October 2018,182.9
+Food and energy 9,November 2018,156.5
+Fresh fruit and vegetables,November 2018,111.6
+Energy 9,November 2018,174.3
+Food and energy 9,December 2018,152.6
+Fresh fruit and vegetables,December 2018,116.9
+Energy 9,December 2018,166.0
+Food and energy 9,January 2019,153.6
+Fresh fruit and vegetables,January 2019,116.8
+Energy 9,January 2019,163.3
+Food and energy 9,February 2019,155.0
+Fresh fruit and vegetables,February 2019,123.0
+Energy 9,February 2019,167.5
+Food and energy 9,March 2019,158.1
+Fresh fruit and vegetables,March 2019,119.9
+Energy 9,March 2019,174.4
+Food and energy 9,April 2019,159.6
+Fresh fruit and vegetables,April 2019,121.1
+Energy 9,April 2019,180.7
+Food and energy 9,May 2019,160.6
+Fresh fruit and vegetables,May 2019,118.2
+Energy 9,May 2019,181.0
+Food and energy 9,June 2019,157.8
+Fresh fruit and vegetables,June 2019,130.3
+Energy 9,June 2019,171.9
+Food and energy 9,July 2019,160.5
+Fresh fruit and vegetables,July 2019,134.7
+Energy 9,July 2019,177.0
+Food and energy 9,August 2019,159.4
+Fresh fruit and vegetables,August 2019,125.2
+Energy 9,August 2019,173.5
+Food and energy 9,September 2019,158.4
+Fresh fruit and vegetables,September 2019,119.8
+Energy 9,September 2019,172.5
+Food and energy 9,October 2019,159.4
+Fresh fruit and vegetables,October 2019,117.7
+Energy 9,October 2019,177.8
+Food and energy 9,November 2019,160.2
+Fresh fruit and vegetables,November 2019,118.1
+Energy 9,November 2019,178.3
+Food and energy 9,December 2019,159.6
+Fresh fruit and vegetables,December 2019,122.9
+Energy 9,December 2019,178.2
+Food and energy 9,January 2020,160.9
+Fresh fruit and vegetables,January 2020,120.0
+Energy 9,January 2020,179.3
+Food and energy 9,February 2020,159.7
+Fresh fruit and vegetables,February 2020,121.6
+Energy 9,February 2020,174.5
+Food and energy 9,March 2020,155.0
+Fresh fruit and vegetables,March 2020,122.0
+Energy 9,March 2020,160.9
+Food and energy 9,April 2020,149.1
+Fresh fruit and vegetables,April 2020,120.7
+Energy 9,April 2020,145.2
+Food and energy 9,May 2020,152.1
+Fresh fruit and vegetables,May 2020,120.8
+Energy 9,May 2020,149.4
+Food and energy 9,June 2020,155.1
+Fresh fruit and vegetables,June 2020,124.8
+Energy 9,June 2020,158.6
+Food and energy 9,July 2020,156.2
+Fresh fruit and vegetables,July 2020,126.8
+Energy 9,July 2020,163.0
+Food and energy 9,August 2020,155.3
+Fresh fruit and vegetables,August 2020,124.5
+Energy 9,August 2020,162.5
+Food and energy 9,September 2020,154.7
+Fresh fruit and vegetables,September 2020,122.6
+Energy 9,September 2020,161.9
+Food and energy 9,October 2020,155.6
+Fresh fruit and vegetables,October 2020,122.6
+Energy 9,October 2020,163.7
+Food and energy 9,November 2020,157.3
+Fresh fruit and vegetables,November 2020,125.2
+Energy 9,November 2020,165.4
+Food and energy 9,December 2020,157.6
+Fresh fruit and vegetables,December 2020,119.1
+Energy 9,December 2020,170.6
+Food and energy 9,January 2021,161.1
+Fresh fruit and vegetables,January 2021,121.6
+Energy 9,January 2021,176.5
+Food and energy 9,February 2021,162.6
+Fresh fruit and vegetables,February 2021,124.6
+Energy 9,February 2021,180.6
+Food and energy 9,March 2021,166.6
+Fresh fruit and vegetables,March 2021,123.4
+Energy 9,March 2021,189.3
+Food and energy 9,April 2021,166.3
+Fresh fruit and vegetables,April 2021,121.5
+Energy 9,April 2021,189.3
+Food and energy 9,May 2021,168.6
+Fresh fruit and vegetables,May 2021,124.3
+Energy 9,May 2021,191.7
+Food and energy 9,June 2021,169.4
+Fresh fruit and vegetables,June 2021,123.6
+Energy 9,June 2021,193.4
+Food and energy 9,July 2021,173.2
+Fresh fruit and vegetables,July 2021,127.1
+Energy 9,July 2021,201.7
+Food and energy 9,August 2021,172.8
+Fresh fruit and vegetables,August 2021,123.1
+Energy 9,August 2021,200.9
+Food and energy 9,September 2021,173.4
+Fresh fruit and vegetables,September 2021,122.7
+Energy 9,September 2021,202.5
+Food and energy 9,October 2021,176.5
+Fresh fruit and vegetables,October 2021,119.7
+Energy 9,October 2021,208.2
+Food and energy 9,November 2021,176.4
+Fresh fruit and vegetables,November 2021,126.1
+Energy 9,November 2021,207.8
+Food and energy 9,December 2021,174.5
+Fresh fruit and vegetables,December 2021,131.7
+Energy 9,December 2021,200.9
+Food and energy 9,January 2022,178.9
+Fresh fruit and vegetables,January 2022,131.1
+Energy 9,January 2022,208.3
+Food and energy 9,February 2022,183.8
+Fresh fruit and vegetables,February 2022,133.4
+Energy 9,February 2022,219.7
+Food and energy 9,March 2022,191.4
+Fresh fruit and vegetables,March 2022,134.0
+Energy 9,March 2022,238.4
+Food and energy 9,April 2022,194.6
+Fresh fruit and vegetables,April 2022,134.7
+Energy 9,April 2022,245.8
+Food and energy 9,May 2022,204.2
+Fresh fruit and vegetables,May 2022,138.3
+Energy 9,May 2022,270.7
+Food and energy 9,June 2022,203.5
+Fresh fruit and vegetables,June 2022,137.0
+Energy 9,June 2022,268.7
+Food and energy 9,July 2022,199.5
+Fresh fruit and vegetables,July 2022,139.6
+Energy 9,July 2022,250.6
+Food and energy 9,August 2022,195.9
+Fresh fruit and vegetables,August 2022,136.1
+Energy 9,August 2022,236.2
+Food and energy 9,September 2022,192.9
+Fresh fruit and vegetables,September 2022,138.3
+Energy 9,September 2022,224.6
+Food and energy 9,October 2022,198.0
+Fresh fruit and vegetables,October 2022,129.6
+Energy 9,October 2022,240.4
+Food and energy 9,November 2022,199.3
+Fresh fruit and vegetables,November 2022,139.8
+Energy 9,November 2022,239.4
+Food and energy 9,December 2022,191.0
+Fresh fruit and vegetables,December 2022,146.5
+Energy 9,December 2022,216.7
+Food and energy 9,January 2023,195.9
+Fresh fruit and vegetables,January 2023,142.8
+Energy 9,January 2023,222.9
+Food and energy 9,February 2023,198.7
+Fresh fruit and vegetables,February 2023,147.5
+Energy 9,February 2023,229.2
+Food and energy 9,March 2023,196.2
+Fresh fruit and vegetables,March 2023,143.9
+Energy 9,March 2023,220.5
+Food and energy 9,April 2023,198.8
+Fresh fruit and vegetables,April 2023,143.2
+Energy 9,April 2023,226.2
+Food and energy 9,May 2023,197.5
+Fresh fruit and vegetables,May 2023,145.4
+Energy 9,May 2023,216.9
+Food and energy 9,June 2023,198.8
+Fresh fruit and vegetables,June 2023,150.0
+Energy 9,June 2023,219.3
+Food and energy 9,July 2023,203.0
+Fresh fruit and vegetables,July 2023,143.2
+Energy 9,July 2023,231.4
+Food and energy 9,August 2023,206.1
+Fresh fruit and vegetables,August 2023,139.6
+Energy 9,August 2023,243.8
+Food and energy 9,September 2023,207.0
+Fresh fruit and vegetables,September 2023,141.9
+Energy 9,September 2023,246.3
+Food and energy 9,October 2023,203.4
+Fresh fruit and vegetables,October 2023,136.6
+Energy 9,October 2023,232.9
+Food and energy 9,November 2023,201.7
+Fresh fruit and vegetables,November 2023,141.2
+Energy 9,November 2023,227.0
+Food and energy 9,December 2023,201.2
+Fresh fruit and vegetables,December 2023,147.1
+Energy 9,December 2023,222.7
+Food and energy 9,January 2024,201.3
+Fresh fruit and vegetables,January 2024,152.3
+Energy 9,January 2024,218.5
+Food and energy 9,February 2024,203.4
+Fresh fruit and vegetables,February 2024,153.3
+Energy 9,February 2024,225.3
+Food and energy 9,March 2024,204.7
+Fresh fruit and vegetables,March 2024,146.7
+Energy 9,March 2024,229.0
+Food and energy 9,April 2024,207.6
+Fresh fruit and vegetables,April 2024,146.3
+Energy 9,April 2024,240.7
+Food and energy 9,May 2024,207.4
+Fresh fruit and vegetables,May 2024,151.9
+Energy 9,May 2024,237.3
+Food and energy 9,June 2024,206.0
+Fresh fruit and vegetables,June 2024,150.2
+Energy 9,June 2024,231.2
+Food and energy 9,July 2024,207.4
+Fresh fruit and vegetables,July 2024,154.8
+Energy 9,July 2024,234.4
+Food and energy 9,August 2024,208.2
+Fresh fruit and vegetables,August 2024,149.9
+Energy 9,August 2024,235.2
+Food and energy 9,September 2024,205.1
+Fresh fruit and vegetables,September 2024,152.3
+Energy 9,September 2024,225.0
+Food and energy 9,October 2024,205.1
+Fresh fruit and vegetables,October 2024,143.1
+Energy 9,October 2024,227.2
+Food and energy 9,November 2024,205.7
+Fresh fruit and vegetables,November 2024,146.4
+Energy 9,November 2024,228.7
+Food and energy 9,December 2024,202.1
+Fresh fruit and vegetables,December 2024,150.1
+Energy 9,December 2024,228.0
+Food and energy 9,January 2025,202.1
+Fresh fruit and vegetables,January 2025,155.4
+Energy 9,January 2025,233.1
+Food and energy 9,February 2025,205.9
+Fresh fruit and vegetables,February 2025,153.4
+Energy 9,February 2025,235.3
+Food and energy 9,March 2025,209.2
+Fresh fruit and vegetables,March 2025,148.8
+Energy 9,March 2025,232.6
+Food and energy 9,April 2025,204.9
+Fresh fruit and vegetables,April 2025,147.0
+Energy 9,April 2025,217.0
+Food and energy 9,May 2025,204.8
+Fresh fruit and vegetables,May 2025,154.0
+Energy 9,May 2025,216.0
+Food and energy 9,January 2015,148.1
+Fresh fruit and vegetables,January 2015,130.5
+Energy 9,January 2015,158.0
+Food and energy 9,February 2015,151.6
+Fresh fruit and vegetables,February 2015,127.4
+Energy 9,February 2015,164.9
+Food and energy 9,March 2015,156.3
+Fresh fruit and vegetables,March 2015,125.7
+Energy 9,March 2015,176.9
+Food and energy 9,April 2015,152.8
+Fresh fruit and vegetables,April 2015,128.0
+Energy 9,April 2015,169.1
+Food and energy 9,May 2015,155.1
+Fresh fruit and vegetables,May 2015,124.3
+Energy 9,May 2015,173.0
+Food and energy 9,June 2015,157.4
+Fresh fruit and vegetables,June 2015,123.1
+Energy 9,June 2015,177.1
+Food and energy 9,July 2015,157.6
+Fresh fruit and vegetables,July 2015,130.5
+Energy 9,July 2015,176.3
+Food and energy 9,August 2015,156.7
+Fresh fruit and vegetables,August 2015,129.3
+Energy 9,August 2015,170.7
+Food and energy 9,September 2015,152.3
+Fresh fruit and vegetables,September 2015,129.2
+Energy 9,September 2015,159.7
+Food and energy 9,October 2015,152.6
+Fresh fruit and vegetables,October 2015,124.5
+Energy 9,October 2015,162.0
+Food and energy 9,November 2015,153.7
+Fresh fruit and vegetables,November 2015,133.5
+Energy 9,November 2015,160.3
+Food and energy 9,December 2015,153.0
+Fresh fruit and vegetables,December 2015,137.9
+Energy 9,December 2015,159.1
+Food and energy 9,January 2016,151.1
+Fresh fruit and vegetables,January 2016,147.5
+Energy 9,January 2016,151.8
+Food and energy 9,February 2016,150.2
+Fresh fruit and vegetables,February 2016,163.4
+Energy 9,February 2016,146.7
+Food and energy 9,March 2016,150.8
+Fresh fruit and vegetables,March 2016,157.4
+Energy 9,March 2016,148.6
+Food and energy 9,April 2016,154.5
+Fresh fruit and vegetables,April 2016,148.7
+Energy 9,April 2016,158.8
+Food and energy 9,May 2016,154.0
+Fresh fruit and vegetables,May 2016,144.6
+Energy 9,May 2016,158.7
+Food and energy 9,June 2016,154.9
+Fresh fruit and vegetables,June 2016,147.5
+Energy 9,June 2016,161.5
+Food and energy 9,July 2016,153.3
+Fresh fruit and vegetables,July 2016,146.2
+Energy 9,July 2016,157.0
+Food and energy 9,August 2016,150.5
+Fresh fruit and vegetables,August 2016,138.4
+Energy 9,August 2016,153.2
+Food and energy 9,September 2016,150.4
+Fresh fruit and vegetables,September 2016,128.9
+Energy 9,September 2016,158.1
+Food and energy 9,October 2016,153.5
+Fresh fruit and vegetables,October 2016,122.9
+Energy 9,October 2016,164.7
+Food and energy 9,November 2016,154.3
+Fresh fruit and vegetables,November 2016,122.5
+Energy 9,November 2016,167.5
+Food and energy 9,December 2016,152.1
+Fresh fruit and vegetables,December 2016,123.6
+Energy 9,December 2016,166.4
+Food and energy 9,January 2017,156.1
+Fresh fruit and vegetables,January 2017,126.4
+Energy 9,January 2017,173.0
+Food and energy 9,February 2017,152.8
+Fresh fruit and vegetables,February 2017,127.2
+Energy 9,February 2017,167.3
+Food and energy 9,March 2017,153.7
+Fresh fruit and vegetables,March 2017,125.2
+Energy 9,March 2017,167.8
+Food and energy 9,April 2017,155.5
+Fresh fruit and vegetables,April 2017,130.3
+Energy 9,April 2017,170.4
+Food and energy 9,May 2017,155.1
+Fresh fruit and vegetables,May 2017,133.8
+Energy 9,May 2017,167.3
+Food and energy 9,June 2017,153.9
+Fresh fruit and vegetables,June 2017,134.6
+Energy 9,June 2017,165.4
+Food and energy 9,July 2017,152.9
+Fresh fruit and vegetables,July 2017,133.2
+Energy 9,July 2017,160.3
+Food and energy 9,August 2017,154.1
+Fresh fruit and vegetables,August 2017,126.9
+Energy 9,August 2017,164.8
+Food and energy 9,September 2017,155.6
+Fresh fruit and vegetables,September 2017,121.8
+Energy 9,September 2017,172.1
+Food and energy 9,October 2017,154.7
+Fresh fruit and vegetables,October 2017,117.3
+Energy 9,October 2017,169.3
+Food and energy 9,November 2017,158.6
+Fresh fruit and vegetables,November 2017,126.4
+Energy 9,November 2017,177.6
+Food and energy 9,December 2017,156.8
+Fresh fruit and vegetables,December 2017,127.2
+Energy 9,December 2017,176.6
+Food and energy 9,January 2018,158.9
+Fresh fruit and vegetables,January 2018,134.1
+Energy 9,January 2018,180.9
+Food and energy 9,February 2018,159.5
+Fresh fruit and vegetables,February 2018,132.4
+Energy 9,February 2018,180.3
+Food and energy 9,March 2018,159.5
+Fresh fruit and vegetables,March 2018,126.3
+Energy 9,March 2018,182.5
+Food and energy 9,April 2018,162.2
+Fresh fruit and vegetables,April 2018,131.7
+Energy 9,April 2018,188.4
+Food and energy 9,May 2018,163.9
+Fresh fruit and vegetables,May 2018,129.6
+Energy 9,May 2018,195.3
+Food and energy 9,June 2018,165.2
+Fresh fruit and vegetables,June 2018,135.0
+Energy 9,June 2018,195.5
+Food and energy 9,July 2018,165.4
+Fresh fruit and vegetables,July 2018,137.9
+Energy 9,July 2018,192.1
+Food and energy 9,August 2018,163.5
+Fresh fruit and vegetables,August 2018,133.9
+Energy 9,August 2018,187.9
+Food and energy 9,September 2018,161.6
+Fresh fruit and vegetables,September 2018,122.9
+Energy 9,September 2018,187.6
+Food and energy 9,October 2018,163.4
+Fresh fruit and vegetables,October 2018,123.3
+Energy 9,October 2018,191.3
+Food and energy 9,November 2018,161.1
+Fresh fruit and vegetables,November 2018,128.5
+Energy 9,November 2018,183.5
+Food and energy 9,December 2018,156.7
+Fresh fruit and vegetables,December 2018,136.0
+Energy 9,December 2018,170.3
+Food and energy 9,January 2019,155.9
+Fresh fruit and vegetables,January 2019,140.3
+Energy 9,January 2019,164.0
+Food and energy 9,February 2019,157.1
+Fresh fruit and vegetables,February 2019,138.9
+Energy 9,February 2019,169.1
+Food and energy 9,March 2019,160.8
+Fresh fruit and vegetables,March 2019,135.9
+Energy 9,March 2019,177.9
+Food and energy 9,April 2019,164.1
+Fresh fruit and vegetables,April 2019,135.9
+Energy 9,April 2019,188.0
+Food and energy 9,May 2019,165.4
+Fresh fruit and vegetables,May 2019,130.0
+Energy 9,May 2019,192.2
+Food and energy 9,June 2019,162.4
+Fresh fruit and vegetables,June 2019,151.0
+Energy 9,June 2019,179.3
+Food and energy 9,July 2019,166.0
+Fresh fruit and vegetables,July 2019,151.4
+Energy 9,July 2019,184.6
+Food and energy 9,August 2019,163.6
+Fresh fruit and vegetables,August 2019,142.2
+Energy 9,August 2019,177.7
+Food and energy 9,September 2019,163.3
+Fresh fruit and vegetables,September 2019,138.2
+Energy 9,September 2019,178.2
+Food and energy 9,October 2019,162.9
+Fresh fruit and vegetables,October 2019,130.0
+Energy 9,October 2019,179.6
+Food and energy 9,November 2019,164.7
+Fresh fruit and vegetables,November 2019,136.5
+Energy 9,November 2019,180.0
+Food and energy 9,December 2019,163.4
+Fresh fruit and vegetables,December 2019,141.7
+Energy 9,December 2019,180.1
+Food and energy 9,January 2020,166.2
+Fresh fruit and vegetables,January 2020,144.5
+Energy 9,January 2020,181.5
+Food and energy 9,February 2020,162.2
+Fresh fruit and vegetables,February 2020,139.2
+Energy 9,February 2020,172.3
+Food and energy 9,March 2020,156.2
+Fresh fruit and vegetables,March 2020,138.1
+Energy 9,March 2020,153.5
+Food and energy 9,April 2020,150.9
+Fresh fruit and vegetables,April 2020,142.5
+Energy 9,April 2020,134.4
+Food and energy 9,May 2020,151.0
+Fresh fruit and vegetables,May 2020,142.1
+Energy 9,May 2020,134.9
+Food and energy 9,June 2020,154.4
+Fresh fruit and vegetables,June 2020,146.3
+Energy 9,June 2020,145.6
+Food and energy 9,July 2020,158.7
+Fresh fruit and vegetables,July 2020,150.9
+Energy 9,July 2020,153.6
+Food and energy 9,August 2020,157.7
+Fresh fruit and vegetables,August 2020,150.3
+Energy 9,August 2020,153.4
+Food and energy 9,September 2020,156.3
+Fresh fruit and vegetables,September 2020,143.9
+Energy 9,September 2020,152.4
+Food and energy 9,October 2020,156.7
+Fresh fruit and vegetables,October 2020,141.2
+Energy 9,October 2020,153.4
+Food and energy 9,November 2020,156.1
+Fresh fruit and vegetables,November 2020,145.0
+Energy 9,November 2020,150.9
+Food and energy 9,December 2020,158.6
+Fresh fruit and vegetables,December 2020,148.8
+Energy 9,December 2020,158.1
+Food and energy 9,January 2021,162.3
+Fresh fruit and vegetables,January 2021,154.8
+Energy 9,January 2021,165.4
+Food and energy 9,February 2021,165.5
+Fresh fruit and vegetables,February 2021,154.8
+Energy 9,February 2021,173.0
+Food and energy 9,March 2021,171.1
+Fresh fruit and vegetables,March 2021,151.6
+Energy 9,March 2021,184.9
+Food and energy 9,April 2021,170.8
+Fresh fruit and vegetables,April 2021,146.2
+Energy 9,April 2021,187.0
+Food and energy 9,May 2021,173.6
+Fresh fruit and vegetables,May 2021,148.7
+Energy 9,May 2021,190.9
+Food and energy 9,June 2021,173.6
+Fresh fruit and vegetables,June 2021,147.8
+Energy 9,June 2021,194.0
+Food and energy 9,July 2021,177.4
+Fresh fruit and vegetables,July 2021,149.9
+Energy 9,July 2021,200.9
+Food and energy 9,August 2021,178.3
+Fresh fruit and vegetables,August 2021,149.8
+Energy 9,August 2021,201.9
+Food and energy 9,September 2021,179.6
+Fresh fruit and vegetables,September 2021,143.2
+Energy 9,September 2021,203.4
+Food and energy 9,October 2021,182.6
+Fresh fruit and vegetables,October 2021,135.1
+Energy 9,October 2021,214.8
+Food and energy 9,November 2021,183.7
+Fresh fruit and vegetables,November 2021,148.8
+Energy 9,November 2021,216.0
+Food and energy 9,December 2021,180.8
+Fresh fruit and vegetables,December 2021,154.7
+Energy 9,December 2021,202.8
+Food and energy 9,January 2022,188.5
+Fresh fruit and vegetables,January 2022,156.6
+Energy 9,January 2022,221.2
+Food and energy 9,February 2022,192.8
+Fresh fruit and vegetables,February 2022,155.3
+Energy 9,February 2022,231.3
+Food and energy 9,March 2022,204.8
+Fresh fruit and vegetables,March 2022,155.8
+Energy 9,March 2022,262.2
+Food and energy 9,April 2022,207.0
+Fresh fruit and vegetables,April 2022,157.3
+Energy 9,April 2022,262.8
+Food and energy 9,May 2022,222.7
+Fresh fruit and vegetables,May 2022,160.9
+Energy 9,May 2022,311.6
+Food and energy 9,June 2022,220.9
+Fresh fruit and vegetables,June 2022,161.6
+Energy 9,June 2022,305.9
+Food and energy 9,July 2022,216.5
+Fresh fruit and vegetables,July 2022,164.1
+Energy 9,July 2022,285.3
+Food and energy 9,August 2022,210.3
+Fresh fruit and vegetables,August 2022,157.6
+Energy 9,August 2022,263.2
+Food and energy 9,September 2022,207.9
+Fresh fruit and vegetables,September 2022,161.1
+Energy 9,September 2022,253.1
+Food and energy 9,October 2022,215.5
+Fresh fruit and vegetables,October 2022,150.6
+Energy 9,October 2022,276.4
+Food and energy 9,November 2022,221.2
+Fresh fruit and vegetables,November 2022,165.4
+Energy 9,November 2022,288.8
+Food and energy 9,December 2022,206.8
+Fresh fruit and vegetables,December 2022,167.4
+Energy 9,December 2022,247.7
+Food and energy 9,January 2023,211.7
+Fresh fruit and vegetables,January 2023,172.7
+Energy 9,January 2023,255.2
+Food and energy 9,February 2023,214.1
+Fresh fruit and vegetables,February 2023,171.3
+Energy 9,February 2023,260.1
+Food and energy 9,March 2023,210.0
+Fresh fruit and vegetables,March 2023,168.5
+Energy 9,March 2023,244.1
+Food and energy 9,April 2023,211.0
+Fresh fruit and vegetables,April 2023,168.0
+Energy 9,April 2023,242.9
+Food and energy 9,May 2023,208.2
+Fresh fruit and vegetables,May 2023,174.3
+Energy 9,May 2023,229.6
+Food and energy 9,June 2023,208.2
+Fresh fruit and vegetables,June 2023,175.1
+Energy 9,June 2023,232.2
+Food and energy 9,July 2023,216.7
+Fresh fruit and vegetables,July 2023,169.4
+Energy 9,July 2023,252.4
+Food and energy 9,August 2023,221.3
+Fresh fruit and vegetables,August 2023,166.3
+Energy 9,August 2023,271.8
+Food and energy 9,September 2023,222.3
+Fresh fruit and vegetables,September 2023,168.6
+Energy 9,September 2023,273.5
+Food and energy 9,October 2023,217.2
+Fresh fruit and vegetables,October 2023,160.9
+Energy 9,October 2023,255.8
+Food and energy 9,November 2023,215.1
+Fresh fruit and vegetables,November 2023,172.7
+Energy 9,November 2023,247.5
+Food and energy 9,December 2023,214.9
+Fresh fruit and vegetables,December 2023,177.1
+Energy 9,December 2023,243.9
+Food and energy 9,January 2024,214.6
+Fresh fruit and vegetables,January 2024,181.0
+Energy 9,January 2024,241.6
+Food and energy 9,February 2024,217.3
+Fresh fruit and vegetables,February 2024,184.1
+Energy 9,February 2024,247.3
+Food and energy 9,March 2024,217.9
+Fresh fruit and vegetables,March 2024,173.6
+Energy 9,March 2024,249.7
+Food and energy 9,April 2024,220.5
+Fresh fruit and vegetables,April 2024,168.5
+Energy 9,April 2024,257.0
+Food and energy 9,May 2024,221.1
+Fresh fruit and vegetables,May 2024,178.8
+Energy 9,May 2024,256.5
+Food and energy 9,June 2024,220.4
+Fresh fruit and vegetables,June 2024,179.0
+Energy 9,June 2024,249.7
+Food and energy 9,July 2024,223.0
+Fresh fruit and vegetables,July 2024,180.6
+Energy 9,July 2024,256.2
+Food and energy 9,August 2024,219.7
+Fresh fruit and vegetables,August 2024,175.0
+Energy 9,August 2024,249.4
+Food and energy 9,September 2024,215.4
+Fresh fruit and vegetables,September 2024,175.3
+Energy 9,September 2024,234.3
+Food and energy 9,October 2024,217.0
+Fresh fruit and vegetables,October 2024,166.8
+Energy 9,October 2024,238.1
+Food and energy 9,November 2024,218.5
+Fresh fruit and vegetables,November 2024,166.9
+Energy 9,November 2024,242.2
+Food and energy 9,December 2024,211.2
+Fresh fruit and vegetables,December 2024,173.8
+Energy 9,December 2024,238.7
+Food and energy 9,January 2025,214.0
+Fresh fruit and vegetables,January 2025,184.3
+Energy 9,January 2025,254.6
+Food and energy 9,February 2025,219.4
+Fresh fruit and vegetables,February 2025,184.6
+Energy 9,February 2025,256.8
+Food and energy 9,March 2025,222.0
+Fresh fruit and vegetables,March 2025,178.2
+Energy 9,March 2025,245.5
+Food and energy 9,April 2025,215.8
+Fresh fruit and vegetables,April 2025,175.7
+Energy 9,April 2025,224.9
+Food and energy 9,May 2025,216.4
+Fresh fruit and vegetables,May 2025,181.9
+Energy 9,May 2025,223.5
+Food and energy 9,January 2015,147.5
+Fresh fruit and vegetables,January 2015,125.9
+Energy 9,January 2015,149.4
+Food and energy 9,February 2015,149.9
+Fresh fruit and vegetables,February 2015,125.4
+Energy 9,February 2015,155.0
+Food and energy 9,March 2015,153.1
+Fresh fruit and vegetables,March 2015,121.8
+Energy 9,March 2015,164.0
+Food and energy 9,April 2015,152.5
+Fresh fruit and vegetables,April 2015,121.4
+Energy 9,April 2015,161.1
+Food and energy 9,May 2015,154.8
+Fresh fruit and vegetables,May 2015,124.3
+Energy 9,May 2015,165.1
+Food and energy 9,June 2015,156.2
+Fresh fruit and vegetables,June 2015,124.2
+Energy 9,June 2015,167.5
+Food and energy 9,July 2015,155.4
+Fresh fruit and vegetables,July 2015,127.2
+Energy 9,July 2015,166.2
+Food and energy 9,August 2015,153.6
+Fresh fruit and vegetables,August 2015,125.8
+Energy 9,August 2015,159.3
+Food and energy 9,September 2015,150.3
+Fresh fruit and vegetables,September 2015,124.7
+Energy 9,September 2015,151.8
+Food and energy 9,October 2015,149.5
+Fresh fruit and vegetables,October 2015,122.5
+Energy 9,October 2015,150.4
+Food and energy 9,November 2015,149.7
+Fresh fruit and vegetables,November 2015,124.8
+Energy 9,November 2015,150.1
+Food and energy 9,December 2015,150.3
+Fresh fruit and vegetables,December 2015,131.7
+Energy 9,December 2015,148.6
+Food and energy 9,January 2016,150.0
+Fresh fruit and vegetables,January 2016,146.0
+Energy 9,January 2016,144.1
+Food and energy 9,February 2016,148.7
+Fresh fruit and vegetables,February 2016,153.8
+Energy 9,February 2016,138.5
+Food and energy 9,March 2016,148.7
+Fresh fruit and vegetables,March 2016,147.0
+Energy 9,March 2016,139.3
+Food and energy 9,April 2016,152.3
+Fresh fruit and vegetables,April 2016,142.0
+Energy 9,April 2016,148.6
+Food and energy 9,May 2016,153.3
+Fresh fruit and vegetables,May 2016,143.4
+Energy 9,May 2016,150.4
+Food and energy 9,June 2016,153.6
+Fresh fruit and vegetables,June 2016,137.9
+Energy 9,June 2016,152.6
+Food and energy 9,July 2016,150.7
+Fresh fruit and vegetables,July 2016,135.3
+Energy 9,July 2016,146.6
+Food and energy 9,August 2016,150.5
+Fresh fruit and vegetables,August 2016,128.2
+Energy 9,August 2016,146.3
+Food and energy 9,September 2016,150.7
+Fresh fruit and vegetables,September 2016,127.0
+Energy 9,September 2016,150.2
+Food and energy 9,October 2016,150.5
+Fresh fruit and vegetables,October 2016,117.0
+Energy 9,October 2016,152.1
+Food and energy 9,November 2016,150.0
+Fresh fruit and vegetables,November 2016,116.1
+Energy 9,November 2016,152.0
+Food and energy 9,December 2016,150.2
+Fresh fruit and vegetables,December 2016,117.3
+Energy 9,December 2016,154.1
+Food and energy 9,January 2017,153.0
+Fresh fruit and vegetables,January 2017,120.9
+Energy 9,January 2017,160.0
+Food and energy 9,February 2017,150.9
+Fresh fruit and vegetables,February 2017,122.0
+Energy 9,February 2017,155.3
+Food and energy 9,March 2017,150.9
+Fresh fruit and vegetables,March 2017,121.1
+Energy 9,March 2017,154.7
+Food and energy 9,April 2017,153.1
+Fresh fruit and vegetables,April 2017,125.1
+Energy 9,April 2017,159.7
+Food and energy 9,May 2017,152.3
+Fresh fruit and vegetables,May 2017,129.5
+Energy 9,May 2017,156.6
+Food and energy 9,June 2017,152.1
+Fresh fruit and vegetables,June 2017,130.8
+Energy 9,June 2017,154.8
+Food and energy 9,July 2017,151.0
+Fresh fruit and vegetables,July 2017,128.8
+Energy 9,July 2017,153.5
+Food and energy 9,August 2017,152.2
+Fresh fruit and vegetables,August 2017,124.5
+Energy 9,August 2017,155.7
+Food and energy 9,September 2017,153.8
+Fresh fruit and vegetables,September 2017,122.6
+Energy 9,September 2017,161.3
+Food and energy 9,October 2017,151.2
+Fresh fruit and vegetables,October 2017,115.2
+Energy 9,October 2017,155.4
+Food and energy 9,November 2017,154.0
+Fresh fruit and vegetables,November 2017,120.5
+Energy 9,November 2017,162.3
+Food and energy 9,December 2017,153.7
+Fresh fruit and vegetables,December 2017,125.0
+Energy 9,December 2017,160.8
+Food and energy 9,January 2018,155.7
+Fresh fruit and vegetables,January 2018,133.5
+Energy 9,January 2018,166.1
+Food and energy 9,February 2018,156.6
+Fresh fruit and vegetables,February 2018,133.4
+Energy 9,February 2018,166.0
+Food and energy 9,March 2018,155.7
+Fresh fruit and vegetables,March 2018,126.0
+Energy 9,March 2018,165.9
+Food and energy 9,April 2018,158.8
+Fresh fruit and vegetables,April 2018,127.9
+Energy 9,April 2018,172.9
+Food and energy 9,May 2018,159.5
+Fresh fruit and vegetables,May 2018,122.7
+Energy 9,May 2018,177.5
+Food and energy 9,June 2018,158.9
+Fresh fruit and vegetables,June 2018,126.3
+Energy 9,June 2018,175.3
+Food and energy 9,July 2018,159.6
+Fresh fruit and vegetables,July 2018,133.2
+Energy 9,July 2018,175.8
+Food and energy 9,August 2018,159.7
+Fresh fruit and vegetables,August 2018,127.3
+Energy 9,August 2018,174.3
+Food and energy 9,September 2018,158.3
+Fresh fruit and vegetables,September 2018,120.9
+Energy 9,September 2018,173.9
+Food and energy 9,October 2018,159.1
+Fresh fruit and vegetables,October 2018,120.0
+Energy 9,October 2018,174.5
+Food and energy 9,November 2018,155.7
+Fresh fruit and vegetables,November 2018,122.1
+Energy 9,November 2018,165.1
+Food and energy 9,December 2018,153.3
+Fresh fruit and vegetables,December 2018,130.6
+Energy 9,December 2018,158.1
+Food and energy 9,January 2019,155.1
+Fresh fruit and vegetables,January 2019,135.1
+Energy 9,January 2019,158.2
+Food and energy 9,February 2019,155.9
+Fresh fruit and vegetables,February 2019,135.0
+Energy 9,February 2019,161.3
+Food and energy 9,March 2019,158.9
+Fresh fruit and vegetables,March 2019,133.8
+Energy 9,March 2019,169.7
+Food and energy 9,April 2019,160.6
+Fresh fruit and vegetables,April 2019,132.4
+Energy 9,April 2019,177.2
+Food and energy 9,May 2019,161.3
+Fresh fruit and vegetables,May 2019,128.0
+Energy 9,May 2019,177.4
+Food and energy 9,June 2019,158.7
+Fresh fruit and vegetables,June 2019,143.8
+Energy 9,June 2019,167.3
+Food and energy 9,July 2019,161.5
+Fresh fruit and vegetables,July 2019,143.8
+Energy 9,July 2019,171.9
+Food and energy 9,August 2019,160.1
+Fresh fruit and vegetables,August 2019,137.2
+Energy 9,August 2019,167.8
+Food and energy 9,September 2019,159.1
+Fresh fruit and vegetables,September 2019,131.8
+Energy 9,September 2019,166.2
+Food and energy 9,October 2019,159.1
+Fresh fruit and vegetables,October 2019,124.5
+Energy 9,October 2019,167.9
+Food and energy 9,November 2019,160.4
+Fresh fruit and vegetables,November 2019,131.7
+Energy 9,November 2019,168.4
+Food and energy 9,December 2019,159.7
+Fresh fruit and vegetables,December 2019,135.5
+Energy 9,December 2019,168.0
+Food and energy 9,January 2020,161.5
+Fresh fruit and vegetables,January 2020,141.9
+Energy 9,January 2020,168.9
+Food and energy 9,February 2020,160.6
+Fresh fruit and vegetables,February 2020,139.3
+Energy 9,February 2020,165.0
+Food and energy 9,March 2020,153.8
+Fresh fruit and vegetables,March 2020,135.3
+Energy 9,March 2020,147.3
+Food and energy 9,April 2020,149.7
+Fresh fruit and vegetables,April 2020,139.7
+Energy 9,April 2020,131.6
+Food and energy 9,May 2020,150.5
+Fresh fruit and vegetables,May 2020,134.9
+Energy 9,May 2020,133.8
+Food and energy 9,June 2020,153.1
+Fresh fruit and vegetables,June 2020,140.2
+Energy 9,June 2020,141.6
+Food and energy 9,July 2020,155.2
+Fresh fruit and vegetables,July 2020,142.7
+Energy 9,July 2020,147.5
+Food and energy 9,August 2020,155.1
+Fresh fruit and vegetables,August 2020,142.0
+Energy 9,August 2020,148.0
+Food and energy 9,September 2020,153.7
+Fresh fruit and vegetables,September 2020,134.9
+Energy 9,September 2020,147.5
+Food and energy 9,October 2020,153.8
+Fresh fruit and vegetables,October 2020,136.5
+Energy 9,October 2020,147.4
+Food and energy 9,November 2020,154.0
+Fresh fruit and vegetables,November 2020,139.2
+Energy 9,November 2020,146.0
+Food and energy 9,December 2020,155.9
+Fresh fruit and vegetables,December 2020,140.1
+Energy 9,December 2020,151.7
+Food and energy 9,January 2021,160.1
+Fresh fruit and vegetables,January 2021,142.0
+Energy 9,January 2021,161.2
+Food and energy 9,February 2021,162.1
+Fresh fruit and vegetables,February 2021,143.3
+Energy 9,February 2021,167.3
+Food and energy 9,March 2021,166.0
+Fresh fruit and vegetables,March 2021,142.6
+Energy 9,March 2021,176.7
+Food and energy 9,April 2021,165.3
+Fresh fruit and vegetables,April 2021,134.6
+Energy 9,April 2021,176.4
+Food and energy 9,May 2021,167.3
+Fresh fruit and vegetables,May 2021,140.0
+Energy 9,May 2021,178.1
+Food and energy 9,June 2021,168.1
+Fresh fruit and vegetables,June 2021,139.6
+Energy 9,June 2021,179.4
+Food and energy 9,July 2021,170.0
+Fresh fruit and vegetables,July 2021,140.6
+Energy 9,July 2021,184.1
+Food and energy 9,August 2021,170.7
+Fresh fruit and vegetables,August 2021,140.0
+Energy 9,August 2021,183.7
+Food and energy 9,September 2021,171.1
+Fresh fruit and vegetables,September 2021,136.4
+Energy 9,September 2021,184.3
+Food and energy 9,October 2021,174.1
+Fresh fruit and vegetables,October 2021,133.6
+Energy 9,October 2021,191.8
+Food and energy 9,November 2021,174.8
+Fresh fruit and vegetables,November 2021,140.9
+Energy 9,November 2021,192.8
+Food and energy 9,December 2021,173.1
+Fresh fruit and vegetables,December 2021,146.1
+Energy 9,December 2021,185.3
+Food and energy 9,January 2022,178.5
+Fresh fruit and vegetables,January 2022,149.0
+Energy 9,January 2022,195.7
+Food and energy 9,February 2022,183.7
+Fresh fruit and vegetables,February 2022,148.0
+Energy 9,February 2022,207.6
+Food and energy 9,March 2022,193.2
+Fresh fruit and vegetables,March 2022,146.8
+Energy 9,March 2022,231.4
+Food and energy 9,April 2022,194.7
+Fresh fruit and vegetables,April 2022,146.4
+Energy 9,April 2022,231.5
+Food and energy 9,May 2022,205.5
+Fresh fruit and vegetables,May 2022,151.9
+Energy 9,May 2022,261.4
+Food and energy 9,June 2022,205.8
+Fresh fruit and vegetables,June 2022,153.8
+Energy 9,June 2022,261.6
+Food and energy 9,July 2022,201.8
+Fresh fruit and vegetables,July 2022,155.6
+Energy 9,July 2022,245.1
+Food and energy 9,August 2022,196.9
+Fresh fruit and vegetables,August 2022,151.5
+Energy 9,August 2022,229.8
+Food and energy 9,September 2022,194.6
+Fresh fruit and vegetables,September 2022,153.0
+Energy 9,September 2022,218.6
+Food and energy 9,October 2022,200.6
+Fresh fruit and vegetables,October 2022,145.3
+Energy 9,October 2022,237.3
+Food and energy 9,November 2022,206.8
+Fresh fruit and vegetables,November 2022,155.4
+Energy 9,November 2022,248.9
+Food and energy 9,December 2022,195.0
+Fresh fruit and vegetables,December 2022,161.2
+Energy 9,December 2022,216.7
+Food and energy 9,January 2023,197.8
+Fresh fruit and vegetables,January 2023,164.9
+Energy 9,January 2023,218.5
+Food and energy 9,February 2023,200.2
+Fresh fruit and vegetables,February 2023,165.2
+Energy 9,February 2023,223.5
+Food and energy 9,March 2023,197.9
+Fresh fruit and vegetables,March 2023,161.0
+Energy 9,March 2023,213.2
+Food and energy 9,April 2023,200.9
+Fresh fruit and vegetables,April 2023,161.0
+Energy 9,April 2023,220.8
+Food and energy 9,May 2023,198.0
+Fresh fruit and vegetables,May 2023,165.4
+Energy 9,May 2023,208.0
+Food and energy 9,June 2023,198.2
+Fresh fruit and vegetables,June 2023,167.2
+Energy 9,June 2023,209.3
+Food and energy 9,July 2023,206.5
+Fresh fruit and vegetables,July 2023,163.7
+Energy 9,July 2023,230.9
+Food and energy 9,August 2023,209.7
+Fresh fruit and vegetables,August 2023,156.9
+Energy 9,August 2023,243.0
+Food and energy 9,September 2023,210.9
+Fresh fruit and vegetables,September 2023,160.9
+Energy 9,September 2023,245.5
+Food and energy 9,October 2023,206.7
+Fresh fruit and vegetables,October 2023,155.8
+Energy 9,October 2023,233.8
+Food and energy 9,November 2023,205.7
+Fresh fruit and vegetables,November 2023,164.5
+Energy 9,November 2023,227.8
+Food and energy 9,December 2023,204.7
+Fresh fruit and vegetables,December 2023,170.4
+Energy 9,December 2023,221.2
+Food and energy 9,January 2024,206.3
+Fresh fruit and vegetables,January 2024,175.0
+Energy 9,January 2024,224.2
+Food and energy 9,February 2024,207.9
+Fresh fruit and vegetables,February 2024,176.5
+Energy 9,February 2024,229.7
+Food and energy 9,March 2024,208.1
+Fresh fruit and vegetables,March 2024,164.1
+Energy 9,March 2024,232.2
+Food and energy 9,April 2024,211.2
+Fresh fruit and vegetables,April 2024,161.7
+Energy 9,April 2024,239.6
+Food and energy 9,May 2024,212.1
+Fresh fruit and vegetables,May 2024,168.5
+Energy 9,May 2024,239.2
+Food and energy 9,June 2024,210.7
+Fresh fruit and vegetables,June 2024,168.9
+Energy 9,June 2024,232.3
+Food and energy 9,July 2024,212.0
+Fresh fruit and vegetables,July 2024,170.4
+Energy 9,July 2024,235.6
+Food and energy 9,August 2024,209.6
+Fresh fruit and vegetables,August 2024,166.0
+Energy 9,August 2024,229.9
+Food and energy 9,September 2024,205.3
+Fresh fruit and vegetables,September 2024,164.2
+Energy 9,September 2024,218.1
+Food and energy 9,October 2024,206.1
+Fresh fruit and vegetables,October 2024,160.3
+Energy 9,October 2024,217.9
+Food and energy 9,November 2024,207.1
+Fresh fruit and vegetables,November 2024,160.5
+Energy 9,November 2024,220.9
+Food and energy 9,December 2024,202.8
+Fresh fruit and vegetables,December 2024,168.9
+Energy 9,December 2024,219.6
+Food and energy 9,January 2025,204.6
+Fresh fruit and vegetables,January 2025,178.8
+Energy 9,January 2025,230.8
+Food and energy 9,February 2025,209.7
+Fresh fruit and vegetables,February 2025,176.7
+Energy 9,February 2025,233.2
+Food and energy 9,March 2025,211.0
+Fresh fruit and vegetables,March 2025,168.9
+Energy 9,March 2025,227.7
+Food and energy 9,April 2025,206.2
+Fresh fruit and vegetables,April 2025,167.0
+Energy 9,April 2025,211.8
+Food and energy 9,May 2025,206.0
+Fresh fruit and vegetables,May 2025,173.9
+Energy 9,May 2025,210.7
+Food and energy 9,January 2015,141.6
+Fresh fruit and vegetables,January 2015,132.4
+Energy 9,January 2015,136.7
+Food and energy 9,February 2015,144.6
+Fresh fruit and vegetables,February 2015,136.4
+Energy 9,February 2015,140.8
+Food and energy 9,March 2015,147.1
+Fresh fruit and vegetables,March 2015,130.3
+Energy 9,March 2015,147.7
+Food and energy 9,April 2015,146.5
+Fresh fruit and vegetables,April 2015,129.6
+Energy 9,April 2015,146.5
+Food and energy 9,May 2015,149.3
+Fresh fruit and vegetables,May 2015,128.4
+Energy 9,May 2015,151.4
+Food and energy 9,June 2015,150.9
+Fresh fruit and vegetables,June 2015,130.1
+Energy 9,June 2015,154.5
+Food and energy 9,July 2015,150.6
+Fresh fruit and vegetables,July 2015,134.0
+Energy 9,July 2015,154.1
+Food and energy 9,August 2015,149.7
+Fresh fruit and vegetables,August 2015,130.1
+Energy 9,August 2015,148.8
+Food and energy 9,September 2015,146.8
+Fresh fruit and vegetables,September 2015,129.3
+Energy 9,September 2015,143.4
+Food and energy 9,October 2015,145.9
+Fresh fruit and vegetables,October 2015,129.9
+Energy 9,October 2015,141.3
+Food and energy 9,November 2015,147.1
+Fresh fruit and vegetables,November 2015,134.5
+Energy 9,November 2015,142.1
+Food and energy 9,December 2015,146.6
+Fresh fruit and vegetables,December 2015,138.7
+Energy 9,December 2015,141.5
+Food and energy 9,January 2016,146.8
+Fresh fruit and vegetables,January 2016,153.9
+Energy 9,January 2016,137.4
+Food and energy 9,February 2016,145.7
+Fresh fruit and vegetables,February 2016,161.8
+Energy 9,February 2016,133.3
+Food and energy 9,March 2016,144.7
+Fresh fruit and vegetables,March 2016,154.1
+Energy 9,March 2016,132.7
+Food and energy 9,April 2016,147.5
+Fresh fruit and vegetables,April 2016,146.6
+Energy 9,April 2016,138.9
+Food and energy 9,May 2016,148.1
+Fresh fruit and vegetables,May 2016,144.9
+Energy 9,May 2016,142.3
+Food and energy 9,June 2016,149.1
+Fresh fruit and vegetables,June 2016,141.2
+Energy 9,June 2016,145.0
+Food and energy 9,July 2016,149.0
+Fresh fruit and vegetables,July 2016,138.0
+Energy 9,July 2016,144.3
+Food and energy 9,August 2016,147.1
+Fresh fruit and vegetables,August 2016,129.1
+Energy 9,August 2016,142.2
+Food and energy 9,September 2016,148.1
+Fresh fruit and vegetables,September 2016,125.2
+Energy 9,September 2016,146.0
+Food and energy 9,October 2016,148.5
+Fresh fruit and vegetables,October 2016,120.7
+Energy 9,October 2016,149.0
+Food and energy 9,November 2016,148.7
+Fresh fruit and vegetables,November 2016,121.4
+Energy 9,November 2016,149.0
+Food and energy 9,December 2016,147.5
+Fresh fruit and vegetables,December 2016,122.3
+Energy 9,December 2016,148.8
+Food and energy 9,January 2017,151.0
+Fresh fruit and vegetables,January 2017,129.8
+Energy 9,January 2017,154.8
+Food and energy 9,February 2017,149.2
+Fresh fruit and vegetables,February 2017,127.8
+Energy 9,February 2017,150.7
+Food and energy 9,March 2017,148.6
+Fresh fruit and vegetables,March 2017,124.4
+Energy 9,March 2017,149.6
+Food and energy 9,April 2017,151.1
+Fresh fruit and vegetables,April 2017,125.9
+Energy 9,April 2017,154.1
+Food and energy 9,May 2017,150.5
+Fresh fruit and vegetables,May 2017,131.8
+Energy 9,May 2017,151.6
+Food and energy 9,June 2017,149.5
+Fresh fruit and vegetables,June 2017,130.3
+Energy 9,June 2017,150.1
+Food and energy 9,July 2017,148.6
+Fresh fruit and vegetables,July 2017,128.0
+Energy 9,July 2017,148.3
+Food and energy 9,August 2017,150.1
+Fresh fruit and vegetables,August 2017,125.4
+Energy 9,August 2017,151.1
+Food and energy 9,September 2017,151.9
+Fresh fruit and vegetables,September 2017,122.2
+Energy 9,September 2017,157.3
+Food and energy 9,October 2017,149.9
+Fresh fruit and vegetables,October 2017,116.1
+Energy 9,October 2017,152.6
+Food and energy 9,November 2017,152.5
+Fresh fruit and vegetables,November 2017,122.4
+Energy 9,November 2017,158.1
+Food and energy 9,December 2017,152.4
+Fresh fruit and vegetables,December 2017,126.4
+Energy 9,December 2017,156.6
+Food and energy 9,January 2018,153.4
+Fresh fruit and vegetables,January 2018,136.1
+Energy 9,January 2018,158.5
+Food and energy 9,February 2018,153.6
+Fresh fruit and vegetables,February 2018,133.2
+Energy 9,February 2018,158.3
+Food and energy 9,March 2018,153.3
+Fresh fruit and vegetables,March 2018,127.2
+Energy 9,March 2018,157.8
+Food and energy 9,April 2018,156.1
+Fresh fruit and vegetables,April 2018,130.3
+Energy 9,April 2018,163.4
+Food and energy 9,May 2018,157.1
+Fresh fruit and vegetables,May 2018,130.5
+Energy 9,May 2018,168.0
+Food and energy 9,June 2018,156.7
+Fresh fruit and vegetables,June 2018,131.4
+Energy 9,June 2018,166.4
+Food and energy 9,July 2018,157.7
+Fresh fruit and vegetables,July 2018,139.3
+Energy 9,July 2018,167.2
+Food and energy 9,August 2018,157.9
+Fresh fruit and vegetables,August 2018,131.4
+Energy 9,August 2018,166.6
+Food and energy 9,September 2018,157.5
+Fresh fruit and vegetables,September 2018,123.9
+Energy 9,September 2018,167.4
+Food and energy 9,October 2018,157.4
+Fresh fruit and vegetables,October 2018,122.3
+Energy 9,October 2018,168.3
+Food and energy 9,November 2018,155.0
+Fresh fruit and vegetables,November 2018,127.6
+Energy 9,November 2018,160.1
+Food and energy 9,December 2018,152.3
+Fresh fruit and vegetables,December 2018,133.8
+Energy 9,December 2018,153.3
+Food and energy 9,January 2019,152.9
+Fresh fruit and vegetables,January 2019,138.7
+Energy 9,January 2019,150.4
+Food and energy 9,February 2019,153.9
+Fresh fruit and vegetables,February 2019,140.5
+Energy 9,February 2019,152.9
+Food and energy 9,March 2019,156.8
+Fresh fruit and vegetables,March 2019,138.2
+Energy 9,March 2019,159.8
+Food and energy 9,April 2019,159.9
+Fresh fruit and vegetables,April 2019,134.5
+Energy 9,April 2019,170.6
+Food and energy 9,May 2019,160.5
+Fresh fruit and vegetables,May 2019,131.4
+Energy 9,May 2019,170.9
+Food and energy 9,June 2019,158.8
+Fresh fruit and vegetables,June 2019,147.3
+Energy 9,June 2019,162.8
+Food and energy 9,July 2019,160.8
+Fresh fruit and vegetables,July 2019,145.3
+Energy 9,July 2019,166.7
+Food and energy 9,August 2019,160.6
+Fresh fruit and vegetables,August 2019,139.5
+Energy 9,August 2019,164.9
+Food and energy 9,September 2019,158.9
+Fresh fruit and vegetables,September 2019,136.0
+Energy 9,September 2019,163.3
+Food and energy 9,October 2019,158.7
+Fresh fruit and vegetables,October 2019,131.7
+Energy 9,October 2019,164.0
+Food and energy 9,November 2019,160.5
+Fresh fruit and vegetables,November 2019,139.1
+Energy 9,November 2019,164.9
+Food and energy 9,December 2019,159.7
+Fresh fruit and vegetables,December 2019,143.9
+Energy 9,December 2019,164.8
+Food and energy 9,January 2020,161.5
+Fresh fruit and vegetables,January 2020,145.5
+Energy 9,January 2020,164.6
+Food and energy 9,February 2020,159.0
+Fresh fruit and vegetables,February 2020,141.0
+Energy 9,February 2020,159.9
+Food and energy 9,March 2020,154.5
+Fresh fruit and vegetables,March 2020,136.1
+Energy 9,March 2020,147.3
+Food and energy 9,April 2020,149.5
+Fresh fruit and vegetables,April 2020,140.3
+Energy 9,April 2020,131.5
+Food and energy 9,May 2020,152.1
+Fresh fruit and vegetables,May 2020,140.2
+Energy 9,May 2020,136.5
+Food and energy 9,June 2020,155.0
+Fresh fruit and vegetables,June 2020,145.0
+Energy 9,June 2020,144.1
+Food and energy 9,July 2020,156.7
+Fresh fruit and vegetables,July 2020,145.7
+Energy 9,July 2020,148.5
+Food and energy 9,August 2020,155.6
+Fresh fruit and vegetables,August 2020,143.0
+Energy 9,August 2020,147.5
+Food and energy 9,September 2020,153.9
+Fresh fruit and vegetables,September 2020,135.5
+Energy 9,September 2020,147.4
+Food and energy 9,October 2020,155.4
+Fresh fruit and vegetables,October 2020,139.0
+Energy 9,October 2020,147.5
+Food and energy 9,November 2020,154.5
+Fresh fruit and vegetables,November 2020,141.1
+Energy 9,November 2020,145.7
+Food and energy 9,December 2020,156.2
+Fresh fruit and vegetables,December 2020,140.8
+Energy 9,December 2020,149.4
+Food and energy 9,January 2021,159.5
+Fresh fruit and vegetables,January 2021,142.8
+Energy 9,January 2021,154.7
+Food and energy 9,February 2021,161.2
+Fresh fruit and vegetables,February 2021,145.3
+Energy 9,February 2021,159.5
+Food and energy 9,March 2021,163.9
+Fresh fruit and vegetables,March 2021,139.7
+Energy 9,March 2021,167.3
+Food and energy 9,April 2021,165.2
+Fresh fruit and vegetables,April 2021,135.1
+Energy 9,April 2021,169.8
+Food and energy 9,May 2021,167.3
+Fresh fruit and vegetables,May 2021,139.5
+Energy 9,May 2021,172.6
+Food and energy 9,June 2021,168.1
+Fresh fruit and vegetables,June 2021,140.0
+Energy 9,June 2021,174.0
+Food and energy 9,July 2021,170.5
+Fresh fruit and vegetables,July 2021,142.1
+Energy 9,July 2021,178.0
+Food and energy 9,August 2021,171.4
+Fresh fruit and vegetables,August 2021,139.0
+Energy 9,August 2021,178.5
+Food and energy 9,September 2021,171.8
+Fresh fruit and vegetables,September 2021,134.9
+Energy 9,September 2021,179.7
+Food and energy 9,October 2021,174.5
+Fresh fruit and vegetables,October 2021,133.9
+Energy 9,October 2021,185.0
+Food and energy 9,November 2021,175.6
+Fresh fruit and vegetables,November 2021,144.3
+Energy 9,November 2021,187.1
+Food and energy 9,December 2021,174.3
+Fresh fruit and vegetables,December 2021,148.8
+Energy 9,December 2021,181.7
+Food and energy 9,January 2022,177.3
+Fresh fruit and vegetables,January 2022,150.7
+Energy 9,January 2022,185.7
+Food and energy 9,February 2022,181.3
+Fresh fruit and vegetables,February 2022,150.1
+Energy 9,February 2022,193.9
+Food and energy 9,March 2022,188.0
+Fresh fruit and vegetables,March 2022,147.9
+Energy 9,March 2022,208.3
+Food and energy 9,April 2022,191.3
+Fresh fruit and vegetables,April 2022,149.2
+Energy 9,April 2022,212.7
+Food and energy 9,May 2022,200.2
+Fresh fruit and vegetables,May 2022,154.8
+Energy 9,May 2022,234.5
+Food and energy 9,June 2022,202.5
+Fresh fruit and vegetables,June 2022,154.0
+Energy 9,June 2022,240.3
+Food and energy 9,July 2022,198.2
+Fresh fruit and vegetables,July 2022,157.3
+Energy 9,July 2022,226.1
+Food and energy 9,August 2022,195.3
+Fresh fruit and vegetables,August 2022,153.4
+Energy 9,August 2022,214.7
+Food and energy 9,September 2022,191.5
+Fresh fruit and vegetables,September 2022,153.1
+Energy 9,September 2022,202.5
+Food and energy 9,October 2022,195.4
+Fresh fruit and vegetables,October 2022,145.8
+Energy 9,October 2022,213.3
+Food and energy 9,November 2022,201.1
+Fresh fruit and vegetables,November 2022,156.2
+Energy 9,November 2022,225.0
+Food and energy 9,December 2022,191.8
+Fresh fruit and vegetables,December 2022,161.5
+Energy 9,December 2022,201.6
+Food and energy 9,January 2023,194.9
+Fresh fruit and vegetables,January 2023,167.0
+Energy 9,January 2023,203.4
+Food and energy 9,February 2023,196.4
+Fresh fruit and vegetables,February 2023,169.8
+Energy 9,February 2023,206.6
+Food and energy 9,March 2023,194.4
+Fresh fruit and vegetables,March 2023,164.0
+Energy 9,March 2023,199.5
+Food and energy 9,April 2023,199.3
+Fresh fruit and vegetables,April 2023,162.7
+Energy 9,April 2023,209.4
+Food and energy 9,May 2023,197.4
+Fresh fruit and vegetables,May 2023,167.7
+Energy 9,May 2023,200.1
+Food and energy 9,June 2023,198.7
+Fresh fruit and vegetables,June 2023,171.0
+Energy 9,June 2023,201.8
+Food and energy 9,July 2023,202.3
+Fresh fruit and vegetables,July 2023,167.0
+Energy 9,July 2023,209.5
+Food and energy 9,August 2023,204.5
+Fresh fruit and vegetables,August 2023,159.8
+Energy 9,August 2023,219.0
+Food and energy 9,September 2023,206.2
+Fresh fruit and vegetables,September 2023,163.6
+Energy 9,September 2023,222.3
+Food and energy 9,October 2023,201.6
+Fresh fruit and vegetables,October 2023,157.0
+Energy 9,October 2023,211.0
+Food and energy 9,November 2023,200.3
+Fresh fruit and vegetables,November 2023,168.1
+Energy 9,November 2023,205.1
+Food and energy 9,December 2023,199.5
+Fresh fruit and vegetables,December 2023,172.2
+Energy 9,December 2023,200.2
+Food and energy 9,January 2024,198.9
+Fresh fruit and vegetables,January 2024,176.3
+Energy 9,January 2024,196.7
+Food and energy 9,February 2024,200.7
+Fresh fruit and vegetables,February 2024,177.4
+Energy 9,February 2024,202.0
+Food and energy 9,March 2024,201.5
+Fresh fruit and vegetables,March 2024,167.7
+Energy 9,March 2024,204.0
+Food and energy 9,April 2024,208.6
+Fresh fruit and vegetables,April 2024,166.1
+Energy 9,April 2024,222.7
+Food and energy 9,May 2024,207.5
+Fresh fruit and vegetables,May 2024,171.1
+Energy 9,May 2024,217.7
+Food and energy 9,June 2024,206.7
+Fresh fruit and vegetables,June 2024,171.4
+Energy 9,June 2024,213.1
+Food and energy 9,July 2024,208.7
+Fresh fruit and vegetables,July 2024,175.0
+Energy 9,July 2024,216.8
+Food and energy 9,August 2024,206.3
+Fresh fruit and vegetables,August 2024,168.5
+Energy 9,August 2024,211.8
+Food and energy 9,September 2024,202.4
+Fresh fruit and vegetables,September 2024,169.3
+Energy 9,September 2024,201.8
+Food and energy 9,October 2024,203.3
+Fresh fruit and vegetables,October 2024,159.9
+Energy 9,October 2024,204.3
+Food and energy 9,November 2024,204.6
+Fresh fruit and vegetables,November 2024,161.8
+Energy 9,November 2024,206.1
+Food and energy 9,December 2024,201.2
+Fresh fruit and vegetables,December 2024,171.1
+Energy 9,December 2024,205.0
+Food and energy 9,January 2025,198.9
+Fresh fruit and vegetables,January 2025,181.1
+Energy 9,January 2025,204.3
+Food and energy 9,February 2025,203.6
+Fresh fruit and vegetables,February 2025,180.5
+Energy 9,February 2025,206.5
+Food and energy 9,March 2025,204.8
+Fresh fruit and vegetables,March 2025,171.4
+Energy 9,March 2025,201.2
+Food and energy 9,April 2025,201.5
+Fresh fruit and vegetables,April 2025,169.3
+Energy 9,April 2025,191.5
+Food and energy 9,May 2025,202.8
+Fresh fruit and vegetables,May 2025,175.8
+Energy 9,May 2025,192.3
+Food and energy 9,January 2015,139.2
+Fresh fruit and vegetables,January 2015,130.4
+Energy 9,January 2015,135.0
+Food and energy 9,February 2015,141.3
+Fresh fruit and vegetables,February 2015,128.9
+Energy 9,February 2015,140.6
+Food and energy 9,March 2015,142.6
+Fresh fruit and vegetables,March 2015,127.5
+Energy 9,March 2015,145.7
+Food and energy 9,April 2015,142.8
+Fresh fruit and vegetables,April 2015,125.8
+Energy 9,April 2015,145.1
+Food and energy 9,May 2015,144.4
+Fresh fruit and vegetables,May 2015,127.7
+Energy 9,May 2015,148.9
+Food and energy 9,June 2015,145.6
+Fresh fruit and vegetables,June 2015,129.7
+Energy 9,June 2015,153.0
+Food and energy 9,July 2015,145.6
+Fresh fruit and vegetables,July 2015,128.2
+Energy 9,July 2015,152.7
+Food and energy 9,August 2015,144.1
+Fresh fruit and vegetables,August 2015,121.5
+Energy 9,August 2015,148.5
+Food and energy 9,September 2015,142.7
+Fresh fruit and vegetables,September 2015,118.3
+Energy 9,September 2015,143.6
+Food and energy 9,October 2015,142.1
+Fresh fruit and vegetables,October 2015,122.8
+Energy 9,October 2015,140.6
+Food and energy 9,November 2015,142.2
+Fresh fruit and vegetables,November 2015,126.9
+Energy 9,November 2015,140.9
+Food and energy 9,December 2015,142.2
+Fresh fruit and vegetables,December 2015,135.9
+Energy 9,December 2015,139.3
+Food and energy 9,January 2016,142.4
+Fresh fruit and vegetables,January 2016,146.4
+Energy 9,January 2016,135.3
+Food and energy 9,February 2016,141.9
+Fresh fruit and vegetables,February 2016,151.8
+Energy 9,February 2016,130.6
+Food and energy 9,March 2016,141.9
+Fresh fruit and vegetables,March 2016,145.2
+Energy 9,March 2016,131.9
+Food and energy 9,April 2016,143.2
+Fresh fruit and vegetables,April 2016,139.0
+Energy 9,April 2016,138.5
+Food and energy 9,May 2016,143.2
+Fresh fruit and vegetables,May 2016,132.2
+Energy 9,May 2016,140.2
+Food and energy 9,June 2016,143.0
+Fresh fruit and vegetables,June 2016,133.2
+Energy 9,June 2016,142.0
+Food and energy 9,July 2016,142.0
+Fresh fruit and vegetables,July 2016,132.6
+Energy 9,July 2016,137.8
+Food and energy 9,August 2016,141.1
+Fresh fruit and vegetables,August 2016,123.3
+Energy 9,August 2016,137.6
+Food and energy 9,September 2016,141.4
+Fresh fruit and vegetables,September 2016,118.6
+Energy 9,September 2016,139.2
+Food and energy 9,October 2016,141.7
+Fresh fruit and vegetables,October 2016,118.6
+Energy 9,October 2016,142.5
+Food and energy 9,November 2016,142.1
+Fresh fruit and vegetables,November 2016,125.0
+Energy 9,November 2016,141.1
+Food and energy 9,December 2016,142.6
+Fresh fruit and vegetables,December 2016,124.5
+Energy 9,December 2016,143.6
+Food and energy 9,January 2017,144.4
+Fresh fruit and vegetables,January 2017,131.2
+Energy 9,January 2017,145.6
+Food and energy 9,February 2017,143.5
+Fresh fruit and vegetables,February 2017,128.9
+Energy 9,February 2017,143.4
+Food and energy 9,March 2017,143.4
+Fresh fruit and vegetables,March 2017,128.9
+Energy 9,March 2017,142.3
+Food and energy 9,April 2017,145.3
+Fresh fruit and vegetables,April 2017,128.8
+Energy 9,April 2017,148.5
+Food and energy 9,May 2017,145.0
+Fresh fruit and vegetables,May 2017,134.6
+Energy 9,May 2017,145.2
+Food and energy 9,June 2017,144.6
+Fresh fruit and vegetables,June 2017,136.4
+Energy 9,June 2017,142.1
+Food and energy 9,July 2017,144.7
+Fresh fruit and vegetables,July 2017,134.9
+Energy 9,July 2017,141.9
+Food and energy 9,August 2017,144.7
+Fresh fruit and vegetables,August 2017,124.3
+Energy 9,August 2017,144.7
+Food and energy 9,September 2017,145.3
+Fresh fruit and vegetables,September 2017,113.9
+Energy 9,September 2017,150.5
+Food and energy 9,October 2017,143.7
+Fresh fruit and vegetables,October 2017,113.9
+Energy 9,October 2017,146.2
+Food and energy 9,November 2017,146.4
+Fresh fruit and vegetables,November 2017,126.5
+Energy 9,November 2017,151.6
+Food and energy 9,December 2017,146.2
+Fresh fruit and vegetables,December 2017,131.2
+Energy 9,December 2017,149.4
+Food and energy 9,January 2018,147.6
+Fresh fruit and vegetables,January 2018,136.6
+Energy 9,January 2018,152.7
+Food and energy 9,February 2018,147.8
+Fresh fruit and vegetables,February 2018,133.9
+Energy 9,February 2018,152.7
+Food and energy 9,March 2018,147.8
+Fresh fruit and vegetables,March 2018,131.1
+Energy 9,March 2018,154.7
+Food and energy 9,April 2018,149.2
+Fresh fruit and vegetables,April 2018,128.8
+Energy 9,April 2018,158.9
+Food and energy 9,May 2018,150.0
+Fresh fruit and vegetables,May 2018,131.3
+Energy 9,May 2018,162.1
+Food and energy 9,June 2018,150.2
+Fresh fruit and vegetables,June 2018,138.3
+Energy 9,June 2018,159.8
+Food and energy 9,July 2018,150.1
+Fresh fruit and vegetables,July 2018,138.3
+Energy 9,July 2018,159.0
+Food and energy 9,August 2018,149.4
+Fresh fruit and vegetables,August 2018,127.6
+Energy 9,August 2018,158.9
+Food and energy 9,September 2018,148.9
+Fresh fruit and vegetables,September 2018,121.2
+Energy 9,September 2018,159.3
+Food and energy 9,October 2018,147.7
+Fresh fruit and vegetables,October 2018,123.7
+Energy 9,October 2018,156.0
+Food and energy 9,November 2018,146.7
+Fresh fruit and vegetables,November 2018,134.0
+Energy 9,November 2018,148.0
+Food and energy 9,December 2018,146.5
+Fresh fruit and vegetables,December 2018,145.0
+Energy 9,December 2018,143.1
+Food and energy 9,January 2019,146.7
+Fresh fruit and vegetables,January 2019,144.5
+Energy 9,January 2019,142.1
+Food and energy 9,February 2019,147.7
+Fresh fruit and vegetables,February 2019,148.5
+Energy 9,February 2019,142.7
+Food and energy 9,March 2019,149.7
+Fresh fruit and vegetables,March 2019,148.0
+Energy 9,March 2019,150.6
+Food and energy 9,April 2019,150.6
+Fresh fruit and vegetables,April 2019,143.5
+Energy 9,April 2019,155.9
+Food and energy 9,May 2019,151.8
+Fresh fruit and vegetables,May 2019,143.3
+Energy 9,May 2019,158.0
+Food and energy 9,June 2019,150.8
+Fresh fruit and vegetables,June 2019,147.0
+Energy 9,June 2019,152.0
+Food and energy 9,July 2019,152.2
+Fresh fruit and vegetables,July 2019,148.2
+Energy 9,July 2019,154.6
+Food and energy 9,August 2019,150.3
+Fresh fruit and vegetables,August 2019,139.7
+Energy 9,August 2019,150.0
+Food and energy 9,September 2019,149.3
+Fresh fruit and vegetables,September 2019,130.6
+Energy 9,September 2019,148.6
+Food and energy 9,October 2019,149.0
+Fresh fruit and vegetables,October 2019,131.2
+Energy 9,October 2019,148.6
+Food and energy 9,November 2019,150.4
+Fresh fruit and vegetables,November 2019,143.7
+Energy 9,November 2019,148.4
+Food and energy 9,December 2019,150.8
+Fresh fruit and vegetables,December 2019,152.9
+Energy 9,December 2019,147.9
+Food and energy 9,January 2020,151.7
+Fresh fruit and vegetables,January 2020,151.4
+Energy 9,January 2020,147.7
+Food and energy 9,February 2020,151.1
+Fresh fruit and vegetables,February 2020,151.4
+Energy 9,February 2020,145.6
+Food and energy 9,March 2020,147.5
+Fresh fruit and vegetables,March 2020,140.9
+Energy 9,March 2020,134.8
+Food and energy 9,April 2020,146.0
+Fresh fruit and vegetables,April 2020,149.6
+Energy 9,April 2020,123.0
+Food and energy 9,May 2020,147.8
+Fresh fruit and vegetables,May 2020,143.3
+Energy 9,May 2020,129.3
+Food and energy 9,June 2020,149.9
+Fresh fruit and vegetables,June 2020,148.1
+Energy 9,June 2020,135.2
+Food and energy 9,July 2020,150.9
+Fresh fruit and vegetables,July 2020,151.1
+Energy 9,July 2020,138.7
+Food and energy 9,August 2020,149.6
+Fresh fruit and vegetables,August 2020,141.4
+Energy 9,August 2020,138.1
+Food and energy 9,September 2020,148.0
+Fresh fruit and vegetables,September 2020,134.6
+Energy 9,September 2020,137.1
+Food and energy 9,October 2020,148.6
+Fresh fruit and vegetables,October 2020,142.3
+Energy 9,October 2020,135.5
+Food and energy 9,November 2020,148.9
+Fresh fruit and vegetables,November 2020,144.8
+Energy 9,November 2020,135.2
+Food and energy 9,December 2020,149.8
+Fresh fruit and vegetables,December 2020,144.2
+Energy 9,December 2020,138.9
+Food and energy 9,January 2021,151.7
+Fresh fruit and vegetables,January 2021,145.5
+Energy 9,January 2021,143.1
+Food and energy 9,February 2021,154.3
+Fresh fruit and vegetables,February 2021,152.9
+Energy 9,February 2021,147.8
+Food and energy 9,March 2021,154.3
+Fresh fruit and vegetables,March 2021,142.5
+Energy 9,March 2021,152.7
+Food and energy 9,April 2021,154.9
+Fresh fruit and vegetables,April 2021,139.4
+Energy 9,April 2021,153.1
+Food and energy 9,May 2021,156.5
+Fresh fruit and vegetables,May 2021,141.6
+Energy 9,May 2021,156.7
+Food and energy 9,June 2021,157.2
+Fresh fruit and vegetables,June 2021,142.9
+Energy 9,June 2021,158.5
+Food and energy 9,July 2021,158.8
+Fresh fruit and vegetables,July 2021,145.9
+Energy 9,July 2021,160.8
+Food and energy 9,August 2021,159.1
+Fresh fruit and vegetables,August 2021,139.4
+Energy 9,August 2021,162.4
+Food and energy 9,September 2021,159.8
+Fresh fruit and vegetables,September 2021,135.2
+Energy 9,September 2021,164.1
+Food and energy 9,October 2021,162.2
+Fresh fruit and vegetables,October 2021,137.1
+Energy 9,October 2021,169.1
+Food and energy 9,November 2021,163.7
+Fresh fruit and vegetables,November 2021,146.4
+Energy 9,November 2021,170.9
+Food and energy 9,December 2021,163.5
+Fresh fruit and vegetables,December 2021,151.0
+Energy 9,December 2021,168.0
+Food and energy 9,January 2022,165.8
+Fresh fruit and vegetables,January 2022,153.1
+Energy 9,January 2022,171.9
+Food and energy 9,February 2022,170.3
+Fresh fruit and vegetables,February 2022,155.7
+Energy 9,February 2022,180.2
+Food and energy 9,March 2022,174.6
+Fresh fruit and vegetables,March 2022,152.1
+Energy 9,March 2022,194.2
+Food and energy 9,April 2022,176.8
+Fresh fruit and vegetables,April 2022,152.3
+Energy 9,April 2022,195.1
+Food and energy 9,May 2022,183.0
+Fresh fruit and vegetables,May 2022,162.0
+Energy 9,May 2022,214.3
+Food and energy 9,June 2022,185.4
+Fresh fruit and vegetables,June 2022,157.2
+Energy 9,June 2022,221.5
+Food and energy 9,July 2022,182.3
+Fresh fruit and vegetables,July 2022,154.3
+Energy 9,July 2022,209.0
+Food and energy 9,August 2022,180.5
+Fresh fruit and vegetables,August 2022,152.5
+Energy 9,August 2022,198.5
+Food and energy 9,September 2022,177.9
+Fresh fruit and vegetables,September 2022,154.1
+Energy 9,September 2022,184.1
+Food and energy 9,October 2022,181.0
+Fresh fruit and vegetables,October 2022,152.0
+Energy 9,October 2022,191.3
+Food and energy 9,November 2022,183.7
+Fresh fruit and vegetables,November 2022,160.8
+Energy 9,November 2022,195.1
+Food and energy 9,December 2022,178.8
+Fresh fruit and vegetables,December 2022,168.0
+Energy 9,December 2022,179.0
+Food and energy 9,January 2023,182.4
+Fresh fruit and vegetables,January 2023,171.0
+Energy 9,January 2023,183.7
+Food and energy 9,February 2023,182.7
+Fresh fruit and vegetables,February 2023,176.5
+Energy 9,February 2023,181.0
+Food and energy 9,March 2023,183.1
+Fresh fruit and vegetables,March 2023,169.9
+Energy 9,March 2023,180.7
+Food and energy 9,April 2023,186.0
+Fresh fruit and vegetables,April 2023,169.5
+Energy 9,April 2023,186.9
+Food and energy 9,May 2023,186.5
+Fresh fruit and vegetables,May 2023,171.3
+Energy 9,May 2023,186.3
+Food and energy 9,June 2023,188.2
+Fresh fruit and vegetables,June 2023,175.3
+Energy 9,June 2023,188.4
+Food and energy 9,July 2023,188.7
+Fresh fruit and vegetables,July 2023,170.0
+Energy 9,July 2023,189.6
+Food and energy 9,August 2023,190.2
+Fresh fruit and vegetables,August 2023,165.8
+Energy 9,August 2023,196.7
+Food and energy 9,September 2023,190.0
+Fresh fruit and vegetables,September 2023,165.6
+Energy 9,September 2023,196.6
+Food and energy 9,October 2023,188.1
+Fresh fruit and vegetables,October 2023,162.6
+Energy 9,October 2023,189.3
+Food and energy 9,November 2023,187.5
+Fresh fruit and vegetables,November 2023,172.1
+Energy 9,November 2023,185.2
+Food and energy 9,December 2023,187.0
+Fresh fruit and vegetables,December 2023,175.6
+Energy 9,December 2023,182.0
+Food and energy 9,January 2024,187.2
+Fresh fruit and vegetables,January 2024,179.8
+Energy 9,January 2024,181.0
+Food and energy 9,February 2024,188.2
+Fresh fruit and vegetables,February 2024,180.3
+Energy 9,February 2024,184.2
+Food and energy 9,March 2024,188.1
+Fresh fruit and vegetables,March 2024,176.0
+Energy 9,March 2024,184.9
+Food and energy 9,April 2024,190.6
+Fresh fruit and vegetables,April 2024,170.7
+Energy 9,April 2024,194.9
+Food and energy 9,May 2024,191.8
+Fresh fruit and vegetables,May 2024,174.9
+Energy 9,May 2024,194.5
+Food and energy 9,June 2024,190.1
+Fresh fruit and vegetables,June 2024,174.2
+Energy 9,June 2024,189.5
+Food and energy 9,July 2024,191.4
+Fresh fruit and vegetables,July 2024,173.9
+Energy 9,July 2024,192.4
+Food and energy 9,August 2024,190.3
+Fresh fruit and vegetables,August 2024,172.5
+Energy 9,August 2024,188.2
+Food and energy 9,September 2024,187.7
+Fresh fruit and vegetables,September 2024,168.5
+Energy 9,September 2024,179.2
+Food and energy 9,October 2024,186.6
+Fresh fruit and vegetables,October 2024,162.8
+Energy 9,October 2024,178.7
+Food and energy 9,November 2024,188.3
+Fresh fruit and vegetables,November 2024,170.4
+Energy 9,November 2024,180.4
+Food and energy 9,December 2024,187.6
+Fresh fruit and vegetables,December 2024,175.2
+Energy 9,December 2024,180.3
+Food and energy 9,January 2025,188.5
+Fresh fruit and vegetables,January 2025,179.4
+Energy 9,January 2025,184.6
+Food and energy 9,February 2025,189.8
+Fresh fruit and vegetables,February 2025,181.0
+Energy 9,February 2025,184.0
+Food and energy 9,March 2025,191.7
+Fresh fruit and vegetables,March 2025,174.8
+Energy 9,March 2025,181.6
+Food and energy 9,April 2025,192.0
+Fresh fruit and vegetables,April 2025,172.4
+Energy 9,April 2025,182.6
+Food and energy 9,May 2025,192.7
+Fresh fruit and vegetables,May 2025,172.3
+Energy 9,May 2025,182.3
+Food and energy 9,January 2015,140.5
+Fresh fruit and vegetables,January 2015,131.2
+Energy 9,January 2015,145.0
+Food and energy 9,February 2015,142.7
+Fresh fruit and vegetables,February 2015,131.1
+Energy 9,February 2015,151.6
+Food and energy 9,March 2015,144.0
+Fresh fruit and vegetables,March 2015,128.4
+Energy 9,March 2015,155.9
+Food and energy 9,April 2015,142.8
+Fresh fruit and vegetables,April 2015,124.9
+Energy 9,April 2015,152.5
+Food and energy 9,May 2015,146.0
+Fresh fruit and vegetables,May 2015,131.8
+Energy 9,May 2015,159.2
+Food and energy 9,June 2015,147.6
+Fresh fruit and vegetables,June 2015,129.3
+Energy 9,June 2015,163.9
+Food and energy 9,July 2015,148.7
+Fresh fruit and vegetables,July 2015,131.0
+Energy 9,July 2015,167.7
+Food and energy 9,August 2015,146.6
+Fresh fruit and vegetables,August 2015,123.8
+Energy 9,August 2015,161.8
+Food and energy 9,September 2015,143.6
+Fresh fruit and vegetables,September 2015,121.7
+Energy 9,September 2015,155.2
+Food and energy 9,October 2015,142.6
+Fresh fruit and vegetables,October 2015,124.9
+Energy 9,October 2015,149.4
+Food and energy 9,November 2015,143.9
+Fresh fruit and vegetables,November 2015,132.9
+Energy 9,November 2015,151.2
+Food and energy 9,December 2015,144.3
+Fresh fruit and vegetables,December 2015,140.3
+Energy 9,December 2015,149.6
+Food and energy 9,January 2016,144.9
+Fresh fruit and vegetables,January 2016,153.2
+Energy 9,January 2016,147.0
+Food and energy 9,February 2016,144.4
+Fresh fruit and vegetables,February 2016,159.6
+Energy 9,February 2016,143.0
+Food and energy 9,March 2016,144.8
+Fresh fruit and vegetables,March 2016,151.0
+Energy 9,March 2016,145.8
+Food and energy 9,April 2016,146.5
+Fresh fruit and vegetables,April 2016,142.8
+Energy 9,April 2016,153.5
+Food and energy 9,May 2016,147.2
+Fresh fruit and vegetables,May 2016,136.6
+Energy 9,May 2016,158.1
+Food and energy 9,June 2016,147.4
+Fresh fruit and vegetables,June 2016,137.8
+Energy 9,June 2016,159.1
+Food and energy 9,July 2016,147.0
+Fresh fruit and vegetables,July 2016,134.3
+Energy 9,July 2016,157.4
+Food and energy 9,August 2016,145.5
+Fresh fruit and vegetables,August 2016,124.5
+Energy 9,August 2016,155.8
+Food and energy 9,September 2016,144.0
+Fresh fruit and vegetables,September 2016,118.3
+Energy 9,September 2016,155.4
+Food and energy 9,October 2016,145.0
+Fresh fruit and vegetables,October 2016,118.0
+Energy 9,October 2016,157.8
+Food and energy 9,November 2016,144.7
+Fresh fruit and vegetables,November 2016,126.7
+Energy 9,November 2016,155.2
+Food and energy 9,December 2016,145.6
+Fresh fruit and vegetables,December 2016,128.1
+Energy 9,December 2016,158.1
+Food and energy 9,January 2017,147.4
+Fresh fruit and vegetables,January 2017,130.4
+Energy 9,January 2017,162.9
+Food and energy 9,February 2017,146.6
+Fresh fruit and vegetables,February 2017,131.7
+Energy 9,February 2017,159.2
+Food and energy 9,March 2017,145.8
+Fresh fruit and vegetables,March 2017,128.2
+Energy 9,March 2017,156.9
+Food and energy 9,April 2017,148.7
+Fresh fruit and vegetables,April 2017,132.7
+Energy 9,April 2017,165.3
+Food and energy 9,May 2017,147.1
+Fresh fruit and vegetables,May 2017,135.5
+Energy 9,May 2017,158.2
+Food and energy 9,June 2017,146.4
+Fresh fruit and vegetables,June 2017,137.3
+Energy 9,June 2017,154.7
+Food and energy 9,July 2017,146.2
+Fresh fruit and vegetables,July 2017,138.6
+Energy 9,July 2017,151.6
+Food and energy 9,August 2017,146.0
+Fresh fruit and vegetables,August 2017,131.7
+Energy 9,August 2017,152.9
+Food and energy 9,September 2017,146.6
+Fresh fruit and vegetables,September 2017,122.6
+Energy 9,September 2017,158.5
+Food and energy 9,October 2017,144.9
+Fresh fruit and vegetables,October 2017,116.0
+Energy 9,October 2017,154.7
+Food and energy 9,November 2017,147.4
+Fresh fruit and vegetables,November 2017,124.4
+Energy 9,November 2017,160.1
+Food and energy 9,December 2017,147.9
+Fresh fruit and vegetables,December 2017,131.0
+Energy 9,December 2017,159.3
+Food and energy 9,January 2018,150.4
+Fresh fruit and vegetables,January 2018,138.1
+Energy 9,January 2018,163.2
+Food and energy 9,February 2018,150.4
+Fresh fruit and vegetables,February 2018,134.5
+Energy 9,February 2018,162.3
+Food and energy 9,March 2018,150.5
+Fresh fruit and vegetables,March 2018,131.1
+Energy 9,March 2018,164.1
+Food and energy 9,April 2018,152.3
+Fresh fruit and vegetables,April 2018,132.6
+Energy 9,April 2018,168.2
+Food and energy 9,May 2018,152.8
+Fresh fruit and vegetables,May 2018,133.4
+Energy 9,May 2018,170.5
+Food and energy 9,June 2018,153.2
+Fresh fruit and vegetables,June 2018,139.0
+Energy 9,June 2018,168.0
+Food and energy 9,July 2018,153.8
+Fresh fruit and vegetables,July 2018,142.7
+Energy 9,July 2018,168.6
+Food and energy 9,August 2018,152.8
+Fresh fruit and vegetables,August 2018,136.6
+Energy 9,August 2018,167.1
+Food and energy 9,September 2018,151.1
+Fresh fruit and vegetables,September 2018,130.9
+Energy 9,September 2018,164.6
+Food and energy 9,October 2018,149.7
+Fresh fruit and vegetables,October 2018,125.1
+Energy 9,October 2018,160.7
+Food and energy 9,November 2018,148.5
+Fresh fruit and vegetables,November 2018,134.0
+Energy 9,November 2018,152.4
+Food and energy 9,December 2018,148.6
+Fresh fruit and vegetables,December 2018,147.6
+Energy 9,December 2018,147.4
+Food and energy 9,January 2019,149.2
+Fresh fruit and vegetables,January 2019,149.8
+Energy 9,January 2019,146.2
+Food and energy 9,February 2019,149.4
+Fresh fruit and vegetables,February 2019,149.8
+Energy 9,February 2019,145.8
+Food and energy 9,March 2019,152.0
+Fresh fruit and vegetables,March 2019,149.1
+Energy 9,March 2019,155.4
+Food and energy 9,April 2019,154.7
+Fresh fruit and vegetables,April 2019,150.1
+Energy 9,April 2019,165.4
+Food and energy 9,May 2019,155.9
+Fresh fruit and vegetables,May 2019,150.1
+Energy 9,May 2019,167.1
+Food and energy 9,June 2019,154.9
+Fresh fruit and vegetables,June 2019,155.7
+Energy 9,June 2019,161.1
+Food and energy 9,July 2019,156.2
+Fresh fruit and vegetables,July 2019,153.1
+Energy 9,July 2019,165.5
+Food and energy 9,August 2019,154.5
+Fresh fruit and vegetables,August 2019,145.3
+Energy 9,August 2019,160.7
+Food and energy 9,September 2019,153.2
+Fresh fruit and vegetables,September 2019,140.8
+Energy 9,September 2019,159.5
+Food and energy 9,October 2019,152.4
+Fresh fruit and vegetables,October 2019,137.1
+Energy 9,October 2019,158.0
+Food and energy 9,November 2019,153.5
+Fresh fruit and vegetables,November 2019,144.5
+Energy 9,November 2019,159.0
+Food and energy 9,December 2019,154.6
+Fresh fruit and vegetables,December 2019,155.5
+Energy 9,December 2019,158.7
+Food and energy 9,January 2020,155.2
+Fresh fruit and vegetables,January 2020,154.2
+Energy 9,January 2020,158.1
+Food and energy 9,February 2020,153.8
+Fresh fruit and vegetables,February 2020,149.5
+Energy 9,February 2020,155.3
+Food and energy 9,March 2020,148.7
+Fresh fruit and vegetables,March 2020,144.0
+Energy 9,March 2020,136.7
+Food and energy 9,April 2020,146.9
+Fresh fruit and vegetables,April 2020,152.3
+Energy 9,April 2020,125.6
+Food and energy 9,May 2020,148.8
+Fresh fruit and vegetables,May 2020,147.6
+Energy 9,May 2020,133.4
+Food and energy 9,June 2020,152.9
+Fresh fruit and vegetables,June 2020,152.6
+Energy 9,June 2020,146.3
+Food and energy 9,July 2020,154.1
+Fresh fruit and vegetables,July 2020,158.2
+Energy 9,July 2020,149.6
+Food and energy 9,August 2020,153.1
+Fresh fruit and vegetables,August 2020,153.5
+Energy 9,August 2020,149.3
+Food and energy 9,September 2020,151.8
+Fresh fruit and vegetables,September 2020,148.4
+Energy 9,September 2020,147.8
+Food and energy 9,October 2020,152.8
+Fresh fruit and vegetables,October 2020,149.4
+Energy 9,October 2020,150.5
+Food and energy 9,November 2020,152.9
+Fresh fruit and vegetables,November 2020,148.8
+Energy 9,November 2020,150.0
+Food and energy 9,December 2020,153.8
+Fresh fruit and vegetables,December 2020,150.9
+Energy 9,December 2020,153.2
+Food and energy 9,January 2021,154.3
+Fresh fruit and vegetables,January 2021,156.9
+Energy 9,January 2021,150.4
+Food and energy 9,February 2021,156.1
+Fresh fruit and vegetables,February 2021,158.5
+Energy 9,February 2021,156.8
+Food and energy 9,March 2021,159.0
+Fresh fruit and vegetables,March 2021,153.1
+Energy 9,March 2021,166.0
+Food and energy 9,April 2021,159.9
+Fresh fruit and vegetables,April 2021,150.0
+Energy 9,April 2021,170.1
+Food and energy 9,May 2021,161.4
+Fresh fruit and vegetables,May 2021,150.4
+Energy 9,May 2021,173.2
+Food and energy 9,June 2021,161.9
+Fresh fruit and vegetables,June 2021,151.2
+Energy 9,June 2021,174.9
+Food and energy 9,July 2021,163.3
+Fresh fruit and vegetables,July 2021,149.7
+Energy 9,July 2021,177.1
+Food and energy 9,August 2021,164.1
+Fresh fruit and vegetables,August 2021,148.7
+Energy 9,August 2021,177.8
+Food and energy 9,September 2021,164.5
+Fresh fruit and vegetables,September 2021,145.9
+Energy 9,September 2021,178.4
+Food and energy 9,October 2021,167.3
+Fresh fruit and vegetables,October 2021,145.5
+Energy 9,October 2021,187.8
+Food and energy 9,November 2021,168.9
+Fresh fruit and vegetables,November 2021,153.6
+Energy 9,November 2021,187.9
+Food and energy 9,December 2021,168.4
+Fresh fruit and vegetables,December 2021,159.1
+Energy 9,December 2021,182.8
+Food and energy 9,January 2022,171.4
+Fresh fruit and vegetables,January 2022,164.5
+Energy 9,January 2022,187.0
+Food and energy 9,February 2022,175.8
+Fresh fruit and vegetables,February 2022,165.0
+Energy 9,February 2022,197.5
+Food and energy 9,March 2022,181.2
+Fresh fruit and vegetables,March 2022,162.6
+Energy 9,March 2022,212.4
+Food and energy 9,April 2022,182.8
+Fresh fruit and vegetables,April 2022,160.7
+Energy 9,April 2022,215.5
+Food and energy 9,May 2022,189.3
+Fresh fruit and vegetables,May 2022,166.7
+Energy 9,May 2022,234.6
+Food and energy 9,June 2022,190.5
+Fresh fruit and vegetables,June 2022,165.9
+Energy 9,June 2022,239.6
+Food and energy 9,July 2022,188.1
+Fresh fruit and vegetables,July 2022,166.0
+Energy 9,July 2022,227.0
+Food and energy 9,August 2022,185.9
+Fresh fruit and vegetables,August 2022,166.0
+Energy 9,August 2022,215.3
+Food and energy 9,September 2022,183.4
+Fresh fruit and vegetables,September 2022,162.7
+Energy 9,September 2022,203.1
+Food and energy 9,October 2022,186.6
+Fresh fruit and vegetables,October 2022,158.6
+Energy 9,October 2022,216.4
+Food and energy 9,November 2022,187.7
+Fresh fruit and vegetables,November 2022,170.4
+Energy 9,November 2022,214.3
+Food and energy 9,December 2022,184.5
+Fresh fruit and vegetables,December 2022,178.3
+Energy 9,December 2022,197.6
+Food and energy 9,January 2023,188.4
+Fresh fruit and vegetables,January 2023,184.7
+Energy 9,January 2023,203.8
+Food and energy 9,February 2023,188.3
+Fresh fruit and vegetables,February 2023,185.2
+Energy 9,February 2023,200.7
+Food and energy 9,March 2023,188.9
+Fresh fruit and vegetables,March 2023,177.2
+Energy 9,March 2023,201.0
+Food and energy 9,April 2023,189.6
+Fresh fruit and vegetables,April 2023,175.1
+Energy 9,April 2023,203.6
+Food and energy 9,May 2023,190.6
+Fresh fruit and vegetables,May 2023,179.1
+Energy 9,May 2023,202.7
+Food and energy 9,June 2023,190.9
+Fresh fruit and vegetables,June 2023,180.3
+Energy 9,June 2023,205.0
+Food and energy 9,July 2023,192.2
+Fresh fruit and vegetables,July 2023,175.1
+Energy 9,July 2023,208.2
+Food and energy 9,August 2023,193.8
+Fresh fruit and vegetables,August 2023,172.1
+Energy 9,August 2023,214.4
+Food and energy 9,September 2023,192.9
+Fresh fruit and vegetables,September 2023,172.3
+Energy 9,September 2023,211.9
+Food and energy 9,October 2023,190.2
+Fresh fruit and vegetables,October 2023,169.1
+Energy 9,October 2023,202.3
+Food and energy 9,November 2023,190.6
+Fresh fruit and vegetables,November 2023,177.2
+Energy 9,November 2023,200.3
+Food and energy 9,December 2023,189.4
+Fresh fruit and vegetables,December 2023,180.2
+Energy 9,December 2023,196.0
+Food and energy 9,January 2024,190.5
+Fresh fruit and vegetables,January 2024,183.6
+Energy 9,January 2024,195.7
+Food and energy 9,February 2024,191.4
+Fresh fruit and vegetables,February 2024,180.1
+Energy 9,February 2024,199.7
+Food and energy 9,March 2024,192.6
+Fresh fruit and vegetables,March 2024,172.0
+Energy 9,March 2024,203.9
+Food and energy 9,April 2024,195.3
+Fresh fruit and vegetables,April 2024,171.4
+Energy 9,April 2024,214.0
+Food and energy 9,May 2024,195.9
+Fresh fruit and vegetables,May 2024,174.7
+Energy 9,May 2024,212.3
+Food and energy 9,June 2024,196.3
+Fresh fruit and vegetables,June 2024,176.6
+Energy 9,June 2024,209.3
+Food and energy 9,July 2024,197.6
+Fresh fruit and vegetables,July 2024,178.0
+Energy 9,July 2024,213.1
+Food and energy 9,August 2024,196.0
+Fresh fruit and vegetables,August 2024,175.2
+Energy 9,August 2024,208.2
+Food and energy 9,September 2024,193.4
+Fresh fruit and vegetables,September 2024,176.9
+Energy 9,September 2024,198.2
+Food and energy 9,October 2024,194.1
+Fresh fruit and vegetables,October 2024,172.5
+Energy 9,October 2024,199.4
+Food and energy 9,November 2024,194.9
+Fresh fruit and vegetables,November 2024,176.4
+Energy 9,November 2024,200.1
+Food and energy 9,December 2024,190.7
+Fresh fruit and vegetables,December 2024,182.5
+Energy 9,December 2024,199.7
+Food and energy 9,January 2025,190.7
+Fresh fruit and vegetables,January 2025,190.6
+Energy 9,January 2025,205.4
+Food and energy 9,February 2025,194.0
+Fresh fruit and vegetables,February 2025,188.0
+Energy 9,February 2025,204.9
+Food and energy 9,March 2025,196.8
+Fresh fruit and vegetables,March 2025,178.6
+Energy 9,March 2025,203.3
+Food and energy 9,April 2025,191.7
+Fresh fruit and vegetables,April 2025,178.2
+Energy 9,April 2025,181.8
+Food and energy 9,May 2025,193.2
+Fresh fruit and vegetables,May 2025,181.1
+Energy 9,May 2025,184.4
+Food and energy 9,January 2015,134.6
+Fresh fruit and vegetables,January 2015,126.5
+Energy 9,January 2015,125.9
+Food and energy 9,February 2015,135.9
+Fresh fruit and vegetables,February 2015,128.7
+Energy 9,February 2015,130.1
+Food and energy 9,March 2015,138.3
+Fresh fruit and vegetables,March 2015,127.3
+Energy 9,March 2015,135.5
+Food and energy 9,April 2015,137.9
+Fresh fruit and vegetables,April 2015,123.7
+Energy 9,April 2015,134.0
+Food and energy 9,May 2015,139.2
+Fresh fruit and vegetables,May 2015,130.6
+Energy 9,May 2015,136.3
+Food and energy 9,June 2015,141.4
+Fresh fruit and vegetables,June 2015,128.4
+Energy 9,June 2015,143.6
+Food and energy 9,July 2015,140.9
+Fresh fruit and vegetables,July 2015,129.7
+Energy 9,July 2015,141.9
+Food and energy 9,August 2015,142.8
+Fresh fruit and vegetables,August 2015,125.6
+Energy 9,August 2015,147.5
+Food and energy 9,September 2015,140.0
+Fresh fruit and vegetables,September 2015,125.7
+Energy 9,September 2015,139.7
+Food and energy 9,October 2015,141.3
+Fresh fruit and vegetables,October 2015,126.6
+Energy 9,October 2015,142.9
+Food and energy 9,November 2015,140.2
+Fresh fruit and vegetables,November 2015,130.0
+Energy 9,November 2015,138.2
+Food and energy 9,December 2015,137.6
+Fresh fruit and vegetables,December 2015,133.8
+Energy 9,December 2015,128.6
+Food and energy 9,January 2016,137.5
+Fresh fruit and vegetables,January 2016,143.8
+Energy 9,January 2016,126.2
+Food and energy 9,February 2016,134.0
+Fresh fruit and vegetables,February 2016,132.0
+Energy 9,February 2016,117.9
+Food and energy 9,March 2016,136.9
+Fresh fruit and vegetables,March 2016,132.5
+Energy 9,March 2016,126.3
+Food and energy 9,April 2016,138.4
+Fresh fruit and vegetables,April 2016,127.2
+Energy 9,April 2016,130.5
+Food and energy 9,May 2016,139.6
+Fresh fruit and vegetables,May 2016,127.7
+Energy 9,May 2016,134.3
+Food and energy 9,June 2016,143.4
+Fresh fruit and vegetables,June 2016,130.4
+Energy 9,June 2016,147.1
+Food and energy 9,July 2016,140.1
+Fresh fruit and vegetables,July 2016,129.0
+Energy 9,July 2016,135.6
+Food and energy 9,August 2016,140.8
+Fresh fruit and vegetables,August 2016,126.9
+Energy 9,August 2016,137.5
+Food and energy 9,September 2016,138.1
+Fresh fruit and vegetables,September 2016,122.6
+Energy 9,September 2016,137.2
+Food and energy 9,October 2016,138.6
+Fresh fruit and vegetables,October 2016,118.3
+Energy 9,October 2016,140.5
+Food and energy 9,November 2016,135.0
+Fresh fruit and vegetables,November 2016,121.9
+Energy 9,November 2016,130.5
+Food and energy 9,December 2016,135.3
+Fresh fruit and vegetables,December 2016,123.1
+Energy 9,December 2016,131.8
+Food and energy 9,January 2017,138.4
+Fresh fruit and vegetables,January 2017,125.0
+Energy 9,January 2017,139.9
+Food and energy 9,February 2017,137.2
+Fresh fruit and vegetables,February 2017,124.3
+Energy 9,February 2017,136.2
+Food and energy 9,March 2017,138.0
+Fresh fruit and vegetables,March 2017,126.2
+Energy 9,March 2017,135.8
+Food and energy 9,April 2017,139.4
+Fresh fruit and vegetables,April 2017,123.2
+Energy 9,April 2017,140.4
+Food and energy 9,May 2017,138.1
+Fresh fruit and vegetables,May 2017,132.7
+Energy 9,May 2017,134.2
+Food and energy 9,June 2017,138.6
+Fresh fruit and vegetables,June 2017,142.1
+Energy 9,June 2017,132.9
+Food and energy 9,July 2017,138.3
+Fresh fruit and vegetables,July 2017,142.5
+Energy 9,July 2017,130.3
+Food and energy 9,August 2017,140.2
+Fresh fruit and vegetables,August 2017,143.4
+Energy 9,August 2017,133.4
+Food and energy 9,September 2017,141.5
+Fresh fruit and vegetables,September 2017,135.2
+Energy 9,September 2017,140.3
+Food and energy 9,October 2017,140.9
+Fresh fruit and vegetables,October 2017,129.9
+Energy 9,October 2017,140.1
+Food and energy 9,November 2017,143.4
+Fresh fruit and vegetables,November 2017,135.0
+Energy 9,November 2017,146.6
+Food and energy 9,December 2017,141.2
+Fresh fruit and vegetables,December 2017,136.5
+Energy 9,December 2017,142.5
+Food and energy 9,January 2018,143.1
+Fresh fruit and vegetables,January 2018,137.5
+Energy 9,January 2018,145.2
+Food and energy 9,February 2018,141.8
+Fresh fruit and vegetables,February 2018,135.8
+Energy 9,February 2018,143.1
+Food and energy 9,March 2018,142.5
+Fresh fruit and vegetables,March 2018,131.9
+Energy 9,March 2018,144.9
+Food and energy 9,April 2018,146.1
+Fresh fruit and vegetables,April 2018,132.0
+Energy 9,April 2018,154.5
+Food and energy 9,May 2018,146.4
+Fresh fruit and vegetables,May 2018,132.2
+Energy 9,May 2018,157.7
+Food and energy 9,June 2018,147.1
+Fresh fruit and vegetables,June 2018,135.8
+Energy 9,June 2018,159.9
+Food and energy 9,July 2018,147.8
+Fresh fruit and vegetables,July 2018,137.1
+Energy 9,July 2018,158.6
+Food and energy 9,August 2018,147.3
+Fresh fruit and vegetables,August 2018,139.9
+Energy 9,August 2018,155.4
+Food and energy 9,September 2018,146.6
+Fresh fruit and vegetables,September 2018,138.6
+Energy 9,September 2018,154.6
+Food and energy 9,October 2018,146.0
+Fresh fruit and vegetables,October 2018,136.4
+Energy 9,October 2018,151.1
+Food and energy 9,November 2018,144.3
+Fresh fruit and vegetables,November 2018,143.8
+Energy 9,November 2018,144.2
+Food and energy 9,December 2018,143.4
+Fresh fruit and vegetables,December 2018,145.7
+Energy 9,December 2018,139.5
+Food and energy 9,January 2019,142.5
+Fresh fruit and vegetables,January 2019,145.8
+Energy 9,January 2019,135.1
+Food and energy 9,February 2019,144.8
+Fresh fruit and vegetables,February 2019,147.6
+Energy 9,February 2019,141.2
+Food and energy 9,March 2019,147.2
+Fresh fruit and vegetables,March 2019,151.2
+Energy 9,March 2019,149.4
+Food and energy 9,April 2019,151.0
+Fresh fruit and vegetables,April 2019,148.5
+Energy 9,April 2019,164.3
+Food and energy 9,May 2019,150.9
+Fresh fruit and vegetables,May 2019,148.1
+Energy 9,May 2019,163.2
+Food and energy 9,June 2019,150.3
+Fresh fruit and vegetables,June 2019,153.5
+Energy 9,June 2019,157.3
+Food and energy 9,July 2019,150.9
+Fresh fruit and vegetables,July 2019,154.1
+Energy 9,July 2019,157.8
+Food and energy 9,August 2019,148.9
+Fresh fruit and vegetables,August 2019,148.3
+Energy 9,August 2019,152.7
+Food and energy 9,September 2019,148.3
+Fresh fruit and vegetables,September 2019,141.1
+Energy 9,September 2019,153.0
+Food and energy 9,October 2019,150.0
+Fresh fruit and vegetables,October 2019,142.3
+Energy 9,October 2019,155.2
+Food and energy 9,November 2019,147.2
+Fresh fruit and vegetables,November 2019,144.4
+Energy 9,November 2019,148.2
+Food and energy 9,December 2019,147.2
+Fresh fruit and vegetables,December 2019,152.6
+Energy 9,December 2019,145.5
+Food and energy 9,January 2020,147.7
+Fresh fruit and vegetables,January 2020,155.7
+Energy 9,January 2020,144.1
+Food and energy 9,February 2020,147.5
+Fresh fruit and vegetables,February 2020,148.0
+Energy 9,February 2020,144.4
+Food and energy 9,March 2020,143.3
+Fresh fruit and vegetables,March 2020,146.7
+Energy 9,March 2020,130.9
+Food and energy 9,April 2020,139.6
+Fresh fruit and vegetables,April 2020,150.0
+Energy 9,April 2020,119.2
+Food and energy 9,May 2020,144.2
+Fresh fruit and vegetables,May 2020,150.5
+Energy 9,May 2020,131.9
+Food and energy 9,June 2020,147.3
+Fresh fruit and vegetables,June 2020,155.3
+Energy 9,June 2020,139.7
+Food and energy 9,July 2020,148.8
+Fresh fruit and vegetables,July 2020,156.4
+Energy 9,July 2020,143.1
+Food and energy 9,August 2020,147.3
+Fresh fruit and vegetables,August 2020,152.5
+Energy 9,August 2020,141.9
+Food and energy 9,September 2020,146.3
+Fresh fruit and vegetables,September 2020,150.8
+Energy 9,September 2020,141.0
+Food and energy 9,October 2020,148.1
+Fresh fruit and vegetables,October 2020,152.4
+Energy 9,October 2020,144.4
+Food and energy 9,November 2020,148.9
+Fresh fruit and vegetables,November 2020,156.2
+Energy 9,November 2020,143.5
+Food and energy 9,December 2020,148.0
+Fresh fruit and vegetables,December 2020,153.4
+Energy 9,December 2020,144.7
+Food and energy 9,January 2021,150.0
+Fresh fruit and vegetables,January 2021,155.2
+Energy 9,January 2021,150.2
+Food and energy 9,February 2021,152.2
+Fresh fruit and vegetables,February 2021,155.4
+Energy 9,February 2021,154.5
+Food and energy 9,March 2021,154.0
+Fresh fruit and vegetables,March 2021,153.3
+Energy 9,March 2021,159.7
+Food and energy 9,April 2021,154.9
+Fresh fruit and vegetables,April 2021,144.3
+Energy 9,April 2021,165.8
+Food and energy 9,May 2021,157.1
+Fresh fruit and vegetables,May 2021,151.6
+Energy 9,May 2021,169.7
+Food and energy 9,June 2021,157.1
+Fresh fruit and vegetables,June 2021,149.1
+Energy 9,June 2021,169.2
+Food and energy 9,July 2021,158.4
+Fresh fruit and vegetables,July 2021,148.4
+Energy 9,July 2021,172.8
+Food and energy 9,August 2021,159.0
+Fresh fruit and vegetables,August 2021,148.6
+Energy 9,August 2021,174.1
+Food and energy 9,September 2021,159.8
+Fresh fruit and vegetables,September 2021,146.3
+Energy 9,September 2021,174.3
+Food and energy 9,October 2021,162.4
+Fresh fruit and vegetables,October 2021,147.2
+Energy 9,October 2021,182.1
+Food and energy 9,November 2021,163.3
+Fresh fruit and vegetables,November 2021,155.2
+Energy 9,November 2021,182.5
+Food and energy 9,December 2021,160.8
+Fresh fruit and vegetables,December 2021,153.5
+Energy 9,December 2021,176.0
+Food and energy 9,January 2022,165.7
+Fresh fruit and vegetables,January 2022,161.4
+Energy 9,January 2022,184.2
+Food and energy 9,February 2022,168.1
+Fresh fruit and vegetables,February 2022,163.2
+Energy 9,February 2022,189.1
+Food and energy 9,March 2022,175.2
+Fresh fruit and vegetables,March 2022,164.4
+Energy 9,March 2022,207.7
+Food and energy 9,April 2022,176.7
+Fresh fruit and vegetables,April 2022,159.4
+Energy 9,April 2022,209.5
+Food and energy 9,May 2022,180.9
+Fresh fruit and vegetables,May 2022,163.5
+Energy 9,May 2022,221.0
+Food and energy 9,June 2022,186.4
+Fresh fruit and vegetables,June 2022,164.1
+Energy 9,June 2022,238.0
+Food and energy 9,July 2022,184.0
+Fresh fruit and vegetables,July 2022,166.0
+Energy 9,July 2022,226.3
+Food and energy 9,August 2022,181.3
+Fresh fruit and vegetables,August 2022,167.3
+Energy 9,August 2022,210.2
+Food and energy 9,September 2022,181.9
+Fresh fruit and vegetables,September 2022,166.2
+Energy 9,September 2022,209.6
+Food and energy 9,October 2022,186.5
+Fresh fruit and vegetables,October 2022,167.5
+Energy 9,October 2022,221.3
+Food and energy 9,November 2022,186.3
+Fresh fruit and vegetables,November 2022,178.1
+Energy 9,November 2022,214.7
+Food and energy 9,December 2022,180.7
+Fresh fruit and vegetables,December 2022,178.2
+Energy 9,December 2022,198.8
+Food and energy 9,January 2023,181.9
+Fresh fruit and vegetables,January 2023,184.2
+Energy 9,January 2023,196.1
+Food and energy 9,February 2023,182.8
+Fresh fruit and vegetables,February 2023,179.2
+Energy 9,February 2023,198.2
+Food and energy 9,March 2023,182.8
+Fresh fruit and vegetables,March 2023,176.9
+Energy 9,March 2023,197.1
+Food and energy 9,April 2023,186.8
+Fresh fruit and vegetables,April 2023,173.5
+Energy 9,April 2023,206.4
+Food and energy 9,May 2023,186.8
+Fresh fruit and vegetables,May 2023,180.4
+Energy 9,May 2023,205.4
+Food and energy 9,June 2023,185.5
+Fresh fruit and vegetables,June 2023,179.7
+Energy 9,June 2023,201.3
+Food and energy 9,July 2023,186.3
+Fresh fruit and vegetables,July 2023,177.1
+Energy 9,July 2023,201.2
+Food and energy 9,August 2023,187.5
+Fresh fruit and vegetables,August 2023,173.7
+Energy 9,August 2023,205.2
+Food and energy 9,September 2023,187.4
+Fresh fruit and vegetables,September 2023,172.3
+Energy 9,September 2023,205.4
+Food and energy 9,October 2023,185.2
+Fresh fruit and vegetables,October 2023,165.6
+Energy 9,October 2023,199.6
+Food and energy 9,November 2023,185.4
+Fresh fruit and vegetables,November 2023,175.5
+Energy 9,November 2023,195.8
+Food and energy 9,December 2023,182.6
+Fresh fruit and vegetables,December 2023,181.8
+Energy 9,December 2023,184.4
+Food and energy 9,January 2024,178.5
+Fresh fruit and vegetables,January 2024,185.1
+Energy 9,January 2024,169.5
+Food and energy 9,February 2024,180.0
+Fresh fruit and vegetables,February 2024,182.8
+Energy 9,February 2024,175.1
+Food and energy 9,March 2024,182.4
+Fresh fruit and vegetables,March 2024,177.8
+Energy 9,March 2024,182.6
+Food and energy 9,April 2024,183.4
+Fresh fruit and vegetables,April 2024,171.5
+Energy 9,April 2024,188.4
+Food and energy 9,May 2024,186.0
+Fresh fruit and vegetables,May 2024,184.1
+Energy 9,May 2024,189.2
+Food and energy 9,June 2024,185.5
+Fresh fruit and vegetables,June 2024,186.5
+Energy 9,June 2024,185.7
+Food and energy 9,July 2024,188.1
+Fresh fruit and vegetables,July 2024,186.9
+Energy 9,July 2024,191.8
+Food and energy 9,August 2024,188.3
+Fresh fruit and vegetables,August 2024,181.9
+Energy 9,August 2024,193.4
+Food and energy 9,September 2024,184.3
+Fresh fruit and vegetables,September 2024,183.0
+Energy 9,September 2024,181.2
+Food and energy 9,October 2024,184.4
+Fresh fruit and vegetables,October 2024,176.4
+Energy 9,October 2024,179.8
+Food and energy 9,November 2024,184.6
+Fresh fruit and vegetables,November 2024,182.9
+Energy 9,November 2024,177.3
+Food and energy 9,December 2024,182.4
+Fresh fruit and vegetables,December 2024,183.8
+Energy 9,December 2024,177.3
+Food and energy 9,January 2025,187.1
+Fresh fruit and vegetables,January 2025,188.4
+Energy 9,January 2025,194.0
+Food and energy 9,February 2025,190.7
+Fresh fruit and vegetables,February 2025,190.9
+Energy 9,February 2025,199.8
+Food and energy 9,March 2025,191.5
+Fresh fruit and vegetables,March 2025,187.6
+Energy 9,March 2025,197.6
+Food and energy 9,April 2025,185.1
+Fresh fruit and vegetables,April 2025,187.4
+Energy 9,April 2025,175.6
+Food and energy 9,May 2025,186.3
+Fresh fruit and vegetables,May 2025,188.9
+Energy 9,May 2025,177.1
+Food and energy 9,January 2015,135.2
+Fresh fruit and vegetables,January 2015,136.3
+Energy 9,January 2015,125.7
+Food and energy 9,February 2015,137.2
+Fresh fruit and vegetables,February 2015,140.2
+Energy 9,February 2015,131.7
+Food and energy 9,March 2015,139.0
+Fresh fruit and vegetables,March 2015,137.4
+Energy 9,March 2015,135.4
+Food and energy 9,April 2015,138.5
+Fresh fruit and vegetables,April 2015,132.6
+Energy 9,April 2015,134.0
+Food and energy 9,May 2015,140.7
+Fresh fruit and vegetables,May 2015,142.6
+Energy 9,May 2015,136.4
+Food and energy 9,June 2015,143.3
+Fresh fruit and vegetables,June 2015,141.5
+Energy 9,June 2015,143.8
+Food and energy 9,July 2015,142.8
+Fresh fruit and vegetables,July 2015,146.5
+Energy 9,July 2015,141.9
+Food and energy 9,August 2015,144.1
+Fresh fruit and vegetables,August 2015,143.3
+Energy 9,August 2015,145.3
+Food and energy 9,September 2015,141.5
+Fresh fruit and vegetables,September 2015,144.5
+Energy 9,September 2015,138.6
+Food and energy 9,October 2015,141.9
+Fresh fruit and vegetables,October 2015,145.0
+Energy 9,October 2015,139.9
+Food and energy 9,November 2015,141.3
+Fresh fruit and vegetables,November 2015,150.6
+Energy 9,November 2015,137.1
+Food and energy 9,December 2015,139.1
+Fresh fruit and vegetables,December 2015,153.7
+Energy 9,December 2015,129.0
+Food and energy 9,January 2016,137.3
+Fresh fruit and vegetables,January 2016,163.5
+Energy 9,January 2016,121.6
+Food and energy 9,February 2016,134.8
+Fresh fruit and vegetables,February 2016,151.7
+Energy 9,February 2016,117.2
+Food and energy 9,March 2016,138.0
+Fresh fruit and vegetables,March 2016,148.9
+Energy 9,March 2016,124.9
+Food and energy 9,April 2016,138.6
+Fresh fruit and vegetables,April 2016,141.6
+Energy 9,April 2016,128.2
+Food and energy 9,May 2016,140.1
+Fresh fruit and vegetables,May 2016,142.9
+Energy 9,May 2016,132.1
+Food and energy 9,June 2016,143.0
+Fresh fruit and vegetables,June 2016,147.2
+Energy 9,June 2016,140.8
+Food and energy 9,July 2016,141.3
+Fresh fruit and vegetables,July 2016,144.0
+Energy 9,July 2016,133.7
+Food and energy 9,August 2016,141.0
+Fresh fruit and vegetables,August 2016,145.2
+Energy 9,August 2016,134.7
+Food and energy 9,September 2016,139.3
+Fresh fruit and vegetables,September 2016,142.0
+Energy 9,September 2016,135.3
+Food and energy 9,October 2016,138.7
+Fresh fruit and vegetables,October 2016,137.4
+Energy 9,October 2016,136.1
+Food and energy 9,November 2016,136.5
+Fresh fruit and vegetables,November 2016,144.3
+Energy 9,November 2016,129.6
+Food and energy 9,December 2016,138.3
+Fresh fruit and vegetables,December 2016,146.6
+Energy 9,December 2016,132.6
+Food and energy 9,January 2017,141.0
+Fresh fruit and vegetables,January 2017,147.0
+Energy 9,January 2017,140.1
+Food and energy 9,February 2017,139.0
+Fresh fruit and vegetables,February 2017,145.2
+Energy 9,February 2017,134.8
+Food and energy 9,March 2017,139.6
+Fresh fruit and vegetables,March 2017,144.5
+Energy 9,March 2017,134.3
+Food and energy 9,April 2017,143.7
+Fresh fruit and vegetables,April 2017,145.7
+Energy 9,April 2017,139.9
+Food and energy 9,May 2017,142.2
+Fresh fruit and vegetables,May 2017,150.9
+Energy 9,May 2017,135.7
+Food and energy 9,June 2017,142.3
+Fresh fruit and vegetables,June 2017,154.4
+Energy 9,June 2017,133.9
+Food and energy 9,July 2017,142.8
+Fresh fruit and vegetables,July 2017,157.7
+Energy 9,July 2017,134.6
+Food and energy 9,August 2017,143.5
+Fresh fruit and vegetables,August 2017,156.6
+Energy 9,August 2017,136.0
+Food and energy 9,September 2017,143.6
+Fresh fruit and vegetables,September 2017,148.2
+Energy 9,September 2017,138.6
+Food and energy 9,October 2017,142.9
+Fresh fruit and vegetables,October 2017,142.0
+Energy 9,October 2017,138.2
+Food and energy 9,November 2017,146.4
+Fresh fruit and vegetables,November 2017,148.4
+Energy 9,November 2017,146.3
+Food and energy 9,December 2017,144.5
+Fresh fruit and vegetables,December 2017,151.9
+Energy 9,December 2017,142.6
+Food and energy 9,January 2018,145.5
+Fresh fruit and vegetables,January 2018,153.1
+Energy 9,January 2018,144.5
+Food and energy 9,February 2018,144.2
+Fresh fruit and vegetables,February 2018,151.4
+Energy 9,February 2018,142.5
+Food and energy 9,March 2018,146.3
+Fresh fruit and vegetables,March 2018,148.4
+Energy 9,March 2018,147.1
+Food and energy 9,April 2018,148.6
+Fresh fruit and vegetables,April 2018,144.3
+Energy 9,April 2018,152.7
+Food and energy 9,May 2018,149.9
+Fresh fruit and vegetables,May 2018,145.5
+Energy 9,May 2018,156.9
+Food and energy 9,June 2018,149.9
+Fresh fruit and vegetables,June 2018,147.7
+Energy 9,June 2018,156.8
+Food and energy 9,July 2018,150.9
+Fresh fruit and vegetables,July 2018,152.5
+Energy 9,July 2018,158.1
+Food and energy 9,August 2018,150.1
+Fresh fruit and vegetables,August 2018,152.1
+Energy 9,August 2018,156.4
+Food and energy 9,September 2018,149.5
+Fresh fruit and vegetables,September 2018,147.7
+Energy 9,September 2018,155.8
+Food and energy 9,October 2018,149.7
+Fresh fruit and vegetables,October 2018,146.5
+Energy 9,October 2018,156.0
+Food and energy 9,November 2018,147.7
+Fresh fruit and vegetables,November 2018,155.2
+Energy 9,November 2018,148.2
+Food and energy 9,December 2018,145.5
+Fresh fruit and vegetables,December 2018,161.6
+Energy 9,December 2018,139.8
+Food and energy 9,January 2019,144.9
+Fresh fruit and vegetables,January 2019,162.4
+Energy 9,January 2019,135.7
+Food and energy 9,February 2019,146.9
+Fresh fruit and vegetables,February 2019,164.0
+Energy 9,February 2019,140.5
+Food and energy 9,March 2019,148.7
+Fresh fruit and vegetables,March 2019,164.4
+Energy 9,March 2019,147.2
+Food and energy 9,April 2019,153.7
+Fresh fruit and vegetables,April 2019,161.5
+Energy 9,April 2019,161.4
+Food and energy 9,May 2019,153.5
+Fresh fruit and vegetables,May 2019,160.5
+Energy 9,May 2019,160.8
+Food and energy 9,June 2019,151.8
+Fresh fruit and vegetables,June 2019,169.7
+Energy 9,June 2019,154.1
+Food and energy 9,July 2019,153.0
+Fresh fruit and vegetables,July 2019,168.6
+Energy 9,July 2019,154.1
+Food and energy 9,August 2019,150.6
+Fresh fruit and vegetables,August 2019,163.5
+Energy 9,August 2019,149.9
+Food and energy 9,September 2019,150.5
+Fresh fruit and vegetables,September 2019,157.9
+Energy 9,September 2019,148.4
+Food and energy 9,October 2019,151.5
+Fresh fruit and vegetables,October 2019,155.3
+Energy 9,October 2019,149.8
+Food and energy 9,November 2019,150.2
+Fresh fruit and vegetables,November 2019,159.8
+Energy 9,November 2019,146.4
+Food and energy 9,December 2019,151.0
+Fresh fruit and vegetables,December 2019,165.3
+Energy 9,December 2019,148.1
+Food and energy 9,January 2020,153.4
+Fresh fruit and vegetables,January 2020,173.9
+Energy 9,January 2020,150.0
+Food and energy 9,February 2020,151.5
+Fresh fruit and vegetables,February 2020,165.3
+Energy 9,February 2020,147.3
+Food and energy 9,March 2020,147.4
+Fresh fruit and vegetables,March 2020,165.6
+Energy 9,March 2020,134.5
+Food and energy 9,April 2020,142.0
+Fresh fruit and vegetables,April 2020,157.6
+Energy 9,April 2020,122.7
+Food and energy 9,May 2020,147.3
+Fresh fruit and vegetables,May 2020,159.1
+Energy 9,May 2020,134.4
+Food and energy 9,June 2020,150.4
+Fresh fruit and vegetables,June 2020,165.0
+Energy 9,June 2020,141.4
+Food and energy 9,July 2020,152.2
+Fresh fruit and vegetables,July 2020,166.4
+Energy 9,July 2020,145.8
+Food and energy 9,August 2020,151.1
+Fresh fruit and vegetables,August 2020,162.1
+Energy 9,August 2020,145.3
+Food and energy 9,September 2020,150.5
+Fresh fruit and vegetables,September 2020,156.1
+Energy 9,September 2020,146.2
+Food and energy 9,October 2020,150.5
+Fresh fruit and vegetables,October 2020,156.9
+Energy 9,October 2020,144.4
+Food and energy 9,November 2020,150.5
+Fresh fruit and vegetables,November 2020,161.4
+Energy 9,November 2020,143.0
+Food and energy 9,December 2020,150.1
+Fresh fruit and vegetables,December 2020,160.3
+Energy 9,December 2020,144.2
+Food and energy 9,January 2021,150.8
+Fresh fruit and vegetables,January 2021,166.3
+Energy 9,January 2021,142.4
+Food and energy 9,February 2021,153.1
+Fresh fruit and vegetables,February 2021,166.1
+Energy 9,February 2021,147.2
+Food and energy 9,March 2021,155.5
+Fresh fruit and vegetables,March 2021,160.2
+Energy 9,March 2021,153.9
+Food and energy 9,April 2021,157.1
+Fresh fruit and vegetables,April 2021,155.0
+Energy 9,April 2021,160.0
+Food and energy 9,May 2021,158.4
+Fresh fruit and vegetables,May 2021,160.6
+Energy 9,May 2021,159.8
+Food and energy 9,June 2021,159.2
+Fresh fruit and vegetables,June 2021,160.3
+Energy 9,June 2021,160.2
+Food and energy 9,July 2021,160.2
+Fresh fruit and vegetables,July 2021,156.8
+Energy 9,July 2021,163.6
+Food and energy 9,August 2021,160.0
+Fresh fruit and vegetables,August 2021,158.2
+Energy 9,August 2021,163.8
+Food and energy 9,September 2021,161.2
+Fresh fruit and vegetables,September 2021,157.2
+Energy 9,September 2021,164.0
+Food and energy 9,October 2021,163.1
+Fresh fruit and vegetables,October 2021,157.8
+Energy 9,October 2021,171.3
+Food and energy 9,November 2021,165.5
+Fresh fruit and vegetables,November 2021,165.6
+Energy 9,November 2021,174.4
+Food and energy 9,December 2021,162.7
+Fresh fruit and vegetables,December 2021,166.6
+Energy 9,December 2021,165.5
+Food and energy 9,January 2022,167.2
+Fresh fruit and vegetables,January 2022,173.7
+Energy 9,January 2022,173.6
+Food and energy 9,February 2022,171.0
+Fresh fruit and vegetables,February 2022,174.9
+Energy 9,February 2022,180.8
+Food and energy 9,March 2022,177.0
+Fresh fruit and vegetables,March 2022,172.1
+Energy 9,March 2022,198.1
+Food and energy 9,April 2022,177.7
+Fresh fruit and vegetables,April 2022,169.2
+Energy 9,April 2022,198.2
+Food and energy 9,May 2022,182.2
+Fresh fruit and vegetables,May 2022,175.9
+Energy 9,May 2022,208.8
+Food and energy 9,June 2022,187.8
+Fresh fruit and vegetables,June 2022,175.3
+Energy 9,June 2022,225.1
+Food and energy 9,July 2022,185.9
+Fresh fruit and vegetables,July 2022,175.5
+Energy 9,July 2022,214.6
+Food and energy 9,August 2022,179.1
+Fresh fruit and vegetables,August 2022,177.3
+Energy 9,August 2022,190.4
+Food and energy 9,September 2022,180.9
+Fresh fruit and vegetables,September 2022,177.2
+Energy 9,September 2022,190.6
+Food and energy 9,October 2022,187.9
+Fresh fruit and vegetables,October 2022,173.8
+Energy 9,October 2022,212.2
+Food and energy 9,November 2022,184.7
+Fresh fruit and vegetables,November 2022,189.0
+Energy 9,November 2022,199.0
+Food and energy 9,December 2022,180.2
+Fresh fruit and vegetables,December 2022,192.0
+Energy 9,December 2022,184.9
+Food and energy 9,January 2023,184.0
+Fresh fruit and vegetables,January 2023,198.2
+Energy 9,January 2023,190.4
+Food and energy 9,February 2023,184.3
+Fresh fruit and vegetables,February 2023,192.7
+Energy 9,February 2023,189.6
+Food and energy 9,March 2023,186.6
+Fresh fruit and vegetables,March 2023,190.4
+Energy 9,March 2023,194.6
+Food and energy 9,April 2023,189.4
+Fresh fruit and vegetables,April 2023,186.1
+Energy 9,April 2023,202.6
+Food and energy 9,May 2023,189.7
+Fresh fruit and vegetables,May 2023,190.8
+Energy 9,May 2023,201.4
+Food and energy 9,June 2023,189.7
+Fresh fruit and vegetables,June 2023,190.8
+Energy 9,June 2023,201.5
+Food and energy 9,July 2023,189.8
+Fresh fruit and vegetables,July 2023,187.4
+Energy 9,July 2023,199.1
+Food and energy 9,August 2023,191.3
+Fresh fruit and vegetables,August 2023,182.3
+Energy 9,August 2023,203.6
+Food and energy 9,September 2023,191.0
+Fresh fruit and vegetables,September 2023,181.8
+Energy 9,September 2023,203.0
+Food and energy 9,October 2023,188.9
+Fresh fruit and vegetables,October 2023,173.9
+Energy 9,October 2023,196.9
+Food and energy 9,November 2023,188.0
+Fresh fruit and vegetables,November 2023,183.7
+Energy 9,November 2023,190.7
+Food and energy 9,December 2023,185.7
+Fresh fruit and vegetables,December 2023,190.3
+Energy 9,December 2023,182.2
+Food and energy 9,January 2024,184.3
+Fresh fruit and vegetables,January 2024,197.2
+Energy 9,January 2024,173.0
+Food and energy 9,February 2024,185.8
+Fresh fruit and vegetables,February 2024,195.3
+Energy 9,February 2024,179.0
+Food and energy 9,March 2024,188.3
+Fresh fruit and vegetables,March 2024,188.5
+Energy 9,March 2024,188.2
+Food and energy 9,April 2024,189.8
+Fresh fruit and vegetables,April 2024,182.6
+Energy 9,April 2024,192.8
+Food and energy 9,May 2024,190.8
+Fresh fruit and vegetables,May 2024,191.1
+Energy 9,May 2024,190.7
+Food and energy 9,June 2024,190.6
+Fresh fruit and vegetables,June 2024,192.4
+Energy 9,June 2024,189.4
+Food and energy 9,July 2024,193.0
+Fresh fruit and vegetables,July 2024,194.4
+Energy 9,July 2024,194.5
+Food and energy 9,August 2024,193.8
+Fresh fruit and vegetables,August 2024,190.5
+Energy 9,August 2024,197.9
+Food and energy 9,September 2024,189.6
+Fresh fruit and vegetables,September 2024,185.8
+Energy 9,September 2024,186.8
+Food and energy 9,October 2024,189.9
+Fresh fruit and vegetables,October 2024,184.5
+Energy 9,October 2024,185.1
+Food and energy 9,November 2024,189.9
+Fresh fruit and vegetables,November 2024,191.8
+Energy 9,November 2024,183.4
+Food and energy 9,December 2024,188.5
+Fresh fruit and vegetables,December 2024,193.0
+Energy 9,December 2024,183.5
+Food and energy 9,January 2025,190.1
+Fresh fruit and vegetables,January 2025,199.4
+Energy 9,January 2025,188.6
+Food and energy 9,February 2025,193.4
+Fresh fruit and vegetables,February 2025,202.9
+Energy 9,February 2025,192.5
+Food and energy 9,March 2025,194.0
+Fresh fruit and vegetables,March 2025,195.9
+Energy 9,March 2025,190.8
+Food and energy 9,April 2025,189.7
+Fresh fruit and vegetables,April 2025,195.7
+Energy 9,April 2025,174.3
+Food and energy 9,May 2025,189.5
+Fresh fruit and vegetables,May 2025,196.0
+Energy 9,May 2025,173.1
+Food and energy 9,January 2015,138.4
+Fresh fruit and vegetables,January 2015,123.7
+Energy 9,January 2015,138.5
+Food and energy 9,February 2015,139.0
+Fresh fruit and vegetables,February 2015,126.0
+Energy 9,February 2015,140.1
+Food and energy 9,March 2015,139.7
+Fresh fruit and vegetables,March 2015,123.5
+Energy 9,March 2015,142.8
+Food and energy 9,April 2015,140.2
+Fresh fruit and vegetables,April 2015,117.8
+Energy 9,April 2015,144.2
+Food and energy 9,May 2015,140.2
+Fresh fruit and vegetables,May 2015,124.2
+Energy 9,May 2015,141.0
+Food and energy 9,June 2015,143.6
+Fresh fruit and vegetables,June 2015,121.4
+Energy 9,June 2015,152.7
+Food and energy 9,July 2015,144.7
+Fresh fruit and vegetables,July 2015,123.9
+Energy 9,July 2015,155.9
+Food and energy 9,August 2015,146.1
+Fresh fruit and vegetables,August 2015,123.0
+Energy 9,August 2015,160.8
+Food and energy 9,September 2015,143.1
+Fresh fruit and vegetables,September 2015,124.9
+Energy 9,September 2015,150.1
+Food and energy 9,October 2015,143.9
+Fresh fruit and vegetables,October 2015,124.8
+Energy 9,October 2015,152.9
+Food and energy 9,November 2015,142.1
+Fresh fruit and vegetables,November 2015,130.2
+Energy 9,November 2015,144.5
+Food and energy 9,December 2015,139.9
+Fresh fruit and vegetables,December 2015,133.4
+Energy 9,December 2015,135.4
+Food and energy 9,January 2016,139.7
+Fresh fruit and vegetables,January 2016,143.0
+Energy 9,January 2016,129.1
+Food and energy 9,February 2016,137.3
+Fresh fruit and vegetables,February 2016,132.2
+Energy 9,February 2016,123.7
+Food and energy 9,March 2016,139.4
+Fresh fruit and vegetables,March 2016,129.5
+Energy 9,March 2016,131.8
+Food and energy 9,April 2016,138.6
+Fresh fruit and vegetables,April 2016,126.9
+Energy 9,April 2016,128.9
+Food and energy 9,May 2016,139.8
+Fresh fruit and vegetables,May 2016,123.8
+Energy 9,May 2016,133.0
+Food and energy 9,June 2016,143.1
+Fresh fruit and vegetables,June 2016,126.3
+Energy 9,June 2016,144.6
+Food and energy 9,July 2016,141.9
+Fresh fruit and vegetables,July 2016,125.4
+Energy 9,July 2016,139.5
+Food and energy 9,August 2016,143.4
+Fresh fruit and vegetables,August 2016,123.4
+Energy 9,August 2016,143.5
+Food and energy 9,September 2016,139.6
+Fresh fruit and vegetables,September 2016,121.8
+Energy 9,September 2016,139.0
+Food and energy 9,October 2016,139.8
+Fresh fruit and vegetables,October 2016,115.2
+Energy 9,October 2016,142.9
+Food and energy 9,November 2016,138.4
+Fresh fruit and vegetables,November 2016,122.6
+Energy 9,November 2016,135.7
+Food and energy 9,December 2016,139.2
+Fresh fruit and vegetables,December 2016,125.3
+Energy 9,December 2016,137.4
+Food and energy 9,January 2017,145.6
+Fresh fruit and vegetables,January 2017,122.9
+Energy 9,January 2017,159.5
+Food and energy 9,February 2017,142.3
+Fresh fruit and vegetables,February 2017,125.1
+Energy 9,February 2017,146.1
+Food and energy 9,March 2017,141.5
+Fresh fruit and vegetables,March 2017,126.1
+Energy 9,March 2017,141.8
+Food and energy 9,April 2017,144.4
+Fresh fruit and vegetables,April 2017,121.9
+Energy 9,April 2017,154.1
+Food and energy 9,May 2017,143.1
+Fresh fruit and vegetables,May 2017,130.6
+Energy 9,May 2017,145.4
+Food and energy 9,June 2017,142.3
+Fresh fruit and vegetables,June 2017,132.4
+Energy 9,June 2017,142.0
+Food and energy 9,July 2017,143.8
+Fresh fruit and vegetables,July 2017,134.7
+Energy 9,July 2017,145.8
+Food and energy 9,August 2017,145.4
+Fresh fruit and vegetables,August 2017,132.5
+Energy 9,August 2017,150.7
+Food and energy 9,September 2017,143.8
+Fresh fruit and vegetables,September 2017,131.6
+Energy 9,September 2017,147.9
+Food and energy 9,October 2017,143.7
+Fresh fruit and vegetables,October 2017,127.1
+Energy 9,October 2017,149.4
+Food and energy 9,November 2017,147.5
+Fresh fruit and vegetables,November 2017,132.1
+Energy 9,November 2017,159.4
+Food and energy 9,December 2017,146.3
+Fresh fruit and vegetables,December 2017,132.9
+Energy 9,December 2017,156.2
+Food and energy 9,January 2018,149.7
+Fresh fruit and vegetables,January 2018,135.1
+Energy 9,January 2018,164.3
+Food and energy 9,February 2018,149.0
+Fresh fruit and vegetables,February 2018,134.1
+Energy 9,February 2018,164.0
+Food and energy 9,March 2018,149.3
+Fresh fruit and vegetables,March 2018,132.2
+Energy 9,March 2018,164.5
+Food and energy 9,April 2018,153.1
+Fresh fruit and vegetables,April 2018,127.8
+Energy 9,April 2018,178.9
+Food and energy 9,May 2018,152.3
+Fresh fruit and vegetables,May 2018,129.4
+Energy 9,May 2018,175.4
+Food and energy 9,June 2018,151.4
+Fresh fruit and vegetables,June 2018,133.0
+Energy 9,June 2018,172.0
+Food and energy 9,July 2018,155.2
+Fresh fruit and vegetables,July 2018,134.3
+Energy 9,July 2018,183.2
+Food and energy 9,August 2018,154.5
+Fresh fruit and vegetables,August 2018,136.2
+Energy 9,August 2018,179.6
+Food and energy 9,September 2018,154.6
+Fresh fruit and vegetables,September 2018,134.9
+Energy 9,September 2018,180.0
+Food and energy 9,October 2018,153.3
+Fresh fruit and vegetables,October 2018,133.7
+Energy 9,October 2018,175.3
+Food and energy 9,November 2018,151.9
+Fresh fruit and vegetables,November 2018,137.6
+Energy 9,November 2018,168.3
+Food and energy 9,December 2018,149.7
+Fresh fruit and vegetables,December 2018,142.2
+Energy 9,December 2018,159.6
+Food and energy 9,January 2019,150.0
+Fresh fruit and vegetables,January 2019,144.5
+Energy 9,January 2019,157.7
+Food and energy 9,February 2019,152.6
+Fresh fruit and vegetables,February 2019,145.2
+Energy 9,February 2019,164.2
+Food and energy 9,March 2019,156.2
+Fresh fruit and vegetables,March 2019,146.4
+Energy 9,March 2019,176.1
+Food and energy 9,April 2019,157.7
+Fresh fruit and vegetables,April 2019,142.9
+Energy 9,April 2019,183.0
+Food and energy 9,May 2019,157.6
+Fresh fruit and vegetables,May 2019,144.5
+Energy 9,May 2019,180.6
+Food and energy 9,June 2019,151.9
+Fresh fruit and vegetables,June 2019,151.4
+Energy 9,June 2019,157.6
+Food and energy 9,July 2019,154.2
+Fresh fruit and vegetables,July 2019,150.6
+Energy 9,July 2019,162.4
+Food and energy 9,August 2019,153.2
+Fresh fruit and vegetables,August 2019,147.3
+Energy 9,August 2019,160.6
+Food and energy 9,September 2019,153.1
+Fresh fruit and vegetables,September 2019,144.7
+Energy 9,September 2019,160.4
+Food and energy 9,October 2019,153.4
+Fresh fruit and vegetables,October 2019,140.2
+Energy 9,October 2019,160.8
+Food and energy 9,November 2019,154.0
+Fresh fruit and vegetables,November 2019,145.0
+Energy 9,November 2019,162.0
+Food and energy 9,December 2019,155.6
+Fresh fruit and vegetables,December 2019,147.6
+Energy 9,December 2019,167.4
+Food and energy 9,January 2020,158.0
+Fresh fruit and vegetables,January 2020,157.6
+Energy 9,January 2020,168.6
+Food and energy 9,February 2020,157.0
+Fresh fruit and vegetables,February 2020,150.1
+Energy 9,February 2020,167.6
+Food and energy 9,March 2020,151.4
+Fresh fruit and vegetables,March 2020,150.7
+Energy 9,March 2020,145.9
+Food and energy 9,April 2020,148.2
+Fresh fruit and vegetables,April 2020,148.1
+Energy 9,April 2020,135.5
+Food and energy 9,May 2020,153.8
+Fresh fruit and vegetables,May 2020,149.1
+Energy 9,May 2020,152.4
+Food and energy 9,June 2020,155.3
+Fresh fruit and vegetables,June 2020,151.2
+Energy 9,June 2020,158.1
+Food and energy 9,July 2020,156.0
+Fresh fruit and vegetables,July 2020,151.0
+Energy 9,July 2020,161.5
+Food and energy 9,August 2020,154.7
+Fresh fruit and vegetables,August 2020,149.5
+Energy 9,August 2020,160.1
+Food and energy 9,September 2020,158.0
+Fresh fruit and vegetables,September 2020,147.5
+Energy 9,September 2020,171.8
+Food and energy 9,October 2020,156.1
+Fresh fruit and vegetables,October 2020,146.2
+Energy 9,October 2020,164.1
+Food and energy 9,November 2020,157.3
+Fresh fruit and vegetables,November 2020,149.6
+Energy 9,November 2020,165.8
+Food and energy 9,December 2020,156.9
+Fresh fruit and vegetables,December 2020,147.2
+Energy 9,December 2020,167.5
+Food and energy 9,January 2021,159.9
+Fresh fruit and vegetables,January 2021,153.7
+Energy 9,January 2021,174.0
+Food and energy 9,February 2021,163.0
+Fresh fruit and vegetables,February 2021,152.3
+Energy 9,February 2021,183.0
+Food and energy 9,March 2021,165.0
+Fresh fruit and vegetables,March 2021,150.9
+Energy 9,March 2021,187.7
+Food and energy 9,April 2021,165.6
+Fresh fruit and vegetables,April 2021,143.3
+Energy 9,April 2021,190.9
+Food and energy 9,May 2021,167.6
+Fresh fruit and vegetables,May 2021,150.2
+Energy 9,May 2021,193.1
+Food and energy 9,June 2021,167.8
+Fresh fruit and vegetables,June 2021,147.6
+Energy 9,June 2021,194.0
+Food and energy 9,July 2021,171.4
+Fresh fruit and vegetables,July 2021,144.4
+Energy 9,July 2021,209.5
+Food and energy 9,August 2021,172.9
+Fresh fruit and vegetables,August 2021,147.1
+Energy 9,August 2021,214.4
+Food and energy 9,September 2021,172.4
+Fresh fruit and vegetables,September 2021,146.3
+Energy 9,September 2021,209.2
+Food and energy 9,October 2021,174.6
+Fresh fruit and vegetables,October 2021,146.4
+Energy 9,October 2021,217.7
+Food and energy 9,November 2021,176.4
+Fresh fruit and vegetables,November 2021,154.4
+Energy 9,November 2021,222.2
+Food and energy 9,December 2021,177.0
+Fresh fruit and vegetables,December 2021,156.6
+Energy 9,December 2021,222.7
+Food and energy 9,January 2022,180.5
+Fresh fruit and vegetables,January 2022,160.8
+Energy 9,January 2022,229.7
+Food and energy 9,February 2022,184.4
+Fresh fruit and vegetables,February 2022,162.9
+Energy 9,February 2022,240.3
+Food and energy 9,March 2022,187.0
+Fresh fruit and vegetables,March 2022,163.3
+Energy 9,March 2022,245.3
+Food and energy 9,April 2022,186.4
+Fresh fruit and vegetables,April 2022,160.9
+Energy 9,April 2022,239.5
+Food and energy 9,May 2022,191.0
+Fresh fruit and vegetables,May 2022,163.6
+Energy 9,May 2022,254.3
+Food and energy 9,June 2022,198.9
+Fresh fruit and vegetables,June 2022,164.4
+Energy 9,June 2022,284.2
+Food and energy 9,July 2022,195.8
+Fresh fruit and vegetables,July 2022,161.0
+Energy 9,July 2022,268.4
+Food and energy 9,August 2022,188.8
+Fresh fruit and vegetables,August 2022,163.4
+Energy 9,August 2022,233.4
+Food and energy 9,September 2022,187.5
+Fresh fruit and vegetables,September 2022,162.6
+Energy 9,September 2022,223.6
+Food and energy 9,October 2022,194.1
+Fresh fruit and vegetables,October 2022,161.8
+Energy 9,October 2022,247.3
+Food and energy 9,November 2022,192.1
+Fresh fruit and vegetables,November 2022,174.6
+Energy 9,November 2022,234.2
+Food and energy 9,December 2022,189.2
+Fresh fruit and vegetables,December 2022,176.8
+Energy 9,December 2022,223.0
+Food and energy 9,January 2023,186.7
+Fresh fruit and vegetables,January 2023,182.8
+Energy 9,January 2023,202.4
+Food and energy 9,February 2023,184.1
+Fresh fruit and vegetables,February 2023,178.1
+Energy 9,February 2023,190.3
+Food and energy 9,March 2023,187.9
+Fresh fruit and vegetables,March 2023,174.0
+Energy 9,March 2023,205.9
+Food and energy 9,April 2023,194.4
+Fresh fruit and vegetables,April 2023,169.1
+Energy 9,April 2023,230.2
+Food and energy 9,May 2023,195.9
+Fresh fruit and vegetables,May 2023,176.8
+Energy 9,May 2023,231.0
+Food and energy 9,June 2023,197.0
+Fresh fruit and vegetables,June 2023,176.1
+Energy 9,June 2023,235.7
+Food and energy 9,July 2023,200.6
+Fresh fruit and vegetables,July 2023,174.1
+Energy 9,July 2023,247.8
+Food and energy 9,August 2023,204.6
+Fresh fruit and vegetables,August 2023,170.7
+Energy 9,August 2023,264.4
+Food and energy 9,September 2023,201.6
+Fresh fruit and vegetables,September 2023,168.8
+Energy 9,September 2023,251.7
+Food and energy 9,October 2023,197.0
+Fresh fruit and vegetables,October 2023,162.2
+Energy 9,October 2023,233.4
+Food and energy 9,November 2023,196.6
+Fresh fruit and vegetables,November 2023,172.3
+Energy 9,November 2023,227.5
+Food and energy 9,December 2023,195.0
+Fresh fruit and vegetables,December 2023,178.5
+Energy 9,December 2023,219.0
+Food and energy 9,January 2024,196.3
+Fresh fruit and vegetables,January 2024,186.6
+Energy 9,January 2024,218.2
+Food and energy 9,February 2024,200.0
+Fresh fruit and vegetables,February 2024,186.8
+Energy 9,February 2024,232.7
+Food and energy 9,March 2024,200.0
+Fresh fruit and vegetables,March 2024,178.1
+Energy 9,March 2024,233.7
+Food and energy 9,April 2024,202.8
+Fresh fruit and vegetables,April 2024,171.3
+Energy 9,April 2024,246.5
+Food and energy 9,May 2024,201.6
+Fresh fruit and vegetables,May 2024,177.4
+Energy 9,May 2024,238.5
+Food and energy 9,June 2024,201.8
+Fresh fruit and vegetables,June 2024,179.1
+Energy 9,June 2024,235.0
+Food and energy 9,July 2024,203.6
+Fresh fruit and vegetables,July 2024,182.7
+Energy 9,July 2024,240.3
+Food and energy 9,August 2024,203.3
+Fresh fruit and vegetables,August 2024,175.9
+Energy 9,August 2024,239.7
+Food and energy 9,September 2024,199.5
+Fresh fruit and vegetables,September 2024,177.0
+Energy 9,September 2024,224.8
+Food and energy 9,October 2024,200.7
+Fresh fruit and vegetables,October 2024,171.0
+Energy 9,October 2024,227.5
+Food and energy 9,November 2024,200.7
+Fresh fruit and vegetables,November 2024,176.8
+Energy 9,November 2024,226.6
+Food and energy 9,December 2024,199.4
+Fresh fruit and vegetables,December 2024,181.6
+Energy 9,December 2024,226.7
+Food and energy 9,January 2025,200.6
+Fresh fruit and vegetables,January 2025,189.6
+Energy 9,January 2025,232.6
+Food and energy 9,February 2025,203.4
+Fresh fruit and vegetables,February 2025,187.7
+Energy 9,February 2025,234.6
+Food and energy 9,March 2025,204.2
+Fresh fruit and vegetables,March 2025,184.7
+Energy 9,March 2025,233.5
+Food and energy 9,April 2025,197.4
+Fresh fruit and vegetables,April 2025,183.9
+Energy 9,April 2025,204.7
+Food and energy 9,May 2025,198.2
+Fresh fruit and vegetables,May 2025,183.5
+Energy 9,May 2025,205.9
+Food and energy 9,January 2015,134.7
+Fresh fruit and vegetables,January 2015,132.1
+Energy 9,January 2015,139.2
+Food and energy 9,February 2015,137.1
+Fresh fruit and vegetables,February 2015,134.8
+Energy 9,February 2015,146.1
+Food and energy 9,March 2015,139.0
+Fresh fruit and vegetables,March 2015,135.1
+Energy 9,March 2015,152.5
+Food and energy 9,April 2015,138.1
+Fresh fruit and vegetables,April 2015,126.9
+Energy 9,April 2015,151.1
+Food and energy 9,May 2015,140.7
+Fresh fruit and vegetables,May 2015,135.6
+Energy 9,May 2015,156.3
+Food and energy 9,June 2015,141.4
+Fresh fruit and vegetables,June 2015,135.3
+Energy 9,June 2015,158.3
+Food and energy 9,July 2015,141.7
+Fresh fruit and vegetables,July 2015,136.9
+Energy 9,July 2015,158.9
+Food and energy 9,August 2015,141.1
+Fresh fruit and vegetables,August 2015,132.6
+Energy 9,August 2015,157.4
+Food and energy 9,September 2015,139.8
+Fresh fruit and vegetables,September 2015,136.3
+Energy 9,September 2015,149.4
+Food and energy 9,October 2015,139.3
+Fresh fruit and vegetables,October 2015,134.6
+Energy 9,October 2015,148.5
+Food and energy 9,November 2015,140.9
+Fresh fruit and vegetables,November 2015,143.7
+Energy 9,November 2015,152.0
+Food and energy 9,December 2015,140.9
+Fresh fruit and vegetables,December 2015,147.5
+Energy 9,December 2015,149.4
+Food and energy 9,January 2016,140.5
+Fresh fruit and vegetables,January 2016,157.2
+Energy 9,January 2016,140.6
+Food and energy 9,February 2016,138.3
+Fresh fruit and vegetables,February 2016,145.6
+Energy 9,February 2016,137.0
+Food and energy 9,March 2016,139.8
+Fresh fruit and vegetables,March 2016,144.2
+Energy 9,March 2016,142.1
+Food and energy 9,April 2016,139.7
+Fresh fruit and vegetables,April 2016,138.1
+Energy 9,April 2016,144.1
+Food and energy 9,May 2016,141.0
+Fresh fruit and vegetables,May 2016,139.2
+Energy 9,May 2016,147.9
+Food and energy 9,June 2016,141.2
+Fresh fruit and vegetables,June 2016,139.2
+Energy 9,June 2016,150.6
+Food and energy 9,July 2016,141.7
+Fresh fruit and vegetables,July 2016,139.3
+Energy 9,July 2016,150.4
+Food and energy 9,August 2016,141.0
+Fresh fruit and vegetables,August 2016,135.6
+Energy 9,August 2016,148.5
+Food and energy 9,September 2016,140.1
+Fresh fruit and vegetables,September 2016,131.6
+Energy 9,September 2016,151.1
+Food and energy 9,October 2016,140.1
+Fresh fruit and vegetables,October 2016,125.4
+Energy 9,October 2016,154.8
+Food and energy 9,November 2016,139.4
+Fresh fruit and vegetables,November 2016,133.1
+Energy 9,November 2016,149.7
+Food and energy 9,December 2016,140.2
+Fresh fruit and vegetables,December 2016,136.0
+Energy 9,December 2016,150.7
+Food and energy 9,January 2017,141.9
+Fresh fruit and vegetables,January 2017,136.2
+Energy 9,January 2017,156.4
+Food and energy 9,February 2017,141.5
+Fresh fruit and vegetables,February 2017,135.8
+Energy 9,February 2017,153.2
+Food and energy 9,March 2017,142.5
+Fresh fruit and vegetables,March 2017,135.2
+Energy 9,March 2017,157.3
+Food and energy 9,April 2017,144.0
+Fresh fruit and vegetables,April 2017,135.9
+Energy 9,April 2017,162.0
+Food and energy 9,May 2017,144.1
+Fresh fruit and vegetables,May 2017,143.2
+Energy 9,May 2017,159.3
+Food and energy 9,June 2017,143.9
+Fresh fruit and vegetables,June 2017,147.0
+Energy 9,June 2017,156.8
+Food and energy 9,July 2017,144.1
+Fresh fruit and vegetables,July 2017,148.2
+Energy 9,July 2017,156.4
+Food and energy 9,August 2017,144.8
+Fresh fruit and vegetables,August 2017,142.3
+Energy 9,August 2017,160.4
+Food and energy 9,September 2017,144.7
+Fresh fruit and vegetables,September 2017,140.1
+Energy 9,September 2017,161.8
+Food and energy 9,October 2017,144.0
+Fresh fruit and vegetables,October 2017,134.4
+Energy 9,October 2017,160.6
+Food and energy 9,November 2017,145.6
+Fresh fruit and vegetables,November 2017,137.3
+Energy 9,November 2017,166.5
+Food and energy 9,December 2017,144.9
+Fresh fruit and vegetables,December 2017,141.3
+Energy 9,December 2017,162.0
+Food and energy 9,January 2018,145.7
+Fresh fruit and vegetables,January 2018,144.6
+Energy 9,January 2018,162.4
+Food and energy 9,February 2018,146.0
+Fresh fruit and vegetables,February 2018,144.9
+Energy 9,February 2018,163.6
+Food and energy 9,March 2018,146.6
+Fresh fruit and vegetables,March 2018,141.6
+Energy 9,March 2018,168.4
+Food and energy 9,April 2018,148.7
+Fresh fruit and vegetables,April 2018,141.7
+Energy 9,April 2018,174.1
+Food and energy 9,May 2018,149.7
+Fresh fruit and vegetables,May 2018,142.9
+Energy 9,May 2018,178.3
+Food and energy 9,June 2018,149.4
+Fresh fruit and vegetables,June 2018,146.3
+Energy 9,June 2018,175.8
+Food and energy 9,July 2018,150.1
+Fresh fruit and vegetables,July 2018,147.6
+Energy 9,July 2018,177.0
+Food and energy 9,August 2018,150.0
+Fresh fruit and vegetables,August 2018,148.6
+Energy 9,August 2018,173.5
+Food and energy 9,September 2018,149.3
+Fresh fruit and vegetables,September 2018,143.9
+Energy 9,September 2018,173.5
+Food and energy 9,October 2018,149.5
+Fresh fruit and vegetables,October 2018,140.1
+Energy 9,October 2018,175.4
+Food and energy 9,November 2018,148.4
+Fresh fruit and vegetables,November 2018,146.8
+Energy 9,November 2018,168.0
+Food and energy 9,December 2018,148.3
+Fresh fruit and vegetables,December 2018,152.9
+Energy 9,December 2018,164.0
+Food and energy 9,January 2019,148.7
+Fresh fruit and vegetables,January 2019,156.0
+Energy 9,January 2019,161.7
+Food and energy 9,February 2019,149.1
+Fresh fruit and vegetables,February 2019,155.3
+Energy 9,February 2019,163.1
+Food and energy 9,March 2019,151.9
+Fresh fruit and vegetables,March 2019,159.1
+Energy 9,March 2019,171.5
+Food and energy 9,April 2019,154.4
+Fresh fruit and vegetables,April 2019,155.4
+Energy 9,April 2019,183.9
+Food and energy 9,May 2019,155.0
+Fresh fruit and vegetables,May 2019,153.7
+Energy 9,May 2019,185.9
+Food and energy 9,June 2019,153.4
+Fresh fruit and vegetables,June 2019,162.8
+Energy 9,June 2019,176.2
+Food and energy 9,July 2019,154.6
+Fresh fruit and vegetables,July 2019,161.6
+Energy 9,July 2019,175.1
+Food and energy 9,August 2019,153.8
+Fresh fruit and vegetables,August 2019,160.2
+Energy 9,August 2019,171.8
+Food and energy 9,September 2019,154.4
+Fresh fruit and vegetables,September 2019,157.2
+Energy 9,September 2019,174.3
+Food and energy 9,October 2019,154.8
+Fresh fruit and vegetables,October 2019,153.6
+Energy 9,October 2019,177.3
+Food and energy 9,November 2019,153.9
+Fresh fruit and vegetables,November 2019,157.8
+Energy 9,November 2019,169.6
+Food and energy 9,December 2019,153.3
+Fresh fruit and vegetables,December 2019,161.2
+Energy 9,December 2019,167.6
+Food and energy 9,January 2020,155.5
+Fresh fruit and vegetables,January 2020,168.4
+Energy 9,January 2020,170.3
+Food and energy 9,February 2020,155.2
+Fresh fruit and vegetables,February 2020,162.3
+Energy 9,February 2020,171.7
+Food and energy 9,March 2020,151.8
+Fresh fruit and vegetables,March 2020,160.9
+Energy 9,March 2020,157.2
+Food and energy 9,April 2020,147.9
+Fresh fruit and vegetables,April 2020,156.6
+Energy 9,April 2020,140.0
+Food and energy 9,May 2020,150.8
+Fresh fruit and vegetables,May 2020,161.2
+Energy 9,May 2020,149.4
+Food and energy 9,June 2020,153.5
+Fresh fruit and vegetables,June 2020,164.4
+Energy 9,June 2020,159.1
+Food and energy 9,July 2020,154.5
+Fresh fruit and vegetables,July 2020,164.8
+Energy 9,July 2020,162.2
+Food and energy 9,August 2020,153.8
+Fresh fruit and vegetables,August 2020,163.0
+Energy 9,August 2020,163.1
+Food and energy 9,September 2020,153.0
+Fresh fruit and vegetables,September 2020,159.5
+Energy 9,September 2020,161.1
+Food and energy 9,October 2020,153.0
+Fresh fruit and vegetables,October 2020,161.1
+Energy 9,October 2020,160.1
+Food and energy 9,November 2020,153.3
+Fresh fruit and vegetables,November 2020,165.3
+Energy 9,November 2020,159.3
+Food and energy 9,December 2020,153.9
+Fresh fruit and vegetables,December 2020,165.9
+Energy 9,December 2020,160.4
+Food and energy 9,January 2021,155.9
+Fresh fruit and vegetables,January 2021,167.3
+Energy 9,January 2021,168.0
+Food and energy 9,February 2021,157.6
+Fresh fruit and vegetables,February 2021,166.1
+Energy 9,February 2021,173.8
+Food and energy 9,March 2021,158.9
+Fresh fruit and vegetables,March 2021,162.2
+Energy 9,March 2021,180.2
+Food and energy 9,April 2021,159.3
+Fresh fruit and vegetables,April 2021,153.5
+Energy 9,April 2021,182.5
+Food and energy 9,May 2021,161.2
+Fresh fruit and vegetables,May 2021,159.7
+Energy 9,May 2021,185.7
+Food and energy 9,June 2021,162.1
+Fresh fruit and vegetables,June 2021,157.8
+Energy 9,June 2021,187.9
+Food and energy 9,July 2021,163.7
+Fresh fruit and vegetables,July 2021,156.8
+Energy 9,July 2021,194.7
+Food and energy 9,August 2021,163.7
+Fresh fruit and vegetables,August 2021,157.6
+Energy 9,August 2021,193.2
+Food and energy 9,September 2021,163.4
+Fresh fruit and vegetables,September 2021,155.8
+Energy 9,September 2021,188.6
+Food and energy 9,October 2021,165.2
+Fresh fruit and vegetables,October 2021,155.9
+Energy 9,October 2021,194.3
+Food and energy 9,November 2021,166.0
+Fresh fruit and vegetables,November 2021,165.0
+Energy 9,November 2021,192.9
+Food and energy 9,December 2021,165.6
+Fresh fruit and vegetables,December 2021,165.8
+Energy 9,December 2021,189.8
+Food and energy 9,January 2022,169.3
+Fresh fruit and vegetables,January 2022,169.7
+Energy 9,January 2022,200.6
+Food and energy 9,February 2022,171.5
+Fresh fruit and vegetables,February 2022,170.9
+Energy 9,February 2022,205.4
+Food and energy 9,March 2022,177.4
+Fresh fruit and vegetables,March 2022,171.9
+Energy 9,March 2022,224.3
+Food and energy 9,April 2022,178.2
+Fresh fruit and vegetables,April 2022,169.4
+Energy 9,April 2022,224.1
+Food and energy 9,May 2022,182.3
+Fresh fruit and vegetables,May 2022,172.5
+Energy 9,May 2022,239.7
+Food and energy 9,June 2022,183.7
+Fresh fruit and vegetables,June 2022,171.5
+Energy 9,June 2022,247.0
+Food and energy 9,July 2022,183.5
+Fresh fruit and vegetables,July 2022,175.9
+Energy 9,July 2022,234.5
+Food and energy 9,August 2022,181.5
+Fresh fruit and vegetables,August 2022,176.3
+Energy 9,August 2022,222.5
+Food and energy 9,September 2022,183.3
+Fresh fruit and vegetables,September 2022,174.3
+Energy 9,September 2022,227.8
+Food and energy 9,October 2022,185.4
+Fresh fruit and vegetables,October 2022,172.8
+Energy 9,October 2022,235.5
+Food and energy 9,November 2022,182.9
+Fresh fruit and vegetables,November 2022,182.6
+Energy 9,November 2022,218.6
+Food and energy 9,December 2022,180.0
+Fresh fruit and vegetables,December 2022,189.9
+Energy 9,December 2022,200.9
+Food and energy 9,January 2023,184.1
+Fresh fruit and vegetables,January 2023,197.8
+Energy 9,January 2023,209.3
+Food and energy 9,February 2023,185.5
+Fresh fruit and vegetables,February 2023,192.4
+Energy 9,February 2023,211.7
+Food and energy 9,March 2023,185.1
+Fresh fruit and vegetables,March 2023,184.8
+Energy 9,March 2023,213.1
+Food and energy 9,April 2023,186.3
+Fresh fruit and vegetables,April 2023,179.6
+Energy 9,April 2023,216.7
+Food and energy 9,May 2023,187.3
+Fresh fruit and vegetables,May 2023,186.9
+Energy 9,May 2023,215.4
+Food and energy 9,June 2023,189.1
+Fresh fruit and vegetables,June 2023,185.8
+Energy 9,June 2023,223.8
+Food and energy 9,July 2023,188.9
+Fresh fruit and vegetables,July 2023,185.5
+Energy 9,July 2023,219.2
+Food and energy 9,August 2023,190.4
+Fresh fruit and vegetables,August 2023,182.4
+Energy 9,August 2023,225.2
+Food and energy 9,September 2023,190.4
+Fresh fruit and vegetables,September 2023,181.2
+Energy 9,September 2023,224.5
+Food and energy 9,October 2023,188.0
+Fresh fruit and vegetables,October 2023,176.5
+Energy 9,October 2023,213.6
+Food and energy 9,November 2023,187.7
+Fresh fruit and vegetables,November 2023,185.8
+Energy 9,November 2023,207.7
+Food and energy 9,December 2023,187.7
+Fresh fruit and vegetables,December 2023,189.3
+Energy 9,December 2023,201.0
+Food and energy 9,January 2024,187.8
+Fresh fruit and vegetables,January 2024,196.7
+Energy 9,January 2024,196.0
+Food and energy 9,February 2024,189.0
+Fresh fruit and vegetables,February 2024,198.8
+Energy 9,February 2024,202.3
+Food and energy 9,March 2024,190.8
+Fresh fruit and vegetables,March 2024,188.9
+Energy 9,March 2024,216.2
+Food and energy 9,April 2024,192.5
+Fresh fruit and vegetables,April 2024,182.5
+Energy 9,April 2024,228.9
+Food and energy 9,May 2024,193.1
+Fresh fruit and vegetables,May 2024,190.0
+Energy 9,May 2024,224.5
+Food and energy 9,June 2024,191.7
+Fresh fruit and vegetables,June 2024,189.1
+Energy 9,June 2024,214.7
+Food and energy 9,July 2024,191.5
+Fresh fruit and vegetables,July 2024,191.2
+Energy 9,July 2024,213.5
+Food and energy 9,August 2024,191.2
+Fresh fruit and vegetables,August 2024,188.2
+Energy 9,August 2024,210.8
+Food and energy 9,September 2024,190.5
+Fresh fruit and vegetables,September 2024,189.0
+Energy 9,September 2024,206.5
+Food and energy 9,October 2024,191.0
+Fresh fruit and vegetables,October 2024,186.2
+Energy 9,October 2024,206.1
+Food and energy 9,November 2024,191.6
+Fresh fruit and vegetables,November 2024,192.0
+Energy 9,November 2024,205.8
+Food and energy 9,December 2024,189.3
+Fresh fruit and vegetables,December 2024,193.1
+Energy 9,December 2024,203.8
+Food and energy 9,January 2025,191.5
+Fresh fruit and vegetables,January 2025,201.6
+Energy 9,January 2025,213.5
+Food and energy 9,February 2025,194.9
+Fresh fruit and vegetables,February 2025,203.0
+Energy 9,February 2025,218.6
+Food and energy 9,March 2025,195.1
+Fresh fruit and vegetables,March 2025,195.9
+Energy 9,March 2025,214.8
+Food and energy 9,April 2025,191.5
+Fresh fruit and vegetables,April 2025,195.4
+Energy 9,April 2025,195.1
+Food and energy 9,May 2025,192.7
+Fresh fruit and vegetables,May 2025,196.0
+Energy 9,May 2025,200.6
+Food and energy 9,January 2015,132.8
+Fresh fruit and vegetables,January 2015,125.0
+Energy 9,January 2015,140.4
+Food and energy 9,February 2015,132.4
+Fresh fruit and vegetables,February 2015,124.8
+Energy 9,February 2015,138.4
+Food and energy 9,March 2015,134.1
+Fresh fruit and vegetables,March 2015,125.2
+Energy 9,March 2015,142.2
+Food and energy 9,April 2015,134.0
+Fresh fruit and vegetables,April 2015,122.9
+Energy 9,April 2015,143.4
+Food and energy 9,May 2015,135.6
+Fresh fruit and vegetables,May 2015,122.4
+Energy 9,May 2015,145.5
+Food and energy 9,June 2015,137.0
+Fresh fruit and vegetables,June 2015,128.3
+Energy 9,June 2015,148.6
+Food and energy 9,July 2015,137.5
+Fresh fruit and vegetables,July 2015,127.0
+Energy 9,July 2015,149.1
+Food and energy 9,August 2015,138.8
+Fresh fruit and vegetables,August 2015,125.7
+Energy 9,August 2015,151.5
+Food and energy 9,September 2015,137.3
+Fresh fruit and vegetables,September 2015,123.0
+Energy 9,September 2015,147.7
+Food and energy 9,October 2015,136.6
+Fresh fruit and vegetables,October 2015,127.2
+Energy 9,October 2015,146.1
+Food and energy 9,November 2015,135.5
+Fresh fruit and vegetables,November 2015,130.3
+Energy 9,November 2015,143.2
+Food and energy 9,December 2015,133.1
+Fresh fruit and vegetables,December 2015,134.7
+Energy 9,December 2015,134.3
+Food and energy 9,January 2016,132.9
+Fresh fruit and vegetables,January 2016,145.9
+Energy 9,January 2016,131.5
+Food and energy 9,February 2016,129.4
+Fresh fruit and vegetables,February 2016,147.9
+Energy 9,February 2016,122.3
+Food and energy 9,March 2016,129.4
+Fresh fruit and vegetables,March 2016,133.4
+Energy 9,March 2016,125.0
+Food and energy 9,April 2016,130.7
+Fresh fruit and vegetables,April 2016,131.1
+Energy 9,April 2016,129.6
+Food and energy 9,May 2016,132.6
+Fresh fruit and vegetables,May 2016,127.9
+Energy 9,May 2016,134.5
+Food and energy 9,June 2016,135.4
+Fresh fruit and vegetables,June 2016,130.9
+Energy 9,June 2016,142.1
+Food and energy 9,July 2016,134.0
+Fresh fruit and vegetables,July 2016,125.7
+Energy 9,July 2016,140.2
+Food and energy 9,August 2016,134.5
+Fresh fruit and vegetables,August 2016,132.5
+Energy 9,August 2016,139.0
+Food and energy 9,September 2016,133.7
+Fresh fruit and vegetables,September 2016,121.9
+Energy 9,September 2016,141.3
+Food and energy 9,October 2016,135.3
+Fresh fruit and vegetables,October 2016,125.2
+Energy 9,October 2016,143.5
+Food and energy 9,November 2016,134.8
+Fresh fruit and vegetables,November 2016,121.2
+Energy 9,November 2016,142.4
+Food and energy 9,December 2016,134.1
+Fresh fruit and vegetables,December 2016,129.9
+Energy 9,December 2016,140.8
+Food and energy 9,January 2017,135.3
+Fresh fruit and vegetables,January 2017,125.8
+Energy 9,January 2017,145.5
+Food and energy 9,February 2017,135.0
+Fresh fruit and vegetables,February 2017,125.0
+Energy 9,February 2017,145.1
+Food and energy 9,March 2017,135.9
+Fresh fruit and vegetables,March 2017,123.1
+Energy 9,March 2017,145.5
+Food and energy 9,April 2017,136.4
+Fresh fruit and vegetables,April 2017,133.6
+Energy 9,April 2017,146.1
+Food and energy 9,May 2017,136.0
+Fresh fruit and vegetables,May 2017,139.0
+Energy 9,May 2017,143.2
+Food and energy 9,June 2017,135.0
+Fresh fruit and vegetables,June 2017,134.1
+Energy 9,June 2017,141.0
+Food and energy 9,July 2017,134.1
+Fresh fruit and vegetables,July 2017,140.9
+Energy 9,July 2017,137.5
+Food and energy 9,August 2017,133.3
+Fresh fruit and vegetables,August 2017,131.2
+Energy 9,August 2017,137.6
+Food and energy 9,September 2017,135.3
+Fresh fruit and vegetables,September 2017,132.6
+Energy 9,September 2017,144.8
+Food and energy 9,October 2017,134.2
+Fresh fruit and vegetables,October 2017,124.5
+Energy 9,October 2017,143.1
+Food and energy 9,November 2017,139.5
+Fresh fruit and vegetables,November 2017,132.7
+Energy 9,November 2017,154.6
+Food and energy 9,December 2017,138.8
+Fresh fruit and vegetables,December 2017,137.2
+Energy 9,December 2017,154.3
+Food and energy 9,January 2018,139.0
+Fresh fruit and vegetables,January 2018,138.8
+Energy 9,January 2018,153.8
+Food and energy 9,February 2018,139.4
+Fresh fruit and vegetables,February 2018,138.8
+Energy 9,February 2018,155.0
+Food and energy 9,March 2018,138.6
+Fresh fruit and vegetables,March 2018,131.3
+Energy 9,March 2018,153.8
+Food and energy 9,April 2018,140.6
+Fresh fruit and vegetables,April 2018,131.0
+Energy 9,April 2018,159.6
+Food and energy 9,May 2018,142.5
+Fresh fruit and vegetables,May 2018,134.2
+Energy 9,May 2018,167.1
+Food and energy 9,June 2018,142.6
+Fresh fruit and vegetables,June 2018,137.7
+Energy 9,June 2018,167.8
+Food and energy 9,July 2018,143.2
+Fresh fruit and vegetables,July 2018,143.8
+Energy 9,July 2018,166.6
+Food and energy 9,August 2018,142.5
+Fresh fruit and vegetables,August 2018,141.1
+Energy 9,August 2018,167.1
+Food and energy 9,September 2018,141.7
+Fresh fruit and vegetables,September 2018,133.2
+Energy 9,September 2018,167.0
+Food and energy 9,October 2018,142.2
+Fresh fruit and vegetables,October 2018,133.1
+Energy 9,October 2018,169.9
+Food and energy 9,November 2018,144.3
+Fresh fruit and vegetables,November 2018,143.5
+Energy 9,November 2018,169.3
+Food and energy 9,December 2018,140.0
+Fresh fruit and vegetables,December 2018,146.1
+Energy 9,December 2018,157.7
+Food and energy 9,January 2019,139.9
+Fresh fruit and vegetables,January 2019,147.3
+Energy 9,January 2019,154.1
+Food and energy 9,February 2019,139.5
+Fresh fruit and vegetables,February 2019,149.5
+Energy 9,February 2019,154.2
+Food and energy 9,March 2019,141.0
+Fresh fruit and vegetables,March 2019,152.1
+Energy 9,March 2019,157.9
+Food and energy 9,April 2019,142.9
+Fresh fruit and vegetables,April 2019,150.4
+Energy 9,April 2019,165.8
+Food and energy 9,May 2019,144.7
+Fresh fruit and vegetables,May 2019,154.7
+Energy 9,May 2019,166.4
+Food and energy 9,June 2019,144.4
+Fresh fruit and vegetables,June 2019,161.0
+Energy 9,June 2019,166.2
+Food and energy 9,July 2019,146.1
+Fresh fruit and vegetables,July 2019,159.3
+Energy 9,July 2019,170.2
+Food and energy 9,August 2019,145.0
+Fresh fruit and vegetables,August 2019,156.9
+Energy 9,August 2019,169.7
+Food and energy 9,September 2019,144.7
+Fresh fruit and vegetables,September 2019,153.7
+Energy 9,September 2019,169.5
+Food and energy 9,October 2019,144.5
+Fresh fruit and vegetables,October 2019,149.9
+Energy 9,October 2019,170.8
+Food and energy 9,November 2019,146.2
+Fresh fruit and vegetables,November 2019,151.3
+Energy 9,November 2019,171.5
+Food and energy 9,December 2019,146.9
+Fresh fruit and vegetables,December 2019,154.0
+Energy 9,December 2019,173.7
+Food and energy 9,January 2020,150.0
+Fresh fruit and vegetables,January 2020,156.4
+Energy 9,January 2020,183.0
+Food and energy 9,February 2020,149.0
+Fresh fruit and vegetables,February 2020,153.0
+Energy 9,February 2020,181.6
+Food and energy 9,March 2020,146.0
+Fresh fruit and vegetables,March 2020,152.4
+Energy 9,March 2020,171.0
+Food and energy 9,April 2020,138.9
+Fresh fruit and vegetables,April 2020,142.0
+Energy 9,April 2020,154.8
+Food and energy 9,May 2020,137.5
+Fresh fruit and vegetables,May 2020,142.7
+Energy 9,May 2020,149.4
+Food and energy 9,June 2020,139.1
+Fresh fruit and vegetables,June 2020,142.7
+Energy 9,June 2020,157.1
+Food and energy 9,July 2020,141.1
+Fresh fruit and vegetables,July 2020,145.3
+Energy 9,July 2020,161.8
+Food and energy 9,August 2020,139.4
+Fresh fruit and vegetables,August 2020,142.0
+Energy 9,August 2020,161.8
+Food and energy 9,September 2020,140.3
+Fresh fruit and vegetables,September 2020,142.8
+Energy 9,September 2020,161.3
+Food and energy 9,October 2020,140.7
+Fresh fruit and vegetables,October 2020,142.0
+Energy 9,October 2020,162.0
+Food and energy 9,November 2020,142.0
+Fresh fruit and vegetables,November 2020,147.1
+Energy 9,November 2020,163.5
+Food and energy 9,December 2020,142.0
+Fresh fruit and vegetables,December 2020,148.2
+Energy 9,December 2020,164.8
+Food and energy 9,January 2021,143.9
+Fresh fruit and vegetables,January 2021,149.0
+Energy 9,January 2021,169.0
+Food and energy 9,February 2021,144.8
+Fresh fruit and vegetables,February 2021,148.9
+Energy 9,February 2021,171.6
+Food and energy 9,March 2021,145.4
+Fresh fruit and vegetables,March 2021,140.7
+Energy 9,March 2021,177.7
+Food and energy 9,April 2021,148.0
+Fresh fruit and vegetables,April 2021,139.0
+Energy 9,April 2021,182.6
+Food and energy 9,May 2021,148.4
+Fresh fruit and vegetables,May 2021,139.3
+Energy 9,May 2021,182.6
+Food and energy 9,June 2021,149.5
+Fresh fruit and vegetables,June 2021,138.9
+Energy 9,June 2021,185.1
+Food and energy 9,July 2021,150.9
+Fresh fruit and vegetables,July 2021,139.1
+Energy 9,July 2021,187.5
+Food and energy 9,August 2021,150.6
+Fresh fruit and vegetables,August 2021,138.0
+Energy 9,August 2021,188.7
+Food and energy 9,September 2021,151.8
+Fresh fruit and vegetables,September 2021,137.4
+Energy 9,September 2021,191.3
+Food and energy 9,October 2021,152.8
+Fresh fruit and vegetables,October 2021,133.2
+Energy 9,October 2021,194.0
+Food and energy 9,November 2021,152.2
+Fresh fruit and vegetables,November 2021,138.3
+Energy 9,November 2021,193.7
+Food and energy 9,December 2021,152.4
+Fresh fruit and vegetables,December 2021,143.0
+Energy 9,December 2021,195.7
+Food and energy 9,January 2022,153.9
+Fresh fruit and vegetables,January 2022,146.6
+Energy 9,January 2022,197.3
+Food and energy 9,February 2022,157.1
+Fresh fruit and vegetables,February 2022,143.0
+Energy 9,February 2022,204.2
+Food and energy 9,March 2022,163.4
+Fresh fruit and vegetables,March 2022,147.7
+Energy 9,March 2022,223.5
+Food and energy 9,April 2022,164.1
+Fresh fruit and vegetables,April 2022,144.8
+Energy 9,April 2022,225.9
+Food and energy 9,May 2022,168.4
+Fresh fruit and vegetables,May 2022,148.9
+Energy 9,May 2022,240.7
+Food and energy 9,June 2022,169.6
+Fresh fruit and vegetables,June 2022,149.6
+Energy 9,June 2022,246.1
+Food and energy 9,July 2022,170.2
+Fresh fruit and vegetables,July 2022,152.1
+Energy 9,July 2022,240.9
+Food and energy 9,August 2022,168.8
+Fresh fruit and vegetables,August 2022,151.6
+Energy 9,August 2022,227.4
+Food and energy 9,September 2022,169.6
+Fresh fruit and vegetables,September 2022,156.1
+Energy 9,September 2022,227.5
+Food and energy 9,October 2022,171.2
+Fresh fruit and vegetables,October 2022,150.2
+Energy 9,October 2022,237.4
+Food and energy 9,November 2022,173.7
+Fresh fruit and vegetables,November 2022,163.3
+Energy 9,November 2022,237.0
+Food and energy 9,December 2022,172.5
+Fresh fruit and vegetables,December 2022,166.7
+Energy 9,December 2022,227.7
+Food and energy 9,January 2023,171.9
+Fresh fruit and vegetables,January 2023,174.8
+Energy 9,January 2023,223.3
+Food and energy 9,February 2023,171.2
+Fresh fruit and vegetables,February 2023,165.3
+Energy 9,February 2023,220.3
+Food and energy 9,March 2023,171.1
+Fresh fruit and vegetables,March 2023,163.2
+Energy 9,March 2023,218.4
+Food and energy 9,April 2023,174.2
+Fresh fruit and vegetables,April 2023,156.6
+Energy 9,April 2023,228.4
+Food and energy 9,May 2023,175.9
+Fresh fruit and vegetables,May 2023,166.5
+Energy 9,May 2023,226.8
+Food and energy 9,June 2023,176.6
+Fresh fruit and vegetables,June 2023,165.1
+Energy 9,June 2023,225.8
+Food and energy 9,July 2023,176.6
+Fresh fruit and vegetables,July 2023,160.2
+Energy 9,July 2023,223.7
+Food and energy 9,August 2023,178.0
+Fresh fruit and vegetables,August 2023,157.0
+Energy 9,August 2023,230.9
+Food and energy 9,September 2023,178.2
+Fresh fruit and vegetables,September 2023,157.9
+Energy 9,September 2023,232.4
+Food and energy 9,October 2023,176.7
+Fresh fruit and vegetables,October 2023,152.4
+Energy 9,October 2023,231.0
+Food and energy 9,November 2023,177.9
+Fresh fruit and vegetables,November 2023,161.1
+Energy 9,November 2023,227.9
+Food and energy 9,December 2023,178.0
+Fresh fruit and vegetables,December 2023,163.2
+Energy 9,December 2023,225.9
+Food and energy 9,January 2024,178.5
+Fresh fruit and vegetables,January 2024,172.4
+Energy 9,January 2024,219.2
+Food and energy 9,February 2024,178.5
+Fresh fruit and vegetables,February 2024,172.5
+Energy 9,February 2024,220.3
+Food and energy 9,March 2024,177.3
+Fresh fruit and vegetables,March 2024,163.3
+Energy 9,March 2024,221.0
+Food and energy 9,April 2024,177.5
+Fresh fruit and vegetables,April 2024,161.2
+Energy 9,April 2024,225.9
+Food and energy 9,May 2024,179.8
+Fresh fruit and vegetables,May 2024,167.8
+Energy 9,May 2024,225.4
+Food and energy 9,June 2024,180.9
+Fresh fruit and vegetables,June 2024,164.0
+Energy 9,June 2024,225.5
+Food and energy 9,July 2024,181.7
+Fresh fruit and vegetables,July 2024,162.4
+Energy 9,July 2024,225.3
+Food and energy 9,August 2024,182.7
+Fresh fruit and vegetables,August 2024,164.2
+Energy 9,August 2024,225.4
+Food and energy 9,September 2024,182.3
+Fresh fruit and vegetables,September 2024,164.6
+Energy 9,September 2024,222.4
+Food and energy 9,October 2024,184.7
+Fresh fruit and vegetables,October 2024,161.7
+Energy 9,October 2024,236.2
+Food and energy 9,November 2024,185.0
+Fresh fruit and vegetables,November 2024,165.4
+Energy 9,November 2024,234.1
+Food and energy 9,December 2024,183.7
+Fresh fruit and vegetables,December 2024,169.3
+Energy 9,December 2024,231.4
+Food and energy 9,January 2025,184.1
+Fresh fruit and vegetables,January 2025,172.4
+Energy 9,January 2025,232.0
+Food and energy 9,February 2025,186.9
+Fresh fruit and vegetables,February 2025,174.3
+Energy 9,February 2025,234.7
+Food and energy 9,March 2025,187.4
+Fresh fruit and vegetables,March 2025,169.8
+Energy 9,March 2025,232.7
+Food and energy 9,April 2025,188.7
+Fresh fruit and vegetables,April 2025,168.3
+Energy 9,April 2025,236.0
+Food and energy 9,May 2025,188.8
+Fresh fruit and vegetables,May 2025,169.7
+Energy 9,May 2025,234.7
+Food and energy 9,January 2015,149.3
+Fresh fruit and vegetables,January 2015,147.2
+Energy 9,January 2015,173.7
+Food and energy 9,February 2015,149.1
+Fresh fruit and vegetables,February 2015,149.7
+Energy 9,February 2015,171.3
+Food and energy 9,March 2015,149.6
+Fresh fruit and vegetables,March 2015,148.4
+Energy 9,March 2015,173.7
+Food and energy 9,April 2015,150.0
+Fresh fruit and vegetables,April 2015,149.5
+Energy 9,April 2015,171.9
+Food and energy 9,May 2015,150.0
+Fresh fruit and vegetables,May 2015,139.9
+Energy 9,May 2015,173.4
+Food and energy 9,June 2015,152.8
+Fresh fruit and vegetables,June 2015,139.4
+Energy 9,June 2015,180.1
+Food and energy 9,July 2015,154.2
+Fresh fruit and vegetables,July 2015,141.0
+Energy 9,July 2015,182.8
+Food and energy 9,August 2015,153.8
+Fresh fruit and vegetables,August 2015,137.0
+Energy 9,August 2015,181.7
+Food and energy 9,September 2015,152.3
+Fresh fruit and vegetables,September 2015,139.7
+Energy 9,September 2015,175.8
+Food and energy 9,October 2015,154.2
+Fresh fruit and vegetables,October 2015,145.7
+Energy 9,October 2015,178.3
+Food and energy 9,November 2015,152.0
+Fresh fruit and vegetables,November 2015,148.0
+Energy 9,November 2015,174.6
+Food and energy 9,December 2015,150.0
+Fresh fruit and vegetables,December 2015,151.9
+Energy 9,December 2015,165.4
+Food and energy 9,January 2016,150.2
+Fresh fruit and vegetables,January 2016,161.5
+Energy 9,January 2016,160.9
+Food and energy 9,February 2016,149.6
+Fresh fruit and vegetables,February 2016,167.1
+Energy 9,February 2016,153.8
+Food and energy 9,March 2016,149.3
+Fresh fruit and vegetables,March 2016,163.9
+Energy 9,March 2016,155.9
+Food and energy 9,April 2016,150.5
+Fresh fruit and vegetables,April 2016,159.7
+Energy 9,April 2016,158.7
+Food and energy 9,May 2016,150.0
+Fresh fruit and vegetables,May 2016,154.7
+Energy 9,May 2016,160.8
+Food and energy 9,June 2016,152.6
+Fresh fruit and vegetables,June 2016,151.2
+Energy 9,June 2016,168.4
+Food and energy 9,July 2016,151.9
+Fresh fruit and vegetables,July 2016,156.7
+Energy 9,July 2016,168.0
+Food and energy 9,August 2016,151.0
+Fresh fruit and vegetables,August 2016,151.5
+Energy 9,August 2016,166.2
+Food and energy 9,September 2016,149.9
+Fresh fruit and vegetables,September 2016,141.3
+Energy 9,September 2016,165.2
+Food and energy 9,October 2016,151.1
+Fresh fruit and vegetables,October 2016,138.5
+Energy 9,October 2016,169.3
+Food and energy 9,November 2016,151.9
+Fresh fruit and vegetables,November 2016,150.0
+Energy 9,November 2016,169.3
+Food and energy 9,December 2016,150.1
+Fresh fruit and vegetables,December 2016,153.6
+Energy 9,December 2016,168.9
+Food and energy 9,January 2017,152.5
+Fresh fruit and vegetables,January 2017,156.4
+Energy 9,January 2017,172.6
+Food and energy 9,February 2017,152.1
+Fresh fruit and vegetables,February 2017,146.9
+Energy 9,February 2017,171.2
+Food and energy 9,March 2017,153.7
+Fresh fruit and vegetables,March 2017,155.1
+Energy 9,March 2017,172.3
+Food and energy 9,April 2017,153.7
+Fresh fruit and vegetables,April 2017,156.8
+Energy 9,April 2017,172.5
+Food and energy 9,May 2017,153.6
+Fresh fruit and vegetables,May 2017,161.6
+Energy 9,May 2017,173.0
+Food and energy 9,June 2017,153.9
+Fresh fruit and vegetables,June 2017,160.7
+Energy 9,June 2017,172.7
+Food and energy 9,July 2017,153.1
+Fresh fruit and vegetables,July 2017,165.5
+Energy 9,July 2017,171.1
+Food and energy 9,August 2017,152.8
+Fresh fruit and vegetables,August 2017,163.4
+Energy 9,August 2017,172.0
+Food and energy 9,September 2017,153.6
+Fresh fruit and vegetables,September 2017,162.8
+Energy 9,September 2017,171.7
+Food and energy 9,October 2017,154.5
+Fresh fruit and vegetables,October 2017,164.7
+Energy 9,October 2017,173.3
+Food and energy 9,November 2017,156.9
+Fresh fruit and vegetables,November 2017,159.0
+Energy 9,November 2017,180.9
+Food and energy 9,December 2017,156.6
+Fresh fruit and vegetables,December 2017,157.7
+Energy 9,December 2017,184.4
+Food and energy 9,January 2018,157.8
+Fresh fruit and vegetables,January 2018,161.1
+Energy 9,January 2018,186.1
+Food and energy 9,February 2018,157.9
+Fresh fruit and vegetables,February 2018,159.3
+Energy 9,February 2018,187.5
+Food and energy 9,March 2018,157.3
+Fresh fruit and vegetables,March 2018,160.2
+Energy 9,March 2018,184.9
+Food and energy 9,April 2018,157.9
+Fresh fruit and vegetables,April 2018,160.2
+Energy 9,April 2018,186.9
+Food and energy 9,May 2018,159.0
+Fresh fruit and vegetables,May 2018,159.4
+Energy 9,May 2018,190.9
+Food and energy 9,June 2018,159.8
+Fresh fruit and vegetables,June 2018,168.9
+Energy 9,June 2018,194.3
+Food and energy 9,July 2018,161.0
+Fresh fruit and vegetables,July 2018,169.5
+Energy 9,July 2018,195.0
+Food and energy 9,August 2018,160.3
+Fresh fruit and vegetables,August 2018,169.3
+Energy 9,August 2018,195.0
+Food and energy 9,September 2018,162.1
+Fresh fruit and vegetables,September 2018,163.1
+Energy 9,September 2018,197.0
+Food and energy 9,October 2018,160.0
+Fresh fruit and vegetables,October 2018,158.8
+Energy 9,October 2018,195.7
+Food and energy 9,November 2018,161.3
+Fresh fruit and vegetables,November 2018,165.6
+Energy 9,November 2018,193.8
+Food and energy 9,December 2018,158.0
+Fresh fruit and vegetables,December 2018,173.6
+Energy 9,December 2018,185.5
+Food and energy 9,January 2019,157.0
+Fresh fruit and vegetables,January 2019,175.3
+Energy 9,January 2019,176.8
+Food and energy 9,February 2019,158.6
+Fresh fruit and vegetables,February 2019,168.7
+Energy 9,February 2019,182.6
+Food and energy 9,March 2019,161.1
+Fresh fruit and vegetables,March 2019,171.2
+Energy 9,March 2019,189.0
+Food and energy 9,April 2019,161.2
+Fresh fruit and vegetables,April 2019,170.9
+Energy 9,April 2019,192.2
+Food and energy 9,May 2019,163.5
+Fresh fruit and vegetables,May 2019,171.2
+Energy 9,May 2019,197.0
+Food and energy 9,June 2019,163.3
+Fresh fruit and vegetables,June 2019,184.0
+Energy 9,June 2019,194.1
+Food and energy 9,July 2019,161.9
+Fresh fruit and vegetables,July 2019,182.9
+Energy 9,July 2019,187.2
+Food and energy 9,August 2019,160.5
+Fresh fruit and vegetables,August 2019,177.0
+Energy 9,August 2019,186.0
+Food and energy 9,September 2019,161.3
+Fresh fruit and vegetables,September 2019,172.2
+Energy 9,September 2019,188.4
+Food and energy 9,October 2019,162.3
+Fresh fruit and vegetables,October 2019,163.7
+Energy 9,October 2019,194.4
+Food and energy 9,November 2019,163.6
+Fresh fruit and vegetables,November 2019,180.6
+Energy 9,November 2019,195.7
+Food and energy 9,December 2019,164.7
+Fresh fruit and vegetables,December 2019,181.5
+Energy 9,December 2019,198.4
+Food and energy 9,January 2020,165.8
+Fresh fruit and vegetables,January 2020,195.7
+Energy 9,January 2020,197.0
+Food and energy 9,February 2020,162.4
+Fresh fruit and vegetables,February 2020,188.5
+Energy 9,February 2020,188.3
+Food and energy 9,March 2020,159.7
+Fresh fruit and vegetables,March 2020,185.4
+Energy 9,March 2020,179.1
+Food and energy 9,April 2020,150.3
+Fresh fruit and vegetables,April 2020,166.7
+Energy 9,April 2020,158.6
+Food and energy 9,May 2020,147.8
+Fresh fruit and vegetables,May 2020,167.4
+Energy 9,May 2020,151.5
+Food and energy 9,June 2020,151.6
+Fresh fruit and vegetables,June 2020,171.7
+Energy 9,June 2020,160.3
+Food and energy 9,July 2020,154.6
+Fresh fruit and vegetables,July 2020,177.1
+Energy 9,July 2020,167.6
+Food and energy 9,August 2020,152.2
+Fresh fruit and vegetables,August 2020,164.8
+Energy 9,August 2020,166.5
+Food and energy 9,September 2020,153.4
+Fresh fruit and vegetables,September 2020,168.9
+Energy 9,September 2020,167.3
+Food and energy 9,October 2020,154.1
+Fresh fruit and vegetables,October 2020,165.8
+Energy 9,October 2020,169.3
+Food and energy 9,November 2020,155.0
+Fresh fruit and vegetables,November 2020,169.9
+Energy 9,November 2020,170.8
+Food and energy 9,December 2020,155.6
+Fresh fruit and vegetables,December 2020,174.8
+Energy 9,December 2020,174.7
+Food and energy 9,January 2021,158.3
+Fresh fruit and vegetables,January 2021,175.0
+Energy 9,January 2021,177.3
+Food and energy 9,February 2021,159.0
+Fresh fruit and vegetables,February 2021,171.2
+Energy 9,February 2021,181.2
+Food and energy 9,March 2021,160.4
+Fresh fruit and vegetables,March 2021,170.4
+Energy 9,March 2021,187.8
+Food and energy 9,April 2021,160.6
+Fresh fruit and vegetables,April 2021,162.9
+Energy 9,April 2021,189.0
+Food and energy 9,May 2021,161.9
+Fresh fruit and vegetables,May 2021,155.9
+Energy 9,May 2021,193.1
+Food and energy 9,June 2021,161.6
+Fresh fruit and vegetables,June 2021,155.6
+Energy 9,June 2021,194.1
+Food and energy 9,July 2021,163.9
+Fresh fruit and vegetables,July 2021,160.8
+Energy 9,July 2021,195.3
+Food and energy 9,August 2021,164.1
+Fresh fruit and vegetables,August 2021,162.5
+Energy 9,August 2021,196.5
+Food and energy 9,September 2021,166.2
+Fresh fruit and vegetables,September 2021,158.2
+Energy 9,September 2021,198.1
+Food and energy 9,October 2021,167.8
+Fresh fruit and vegetables,October 2021,155.6
+Energy 9,October 2021,206.9
+Food and energy 9,November 2021,168.7
+Fresh fruit and vegetables,November 2021,164.2
+Energy 9,November 2021,205.2
+Food and energy 9,December 2021,169.6
+Fresh fruit and vegetables,December 2021,174.9
+Energy 9,December 2021,202.4
+Food and energy 9,January 2022,171.6
+Fresh fruit and vegetables,January 2022,169.9
+Energy 9,January 2022,208.0
+Food and energy 9,February 2022,174.8
+Fresh fruit and vegetables,February 2022,170.1
+Energy 9,February 2022,218.1
+Food and energy 9,March 2022,181.6
+Fresh fruit and vegetables,March 2022,178.9
+Energy 9,March 2022,235.3
+Food and energy 9,April 2022,182.7
+Fresh fruit and vegetables,April 2022,175.5
+Energy 9,April 2022,239.6
+Food and energy 9,May 2022,188.5
+Fresh fruit and vegetables,May 2022,178.5
+Energy 9,May 2022,255.4
+Food and energy 9,June 2022,190.5
+Fresh fruit and vegetables,June 2022,179.0
+Energy 9,June 2022,260.9
+Food and energy 9,July 2022,189.7
+Fresh fruit and vegetables,July 2022,178.5
+Energy 9,July 2022,256.9
+Food and energy 9,August 2022,188.4
+Fresh fruit and vegetables,August 2022,177.9
+Energy 9,August 2022,245.7
+Food and energy 9,September 2022,191.2
+Fresh fruit and vegetables,September 2022,192.6
+Energy 9,September 2022,249.3
+Food and energy 9,October 2022,188.7
+Fresh fruit and vegetables,October 2022,183.5
+Energy 9,October 2022,245.5
+Food and energy 9,November 2022,193.0
+Fresh fruit and vegetables,November 2022,198.1
+Energy 9,November 2022,251.7
+Food and energy 9,December 2022,191.4
+Fresh fruit and vegetables,December 2022,208.0
+Energy 9,December 2022,241.3
+Food and energy 9,January 2023,191.8
+Fresh fruit and vegetables,January 2023,210.2
+Energy 9,January 2023,239.1
+Food and energy 9,February 2023,193.9
+Fresh fruit and vegetables,February 2023,206.9
+Energy 9,February 2023,233.4
+Food and energy 9,March 2023,195.6
+Fresh fruit and vegetables,March 2023,213.6
+Energy 9,March 2023,230.7
+Food and energy 9,April 2023,198.7
+Fresh fruit and vegetables,April 2023,203.0
+Energy 9,April 2023,244.3
+Food and energy 9,May 2023,197.0
+Fresh fruit and vegetables,May 2023,207.8
+Energy 9,May 2023,237.0
+Food and energy 9,June 2023,197.4
+Fresh fruit and vegetables,June 2023,214.1
+Energy 9,June 2023,234.7
+Food and energy 9,July 2023,197.9
+Fresh fruit and vegetables,July 2023,198.8
+Energy 9,July 2023,239.2
+Food and energy 9,August 2023,202.8
+Fresh fruit and vegetables,August 2023,204.2
+Energy 9,August 2023,252.2
+Food and energy 9,September 2023,203.4
+Fresh fruit and vegetables,September 2023,206.6
+Energy 9,September 2023,252.2
+Food and energy 9,October 2023,200.6
+Fresh fruit and vegetables,October 2023,199.2
+Energy 9,October 2023,250.8
+Food and energy 9,November 2023,203.8
+Fresh fruit and vegetables,November 2023,206.6
+Energy 9,November 2023,257.3
+Food and energy 9,December 2023,204.8
+Fresh fruit and vegetables,December 2023,216.8
+Energy 9,December 2023,255.0
+Food and energy 9,January 2024,203.5
+Fresh fruit and vegetables,January 2024,220.4
+Energy 9,January 2024,251.5
+Food and energy 9,February 2024,200.5
+Fresh fruit and vegetables,February 2024,221.1
+Energy 9,February 2024,240.8
+Food and energy 9,March 2024,202.7
+Fresh fruit and vegetables,March 2024,220.4
+Energy 9,March 2024,244.2
+Food and energy 9,April 2024,199.5
+Fresh fruit and vegetables,April 2024,212.1
+Energy 9,April 2024,236.3
+Food and energy 9,May 2024,202.1
+Fresh fruit and vegetables,May 2024,218.8
+Energy 9,May 2024,236.4
+Food and energy 9,June 2024,201.0
+Fresh fruit and vegetables,June 2024,212.9
+Energy 9,June 2024,242.3
+Food and energy 9,July 2024,203.4
+Fresh fruit and vegetables,July 2024,206.8
+Energy 9,July 2024,244.0
+Food and energy 9,August 2024,202.4
+Fresh fruit and vegetables,August 2024,209.4
+Energy 9,August 2024,242.9
+Food and energy 9,September 2024,202.9
+Fresh fruit and vegetables,September 2024,205.8
+Energy 9,September 2024,242.7
+Food and energy 9,October 2024,206.0
+Fresh fruit and vegetables,October 2024,212.6
+Energy 9,October 2024,242.3
+Food and energy 9,November 2024,204.9
+Fresh fruit and vegetables,November 2024,203.8
+Energy 9,November 2024,243.8
+Food and energy 9,December 2024,205.7
+Fresh fruit and vegetables,December 2024,219.2
+Energy 9,December 2024,241.7
+Food and energy 9,January 2025,205.3
+Fresh fruit and vegetables,January 2025,222.1
+Energy 9,January 2025,241.8
+Food and energy 9,February 2025,207.8
+Fresh fruit and vegetables,February 2025,224.9
+Energy 9,February 2025,246.0
+Food and energy 9,March 2025,209.1
+Fresh fruit and vegetables,March 2025,216.8
+Energy 9,March 2025,249.8
+Food and energy 9,April 2025,208.0
+Fresh fruit and vegetables,April 2025,219.7
+Energy 9,April 2025,236.9
+Food and energy 9,May 2025,206.3
+Fresh fruit and vegetables,May 2025,220.7
+Energy 9,May 2025,229.8

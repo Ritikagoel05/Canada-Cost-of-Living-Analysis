@@ -76,7 +76,7 @@ Canada-Cost-of-Living-Analysis/
 
 ## 📸 Dashboard Snapshot
 
-> ![Dashboard Preview]([powerbi/dashboard_preview.png](https://github.com/Ritikagoel05/Canada-Cost-of-Living-Analysis/blob/main/images/Screenshot%202025-08-06%20114037.png))
+> ![Dashboard Preview](https://github.com/Ritikagoel05/Canada-Cost-of-Living-Analysis/blob/main/images/Screenshot%202025-08-06%20114037.png)
 
 ---
 

@@ -29,7 +29,7 @@ Canada-Cost-of-Living-Analysis/
 │   └── Cost_of_living.pbix              # Power BI dashboard file
 │
 ├── sql/
-│   └──cpi_database.sqlite                  # Final SQLite database
+│   └──cpi_database.sqlite               # Final SQLite database
 └── README.md                            # Project documentation
 ```
 

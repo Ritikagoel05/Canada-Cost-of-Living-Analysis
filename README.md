@@ -28,7 +28,8 @@ Canada-Cost-of-Living-Analysis/
 ├── powerbi/
 │   └── Cost_of_living.pbix              # Power BI dashboard file
 │
-├── cpi_database.sqlite                  # Final SQLite database
+├── sql/
+│   └──cpi_database.sqlite                  # Final SQLite database
 └── README.md                            # Project documentation
 ```
 
@@ -75,10 +76,7 @@ Canada-Cost-of-Living-Analysis/
 
 ## 📸 Dashboard Snapshot
 
-*(Upload a screenshot to your GitHub repo and link here)*  
-Example:
-
-> ![Dashboard Preview](powerbi/dashboard_preview.png)
+> ![Dashboard Preview]([powerbi/dashboard_preview.png](https://github.com/Ritikagoel05/Canada-Cost-of-Living-Analysis/blob/main/images/Screenshot%202025-08-06%20114037.png))
 
 ---
 
